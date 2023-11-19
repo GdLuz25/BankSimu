@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Definições da Conta</title>
+    <link rel="stylesheet" href="/styles.css">
+    <script src="/handlers.js"></script>
+</head>
+<body>
+    <div id="cx0">
+        <p id="info"></p>
+        <h1>Definições da Conta</h1>
+        <div id="mudarSenha">
+            <p>Mudar Senha</p>
+            <p>
+                Senha Atual:
+                <input type="password" id="senhaAtual">
+            </p>
+            <p>
+                Nova Senha:
+                <input type="password" id="senhaNova">
+            </p>
+            <p>
+                Confirmar Nova Senha:
+                <input type="password" id="senhaNova1">
+            </p>
+            <p>
+                <input type="button" value="Confirmar" onclick="thismudarSenha()">
+            </p>
+
+            <p id="warning"></p>
+        </div>
+
+        <p><input type="button" value="Voltar a Home" onclick="voltar()"></p>
+    </div>
+</body>
+<script>
+    info()
+    
+    function thismudarSenha(){
+        let senhaAtual = document.getElementById("senhaAtual").value
+        let senhaNova = document.getElementById("senhaNova").value
+        let senhaNova1 = document.getElementById("senhaNova1").value
+
+        if (senhaAtual != "" && senhaNova != "" && senhaNova == senhaNova1) mudarSenha(senhaAtual, senhaNova);
+        else document.getElementById("warning").innerHTML = "<b>Verifique os Campos!</b>"
+    }
+</script>
+</html>

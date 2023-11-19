@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SimuBank Root</title>
+    <link rel="stylesheet" href="/styles.css">
+    <script src="/handlers.js"></script>
+</head>
+<body>
+    <div id="cx0">
+        <h1>SimuBank ROOT</h1>
+        <p id="info"></p>
+        <p>
+            <input type="button" value="Criar Pessoa" onclick="criar()">
+            <input type="button" value="Ver Pessoas" onclick="ver()">
+            <input type="button" value="Ver Logs" onclick="logs()">
+            <input type="button" value="System" onclick="conf()">
+        </p>
+        <div id="emprestimos">
+
+        </div>
+        <div id="ativos">
+
+        </div>
+        <div id="BancoStatus">
+
+        </div>
+
+    </div>
+    <script>
+        info()
+
+        function criar() 
+        {
+            pedirPagina("../criar")
+        }
+
+        function conf()
+        {
+            pedirPagina("../config")
+        }
+
+        function logs()
+        {
+            pedirPagina("../logs")
+        }
+
+        function ver()
+        {
+            pedirPagina("../users")
+        }
+
+    </script>
+</body>
+</html>

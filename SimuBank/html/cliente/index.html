@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SimuBank</title>
+    <link rel="stylesheet" href="/styles.css">
+    <script src="/handlers.js"></script>
+</head>
+<body>
+    <div id="cx0">
+        <p id="info"></p>
+        <h1>SimuBank</h1>
+        
+        <p id="bar">
+            <input type="button" value="Levantamento" onclick="pedirPagina('../lev')">
+            <input type="button" value="Tranferencia" onclick="pedirPagina('../transf')">
+            <input type="button" value="Emprestimos" onclick="pedirPagina('../emp')">
+            <input type="button" value="Definições da Conta" onclick="pedirPagina('../def')">
+        </p>
+
+        <div id="saldo">
+            
+        </div>
+
+        <div id="historico">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Num</th>
+                        <th>Numero de Transação</th>
+                        <th>Operação</th>
+                        <th>Quantia</th>
+                    </tr>
+                </thead>
+                <tbody class="history"></tbody>
+            </table>
+        </div>
+
+    </div>
+</body>
+<script>
+    info()
+
+    //mostar Saldo
+    function MostarSaldo()
+    {
+        let div = document.getElementById("saldo")
+        let p = document.createElement("p")
+        let saldo = fazerOperacao("calcularSaldo/").saldo
+        
+
+        p.innerText = `Saldo Disponivel: ${convertor(saldo)}`
+        div.appendChild(p) 
+    }
+
+    MostarSaldo()
+    
+    function history()
+    {
+        //obter dados do servidor
+        let historico = fazerOperacao("getTransactions/").dados
+        historico = historico.split(";")
+        
+        Show_history(historico)
+    }
+    
+    history()
+    
+</script>
+</html>

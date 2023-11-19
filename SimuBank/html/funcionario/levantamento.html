@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SimuBank</title>
+    <link rel="stylesheet" href="/styles.css">
+    <script src="/handlers.js"></script>
+</head>
+<body>
+    <div id="cx0">
+        <p id="info" onload="info()"></p>
+        <h1>Levantamento</h1>
+        
+        <div id="levantamento">
+            <p>
+                <b>Cliente ID:</b>
+                <input type="number" class="clienteID" onmouseleave="validador()">
+            </p>
+            <div class="clientDados">
+            </div>
+            <p>
+                <b>Quantia:</b>
+                <input type="Number" placeholder="$CVE" class="qtd">
+                $
+            </p>
+            <p><input type="button" value="Confirmar" onclick="levantamento()"></p>
+        </div>
+
+        <p><input type="button" value="Voltar" onclick="pedirPagina('../')"></p>
+    </div>
+</body>
+<script>
+    info()
+    dados = [-1]
+    
+    id = document.querySelector(".clienteID")
+    valor = document.querySelector(".qtd")
+    
+    var validador = () => {
+        
+        //validar se é cliente e obter nome
+        dados = fazerOperacao(`getUserDetails/${id.value}`).status.split(",")
+
+        console.log(dados)
+
+        if (dados[2] == "cliente")
+        {
+            let  div = document.querySelector(".clientDados")
+            div.innerHTML = `
+                <p><b>Nome:</b> ${dados[1]}</p>
+                <p><b>NIF:</b> ${dados[6]}</p>
+            `
+        }
+        //caso não for cliente (apagar ecra e mostra erro)
+        else 
+        {
+            let page = document.querySelector("#cx0")
+            page.innerHTML = `<h1>O cliente não Existe!</h1> <p><input type='button' value='Voltar' onclick='pedirPagina("../")'></p>`
+
+        }
+        
+    
+    }
+
+    var warning = () => {
+        let p = document.querySelector(".warning")
+        p.innerHTML = "<p><b>Preencha os DADOS</b></p>"
+    }
+
+    function levantamento()
+    {
+
+        if (dados[0] == -1 || valor.value == 0) return warning;
+
+        let qtd = valor.value
+
+        let div = document.getElementById("levantamento")
+        let nDiv = document.createElement("div")
+        nDiv.id = "levantamento"
+
+        let DIVfn = document.createElement("div")
+        
+        let status = fazerOperacao(`levantamento/${qtd}/${id.value}`).status
+        if (status == "transacaoEfectuada") 
+        {
+            let p0 = document.createElement("p")
+            p0.innerHTML = "<b>Levantamento efectuado com Sucesso</b>"
+            nDiv.appendChild(p0)
+            DIVfn.innerHTML = `<p><b>ID:</b>${dados[0]}</p><p><b>Nome:</b>${dados[1]}</p><p><b>Nif:</b>${dados[6]}</p><p><b>Valor:</b>${qtd}</p>`
+        }
+
+        else DIVfn.innerHTML = "<p><b>O cliente não possui saldo suficiente</b></p>"
+
+        nDiv.appendChild(DIVfn)
+        div.replaceWith(nDiv)
+    }
+</script>
+</html>

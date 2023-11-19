@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SimuBank Funcionario</title>
+    <link rel="stylesheet" href="/styles.css">
+    <script src="/handlers.js"></script>
+</head>
+<body>
+    <div id="cx0">
+        <h1>SimuBank Funcionario</h1>
+        <p id="info"></p>
+
+        <p id="bar">
+            <input type="button" value="Levantamento" id="criarCliente" onclick="pedirPagina('../lev')">
+            <input type="button" value="Criar Cliente" id="criarCliente" onclick="pedirPagina('../criar')">
+            <input type="button" value="Definições da Conta" id="contaDef" onclick="pedirPagina('../contaDef')">
+        </p>
+
+        <h3>Depósito</h3>
+        <div id="transferencia">
+           
+        </div>
+    </div>
+    
+</body>
+<script>
+    info()
+    transferenciaDIV()
+
+</script>
+</html>

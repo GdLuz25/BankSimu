@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="pt-cv">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SimuBank Users</title>
+    <link rel="stylesheet" href="/styles.css">
+    <script src="/handlers.js"></script>
+</head>
+<body>
+    <div id="cx0">
+        <h1>Usuarios SimuBank</h1>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Nome</th>
+                    <th>Tipo</th>
+                    <th> </th>
+                </tr>
+            </thead>
+            <tbody class="data">
+                <script>
+                    let root = document.querySelector("#cx0")
+                    let table = document.querySelector(".data")
+                    let users = fazerOperacao("getUsers/").status
+
+                    //console.log(users);
+                    users = users.split(";")
+
+                    for (let i=1; i < users.length ; i++){
+                        let user = users[i].split(",")
+                        let line = document.createElement("tr")
+                        line.innerHTML = `<td>${user[0]}</td><td>${user[1]}</td><td>${user[2]}</td>`
+                        
+                        //detalhes: enviar id para servidor e retornar menu com mais detalhes
+                        line.innerHTML += `<td><a onclick="getdetalhes(${user[0]})">Detalhes</a></td>`
+
+                        table.appendChild(line)
+                    }
+
+                    //saveUser
+
+                    //deleteUser
+                    function deleteUser(id, nome, tipo)
+                    {
+                        root.innerHTML = ""
+                        document.title = `Deletar Usuário ID${id}`
+
+                        root.innerHTML += `Deseja excluir o ${tipo} ${nome} ID:${id}?`
+
+                        //sim ou cancelar
+                        root.innerHTML += `<p><input type="button" value="Sim" onclick="confDelete(${id})">    <input type="button" value="Cancelar" onclick="pedirPagina('../')"></p>`
+                    }
+
+                    //confirmar delete
+                    function confDelete(id)
+                    {
+                        //fazer operacao
+                        let status = fazerOperacao(`deleteUser/${id}`)
+
+                        root.innerHTML = `<h1>${status.status}  ID:${id}!</h1>`
+                        root.innerHTML += `<p><input type="button" value="Voltar" onclick="pedirPagina('../')"></p>`
+
+                    }
+
+                    function getdetalhes(id)
+                    {
+                        //apagar tela
+                        root.innerHTML = ""
+
+                        //obter dados do servidor
+                        let user = fazerOperacao(`getUserDetails/${id}`).status
+                        
+                        user = user.split(",")
+                        console.log(user)
+
+                        document.title = 'Detalhes de Usuário'
+
+                        //mostar dados
+                            //h1
+                            let h1 = document.createElement("h1")
+                            h1.innerHTML = "Detalhes de Usuario"
+                            root.appendChild(h1)
+
+                            //id
+                            root.innerHTML += `<p>Id: ${id}</p>`
+
+                            //nome 
+                            root.innerHTML += `<p>Nome: <input type="text" class="datain" placeholder="${user[1]}"></p>`
+                            
+                            //tipo
+                            root.innerHTML += `<p>Tipo: ${user[2]}</p>`
+
+                            if (user[2] == "cliente") 
+                            {
+                                //dataAniversario
+                                let dateBirth = user[3].split("/")
+                                dateBirth[1] = ("00" + parseInt(dateBirth[1])).slice(-2)
+                                dateBirth[0] = ("00" + parseInt(dateBirth[0])).slice(-2)
+
+                                root.innerHTML += `<p>Data de Nascimento: <input type="date" format=""dd/MM/yyyy"" value="${dateBirth[2]}-${dateBirth[1]}-${dateBirth[0]}"></p>`
+                                
+                                //cni,
+                                root.innerHTML += `<p>NIF: <input type="Number" class="datain" placeholder="${user[6]}"></p>`
+
+                                //numConta
+                                root.innerHTML += `<p>Numero de Conta: ${user[4]}</p>`
+
+                                //saldo,
+                                root.innerHTML += `<p>Saldo: ${convertor(user[5])}</p>`
+
+
+                            }
+                            else  root.innerHTML += `<p>Id de Conta associada: <input type="Number" class="datain" placeholder="${user[3]}">  <input type="button" value="Detalhes da Conta" onclick="getdetalhes(${user[3]})"></p>`
+
+                            //deletar usuario
+                            root.innerHTML += `<p><input type="button" value="Deletar Usuário" onclick="deleteUser(${user[0]}, '${user[1]}', '${user[2]}')"></p>`
+
+                            //cancelar ou guardar alterações
+                            root.innerHTML += `<p><input type="button" value="Cancelar" onclick="pedirPagina('../users')">    <input type="button" value="Guardar Alterações" onclick="saveUser(${user[0]})"></p>`
+                            
+                            if (data[2] == "cliente")
+                            {
+                                //criar table
+                                let table = document.createElement("table")
+                                table.className = "history"
+                                root.appendChild(table)
+
+                                //obter dados do servidor
+                                let historico = fazerOperacao(`super_getTransactions/${id}`).dados
+                                historico = historico.split(";")
+                                
+                                Show_history(historico)
+
+                            }
+                    }
+                </script>
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>

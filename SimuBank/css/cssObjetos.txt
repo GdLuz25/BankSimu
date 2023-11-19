@@ -1,0 +1,8 @@
+login (id):
+    classes: box0, botao0
+
+funcionario (id):
+    classes: botao1
+
+
+botao1 - menu de opções

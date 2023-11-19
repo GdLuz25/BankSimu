@@ -1,0 +1,1945 @@
+1966,36,Angelica da Luz,cliente,2023/11/19 18:52:25,logou no sistema
+1965,20,Jose Cabel,cliente,2023/11/19 18:52:04,logou no sistema
+1964,20,Jose Cabel,cliente,2023/11/19 18:51:38,logou no sistema
+1963,0,root,root,2023/11/19 18:51:19,logou no sistema
+1962,0,root,root,2023/11/19 18:51:12,logou no sistema
+1961,0,root,root,2023/11/19 18:51:10,logou no sistema
+1960,19,Samuel Moreira,cliente,2023/11/19 18:51:07,Falhou em Calcular Saldo: mais detalhes:java.io.FileNotFoundException: DATA/clientes/19.dat (No such file or directory)
+1959,0,root,root,2023/11/19 18:51:07,logou no sistema
+1958,0,root,root,2023/11/19 18:51:05,logou no sistema
+1957,0,root,root,2023/11/19 18:50:38,logou no sistema
+1956,0,root,root,2023/11/19 18:50:36,logou no sistema
+1955,0,root,root,2023/11/19 18:50:08,logou no sistema
+1954,0,root,root,2023/11/19 18:50:00,logou no sistema
+1953,36,Angelica da Luz,cliente,2023/11/19 18:49:34,logou no sistema
+1952,0,root,root,2023/11/19 18:48:16,logou no sistema
+1951,0,root,root,2023/11/19 18:48:14,logou no sistema
+1950,3,Jorge Rafael,cliente,2023/11/19 18:48:11,Falhou em Calcular Saldo: mais detalhes:java.io.FileNotFoundException: DATA/clientes/3.dat (No such file or directory)
+1949,0,root,root,2023/11/19 18:48:11,logou no sistema
+1948,0,root,root,2023/11/19 18:48:06,logou no sistema
+1947,17,Jose Santos,cliente,2023/11/19 18:48:03,Falhou em Calcular Saldo: mais detalhes:java.io.FileNotFoundException: DATA/clientes/17.dat (No such file or directory)
+1946,0,root,root,2023/11/19 18:48:03,logou no sistema
+1945,0,root,root,2023/11/19 18:48:00,logou no sistema
+1944,18,Tom Silva,cliente,2023/11/19 18:47:56,Falhou em Calcular Saldo: mais detalhes:java.io.FileNotFoundException: DATA/clientes/18.dat (No such file or directory)
+1943,0,root,root,2023/11/19 18:47:56,logou no sistema
+1942,0,root,root,2023/11/19 18:47:54,logou no sistema
+1941,19,Samuel Moreira,cliente,2023/11/19 18:47:50,Falhou em Calcular Saldo: mais detalhes:java.io.FileNotFoundException: DATA/clientes/19.dat (No such file or directory)
+1940,0,root,root,2023/11/19 18:47:49,logou no sistema
+1939,0,root,root,2023/11/19 18:47:45,logou no sistema
+1938,0,root,root,2023/11/19 18:47:23,logou no sistema
+1937,0,root,root,2023/11/19 18:47:20,logou no sistema
+1936,0,root,root,2023/11/19 18:47:16,logou no sistema
+1935,0,root,root,2023/11/19 18:47:09,logou no sistema
+1934,0,root,root,2023/11/19 18:47:03,logou no sistema
+1933,0,root,root,2023/11/19 18:46:59,logou no sistema
+1932,0,root,root,2023/11/19 18:46:31,logou no sistema
+1931,0,root,root,2023/11/19 18:46:27,logou no sistema
+1930,0,root,root,2023/11/19 18:45:37,logou no sistema
+1929,0,root,root,2023/11/19 18:45:35,logou no sistema
+1928,0,root,root,2023/11/19 18:45:31,logou no sistema
+1927,0,root,root,2023/11/19 18:45:27,logou no sistema
+1926,0,root,root,2023/11/19 18:45:21,logou no sistema
+1925,0,root,root,2023/11/19 18:45:12,logou no sistema
+1924,0,root,root,2023/11/19 18:44:58,logou no sistema
+1923,0,root,root,2023/11/19 18:44:55,logou no sistema
+1922,0,root,root,2023/11/19 18:44:51,logou no sistema
+1921,0,root,root,2023/11/19 18:44:47,logou no sistema
+1920,0,root,root,2023/11/19 18:44:42,logou no sistema
+1919,0,root,root,2023/11/19 18:44:37,logou no sistema
+1918,36,Angelica da Luz,cliente,2023/11/19 18:43:19,logou no sistema
+1917,36,Angelica da Luz,cliente,2023/11/19 18:42:59,logou no sistema
+1916,36,Angelica da Luz,cliente,2023/11/19 18:42:05,logou no sistema
+1915,31,Marcia Silva,funcionario,2023/11/19 18:41:48,Deposito de 161000.0 na conta ID36
+1914,31,Marcia Silva,funcionario,2023/11/19 18:41:48,logou no sistema
+1913,36,Angelica da Luz,cliente,2023/11/19 18:41:26,logou no sistema
+1912,31,Marcia Silva,funcionario,2023/11/19 18:40:17,Levantamento de 100000.0 na conta ID36
+1911,31,Marcia Silva,funcionario,2023/11/19 18:40:17,logou no sistema
+1910,31,Marcia Silva,funcionario,2023/11/19 18:40:01,logou no sistema
+1909,31,Marcia Silva,funcionario,2023/11/19 18:39:59,logou no sistema
+1908,31,Marcia Silva,funcionario,2023/11/19 18:39:59,logou no sistema
+1907,31,Marcia Silva,funcionario,2023/11/19 18:39:59,logou no sistema
+1906,31,Marcia Silva,funcionario,2023/11/19 18:39:47,Levantamento de 50000.0 na conta ID36
+1905,31,Marcia Silva,funcionario,2023/11/19 18:39:46,logou no sistema
+1904,31,Marcia Silva,funcionario,2023/11/19 18:39:40,logou no sistema
+1903,31,Marcia Silva,funcionario,2023/11/19 18:39:16,logou no sistema
+1902,31,Marcia Silva,funcionario,2023/11/19 18:39:15,logou no sistema
+1901,31,Marcia Silva,funcionario,2023/11/19 18:39:15,logou no sistema
+1900,31,Marcia Silva,funcionario,2023/11/19 18:39:15,logou no sistema
+1899,31,Marcia Silva,funcionario,2023/11/19 18:38:50,Levantamento de 10000.0 na conta ID36
+1898,31,Marcia Silva,funcionario,2023/11/19 18:38:50,logou no sistema
+1897,31,Marcia Silva,funcionario,2023/11/19 18:38:48,logou no sistema
+1896,31,Marcia Silva,funcionario,2023/11/19 18:38:44,logou no sistema
+1895,31,Marcia Silva,funcionario,2023/11/19 18:38:44,logou no sistema
+1894,31,Marcia Silva,funcionario,2023/11/19 18:38:44,logou no sistema
+1893,31,Marcia Silva,funcionario,2023/11/19 18:38:31,Levantamento de 1000.0 na conta ID36
+1892,31,Marcia Silva,funcionario,2023/11/19 18:38:31,logou no sistema
+1891,31,Marcia Silva,funcionario,2023/11/19 18:38:23,logou no sistema
+1890,31,Marcia Silva,funcionario,2023/11/19 18:38:22,logou no sistema
+1889,31,Marcia Silva,funcionario,2023/11/19 18:37:49,FALHOU Levantamento de 100000.0 na conta ID36
+1888,31,Marcia Silva,funcionario,2023/11/19 18:37:49,logou no sistema
+1887,31,Marcia Silva,funcionario,2023/11/19 18:37:31,logou no sistema
+1886,31,Marcia Silva,funcionario,2023/11/19 18:37:25,logou no sistema
+1885,31,Marcia Silva,funcionario,2023/11/19 18:37:25,logou no sistema
+1884,31,Marcia Silva,funcionario,2023/11/19 18:37:25,logou no sistema
+1883,31,Marcia Silva,funcionario,2023/11/19 18:37:24,logou no sistema
+1882,36,Angelica da Luz,cliente,2023/11/19 18:36:05,logou no sistema
+1881,31,Marcia Silva,funcionario,2023/11/19 18:34:51,Deposito de 1.0E8 na conta ID36
+1880,31,Marcia Silva,funcionario,2023/11/19 18:34:51,logou no sistema
+1879,0,root,root,2023/11/19 18:33:18,logou no sistema
+1878,0,root,root,2023/11/19 18:32:36,logou no sistema
+1877,0,root,root,2023/11/19 18:32:35,logou no sistema
+1876,0,root,root,2023/11/19 18:32:32,logou no sistema
+1875,0,root,root,2023/11/19 18:32:25,logou no sistema
+1874,0,root,root,2023/11/19 18:32:15,logou no sistema
+1873,0,root,root,2023/11/19 18:32:13,logou no sistema
+1872,0,root,root,2023/11/19 18:32:08,logou no sistema
+1871,0,root,root,2023/11/19 18:31:48,logou no sistema
+1870,0,root,root,2023/11/19 18:31:45,logou no sistema
+1869,0,root,root,2023/11/19 18:31:38,logou no sistema
+1868,0,root,root,2023/11/19 18:31:33,logou no sistema
+1867,18,Tom Silva,cliente,2023/11/19 18:31:30,Falhou em Calcular Saldo: mais detalhes:java.io.FileNotFoundException: DATA/clientes/18.dat (No such file or directory)
+1866,0,root,root,2023/11/19 18:31:30,logou no sistema
+1865,0,root,root,2023/11/19 18:31:26,logou no sistema
+1864,3,Jorge Rafael,cliente,2023/11/19 18:31:19,Falhou em Calcular Saldo: mais detalhes:java.io.FileNotFoundException: DATA/clientes/3.dat (No such file or directory)
+1863,0,root,root,2023/11/19 18:31:19,logou no sistema
+1862,0,root,root,2023/11/19 18:31:17,logou no sistema
+1861,0,root,root,2023/11/19 18:31:00,logou no sistema
+1860,0,root,root,2023/11/19 18:30:47,logou no sistema
+1859,0,root,root,2023/11/19 18:30:43,logou no sistema
+1858,0,root,root,2023/11/19 18:30:37,logou no sistema
+1857,0,root,root,2023/11/19 18:29:37,logou no sistema
+1856,36,Angelica da Luz,cliente,2023/11/19 18:29:13,logou no sistema
+1855,36,Angelica da Luz,cliente,2023/11/19 18:29:07,Alterou sua Password
+1854,36,Angelica da Luz,cliente,2023/11/19 18:29:07,logou no sistema
+1853,36,Angelica da Luz,cliente,2023/11/19 18:28:36,logou no sistema
+1852,35,Humberto Silvocas,cliente,2023/11/19 18:28:22,logou no sistema
+1851,35,Humberto Silvocas,cliente,2023/11/19 18:28:21,logou no sistema
+1850,35,Humberto Silvocas,cliente,2023/11/19 18:28:11,logou no sistema
+1849,35,Humberto Silvocas,cliente,2023/11/19 18:28:08,logou no sistema
+1848,35,Humberto Silvocas,cliente,2023/11/19 18:27:56,logou no sistema
+1847,35,Humberto Silvocas,cliente,2023/11/19 18:27:53,logou no sistema
+1846,35,Humberto Silvocas,cliente,2023/11/19 18:27:44,logou no sistema
+1845,35,Humberto Silvocas,cliente,2023/11/19 18:27:42,logou no sistema
+1844,35,Humberto Silvocas,cliente,2023/11/19 18:27:34,logou no sistema
+1843,-1,system,root,2023/11/19 18:27:29,Criando ficheiro: DATA/clientes/36.dat
+1842,35,Humberto Silvocas,cliente,2023/11/19 18:27:29,logou no sistema
+1841,35,Humberto Silvocas,cliente,2023/11/19 18:27:19,logou no sistema
+1840,35,Humberto Silvocas,cliente,2023/11/19 18:27:17,logou no sistema
+1839,35,Humberto Silvocas,cliente,2023/11/19 18:27:07,logou no sistema
+1838,35,Humberto Silvocas,cliente,2023/11/19 18:27:05,logou no sistema
+1837,35,Humberto Silvocas,cliente,2023/11/19 18:26:55,logou no sistema
+1836,35,Humberto Silvocas,cliente,2023/11/19 18:26:49,logou no sistema
+1835,35,Humberto Silvocas,cliente,2023/11/19 18:26:28,logou no sistema
+1834,35,Humberto Silvocas,cliente,2023/11/19 18:26:20,logou no sistema
+1833,35,Humberto Silvocas,cliente,2023/11/19 18:26:01,logou no sistema
+1832,0,root,root,2023/11/19 18:25:45,logou no sistema
+1831,0,root,root,2023/11/19 18:25:37,logou no sistema
+1830,0,root,root,2023/11/19 18:25:14,logou no sistema
+1829,36,Angelica da Luz,cliente,2023/11/19 18:24:51,logou no sistema
+1828,36,Angelica da Luz,cliente,2023/11/19 18:24:51,logou no sistema
+1827,36,Angelica da Luz,cliente,2023/11/19 18:24:50,logou no sistema
+1826,36,Angelica da Luz,cliente,2023/11/19 18:24:50,Falhou em Calcular Saldo: mais detalhes:java.io.FileNotFoundException: DATA/clientes/36.dat (No such file or directory)
+1825,36,Angelica da Luz,cliente,2023/11/19 18:24:33,logou no sistema
+1824,36,Angelica da Luz,cliente,2023/11/19 18:24:33,logou no sistema
+1823,36,Angelica da Luz,cliente,2023/11/19 18:24:33,logou no sistema
+1822,36,Angelica da Luz,cliente,2023/11/19 18:24:33,Falhou em Calcular Saldo: mais detalhes:java.io.FileNotFoundException: DATA/clientes/36.dat (No such file or directory)
+1821,36,Angelica da Luz,cliente,2023/11/19 18:24:31,logou no sistema
+1820,36,Angelica da Luz,cliente,2023/11/19 18:24:31,logou no sistema
+1819,36,Angelica da Luz,cliente,2023/11/19 18:24:31,logou no sistema
+1818,36,Angelica da Luz,cliente,2023/11/19 18:24:31,Falhou em Calcular Saldo: mais detalhes:java.io.FileNotFoundException: DATA/clientes/36.dat (No such file or directory)
+1817,36,Angelica da Luz,cliente,2023/11/19 18:24:19,logou no sistema
+1816,36,Angelica da Luz,cliente,2023/11/19 18:24:19,logou no sistema
+1815,36,Angelica da Luz,cliente,2023/11/19 18:24:19,logou no sistema
+1814,36,Angelica da Luz,cliente,2023/11/19 18:24:19,Falhou em Calcular Saldo: mais detalhes:java.io.FileNotFoundException: DATA/clientes/36.dat (No such file or directory)
+1813,0,root,root,2023/11/19 18:22:29,Criou usuario Angelica da Luz com id: 36
+1812,0,root,root,2023/11/19 18:22:28,logou no sistema
+1811,0,root,root,2023/11/19 18:20:43,logou no sistema
+1810,0,root,root,2023/11/19 18:20:39,logou no sistema
+1809,0,root,root,2023/11/19 18:20:26,logou no sistema
+1808,0,root,root,2023/11/19 18:20:14,logou no sistema
+1807,0,root,root,2023/11/19 18:20:05,logou no sistema
+1806,0,root,root,2023/11/19 18:20:00,logou no sistema
+1805,0,root,root,2023/11/19 18:19:44,logou no sistema
+1804,0,root,root,2023/11/19 18:19:38,logou no sistema
+1803,35,Humberto Silvocas,cliente,2023/05/06 20:48:39,logou no sistema
+1802,35,Humberto Silvocas,cliente,2023/05/06 20:48:38,logou no sistema
+1801,35,Humberto Silvocas,cliente,2023/05/06 20:46:47,logou no sistema
+1800,35,Humberto Silvocas,cliente,2023/05/06 20:46:44,Alterou sua Password
+1799,35,Humberto Silvocas,cliente,2023/05/06 20:46:44,logou no sistema
+1798,35,Humberto Silvocas,cliente,2023/05/06 20:46:27,logou no sistema
+1797,35,Humberto Silvocas,cliente,2023/05/06 20:46:26,logou no sistema
+1796,35,Humberto Silvocas,cliente,2023/05/06 20:46:26,logou no sistema
+1795,35,Humberto Silvocas,cliente,2023/05/06 20:46:22,logou no sistema
+1794,35,Humberto Silvocas,cliente,2023/05/06 20:46:21,logou no sistema
+1793,35,Humberto Silvocas,cliente,2023/05/06 20:46:08,logou no sistema
+1792,22,Jaime Fonseca,cliente,2023/05/06 20:45:47,logou no sistema
+1791,22,Jaime Fonseca,cliente,2023/05/06 20:45:46,logou no sistema
+1790,22,Jaime Fonseca,cliente,2023/05/06 20:45:37,logou no sistema
+1789,22,Jaime Fonseca,cliente,2023/05/06 20:45:36,logou no sistema
+1788,22,Jaime Fonseca,cliente,2023/05/06 20:45:22,logou no sistema
+1787,22,Jaime Fonseca,cliente,2023/05/06 20:45:21,logou no sistema
+1786,22,Jaime Fonseca,cliente,2023/05/06 20:45:02,logou no sistema
+1785,0,root,root,2023/05/06 20:38:51,logou no sistema
+1784,0,root,root,2023/05/06 20:38:36,logou no sistema
+1783,0,root,root,2023/05/06 20:38:33,logou no sistema
+1782,35,Humberto Silvocas,cliente,2023/05/06 20:38:23,logou no sistema
+1781,35,Humberto Silvocas,cliente,2023/05/06 20:38:22,logou no sistema
+1780,35,Humberto Silvocas,cliente,2023/05/06 20:38:21,logou no sistema
+1779,35,Humberto Silvocas,cliente,2023/05/06 20:38:18,logou no sistema
+1778,22,Jaime Fonseca,cliente,2023/05/06 20:38:12,logou no sistema
+1777,22,Jaime Fonseca,cliente,2023/05/06 20:38:11,logou no sistema
+1776,35,Humberto Silvocas,cliente,2023/05/06 20:38:06,logou no sistema
+1775,22,Jaime Fonseca,cliente,2023/05/06 20:37:36,logou no sistema
+1774,22,Jaime Fonseca,cliente,2023/05/06 20:37:35,logou no sistema
+1773,22,Jaime Fonseca,cliente,2023/05/06 20:37:34,logou no sistema
+1772,35,Humberto Silvocas,cliente,2023/05/06 20:37:15,logou no sistema
+1771,-1,system,root,2023/05/06 20:37:13,Criando ficheiro: DATA/clientes/250000.dat
+1770,35,Humberto Silvocas,cliente,2023/05/06 20:37:13,logou no sistema
+1769,35,Humberto Silvocas,cliente,2023/05/06 20:37:05,logou no sistema
+1768,35,Humberto Silvocas,cliente,2023/05/06 20:37:03,logou no sistema
+1767,35,Humberto Silvocas,cliente,2023/05/06 20:36:48,logou no sistema
+1766,22,Jaime Fonseca,cliente,2023/05/06 20:36:37,logou no sistema
+1765,22,Jaime Fonseca,cliente,2023/05/06 20:36:01,logou no sistema
+1764,22,Jaime Fonseca,cliente,2023/05/06 20:36:00,logou no sistema
+1763,22,Jaime Fonseca,cliente,2023/05/06 20:35:57,logou no sistema
+1762,22,Jaime Fonseca,cliente,2023/05/06 20:35:55,logou no sistema
+1761,22,Jaime Fonseca,cliente,2023/05/06 20:35:45,logou no sistema
+1760,35,Humberto Silvocas,cliente,2023/05/06 20:35:07,logou no sistema
+1759,35,Humberto Silvocas,cliente,2023/05/06 20:35:05,logou no sistema
+1758,35,Humberto Silvocas,cliente,2023/05/06 20:34:56,logou no sistema
+1757,35,Humberto Silvocas,cliente,2023/05/06 20:34:55,logou no sistema
+1756,35,Humberto Silvocas,cliente,2023/05/06 20:34:47,logou no sistema
+1755,35,Humberto Silvocas,cliente,2023/05/06 20:34:45,logou no sistema
+1754,35,Humberto Silvocas,cliente,2023/05/06 20:34:33,logou no sistema
+1753,22,Jaime Fonseca,cliente,2023/05/06 20:34:25,logou no sistema
+1752,22,Jaime Fonseca,cliente,2023/05/06 20:34:23,logou no sistema
+1751,22,Jaime Fonseca,cliente,2023/05/06 20:34:07,logou no sistema
+1750,35,Humberto Silvocas,cliente,2023/05/06 20:33:42,logou no sistema
+1749,35,Humberto Silvocas,cliente,2023/05/06 20:33:41,logou no sistema
+1748,35,Humberto Silvocas,cliente,2023/05/06 20:33:32,logou no sistema
+1747,31,Marcia Silva,funcionario,2023/05/06 20:31:29,Criou usuario Humberto Silvocas com id: 35
+1746,31,Marcia Silva,funcionario,2023/05/06 20:31:29,logou no sistema
+1745,31,Marcia Silva,funcionario,2023/05/06 20:30:42,FALHOU Levantamento de 10.0 na conta ID33
+1744,31,Marcia Silva,funcionario,2023/05/06 20:30:41,logou no sistema
+1743,31,Marcia Silva,funcionario,2023/05/06 20:30:38,logou no sistema
+1742,31,Marcia Silva,funcionario,2023/05/06 20:30:35,logou no sistema
+1741,31,Marcia Silva,funcionario,2023/05/06 20:30:35,logou no sistema
+1740,31,Marcia Silva,funcionario,2023/05/06 20:30:35,logou no sistema
+1739,31,Marcia Silva,funcionario,2023/05/06 20:30:31,FALHOU Levantamento de 12.0 na conta ID33
+1738,31,Marcia Silva,funcionario,2023/05/06 20:30:31,logou no sistema
+1737,31,Marcia Silva,funcionario,2023/05/06 20:30:23,logou no sistema
+1736,31,Marcia Silva,funcionario,2023/05/06 20:30:17,FALHOU Levantamento de 1990.0 na conta ID33
+1735,31,Marcia Silva,funcionario,2023/05/06 20:30:17,logou no sistema
+1734,31,Marcia Silva,funcionario,2023/05/06 20:30:13,logou no sistema
+1733,31,Marcia Silva,funcionario,2023/05/06 20:30:10,logou no sistema
+1732,31,Marcia Silva,funcionario,2023/05/06 20:30:10,logou no sistema
+1731,31,Marcia Silva,funcionario,2023/05/06 20:30:10,logou no sistema
+1730,31,Marcia Silva,funcionario,2023/05/06 20:30:08,Deposito de 10.0 na conta ID33
+1729,31,Marcia Silva,funcionario,2023/05/06 20:30:08,logou no sistema
+1728,31,Marcia Silva,funcionario,2023/05/06 20:29:58,FALHOU Levantamento de 15.0 na conta ID33
+1727,31,Marcia Silva,funcionario,2023/05/06 20:29:58,logou no sistema
+1726,31,Marcia Silva,funcionario,2023/05/06 20:29:51,logou no sistema
+1725,31,Marcia Silva,funcionario,2023/05/06 20:29:47,logou no sistema
+1724,31,Marcia Silva,funcionario,2023/05/06 20:29:47,logou no sistema
+1723,31,Marcia Silva,funcionario,2023/05/06 20:29:47,logou no sistema
+1722,31,Marcia Silva,funcionario,2023/05/06 20:29:43,FALHOU Levantamento de 1980.0 na conta ID33
+1721,31,Marcia Silva,funcionario,2023/05/06 20:29:43,logou no sistema
+1720,31,Marcia Silva,funcionario,2023/05/06 20:29:33,logou no sistema
+1719,32,Roberta Portas,cliente,2023/05/06 20:29:22,logou no sistema
+1718,33,Marcos Cabrone,cliente,2023/05/06 20:29:17,logou no sistema
+1717,33,Marcos Cabrone,cliente,2023/05/06 20:28:35,logou no sistema
+1716,33,Marcos Cabrone,cliente,2023/05/06 20:28:33,logou no sistema
+1715,33,Marcos Cabrone,cliente,2023/05/06 20:28:21,logou no sistema
+1714,33,Marcos Cabrone,cliente,2023/05/06 20:28:20,logou no sistema
+1713,33,Marcos Cabrone,cliente,2023/05/06 20:28:08,logou no sistema
+1712,33,Marcos Cabrone,cliente,2023/05/06 20:28:06,logou no sistema
+1711,33,Marcos Cabrone,cliente,2023/05/06 20:27:58,logou no sistema
+1710,33,Marcos Cabrone,cliente,2023/05/06 20:27:56,logou no sistema
+1709,33,Marcos Cabrone,cliente,2023/05/06 20:27:47,logou no sistema
+1708,33,Marcos Cabrone,cliente,2023/05/06 20:27:45,logou no sistema
+1707,33,Marcos Cabrone,cliente,2023/05/06 20:27:30,logou no sistema
+1706,22,Jaime Fonseca,cliente,2023/05/06 20:26:47,logou no sistema
+1705,31,Marcia Silva,funcionario,2023/05/06 20:26:36,Levantamento de 10000.0 na conta ID22
+1704,31,Marcia Silva,funcionario,2023/05/06 20:26:36,logou no sistema
+1703,31,Marcia Silva,funcionario,2023/05/06 20:26:26,logou no sistema
+1702,31,Marcia Silva,funcionario,2023/05/06 20:26:24,logou no sistema
+1701,31,Marcia Silva,funcionario,2023/05/06 20:26:24,logou no sistema
+1700,31,Marcia Silva,funcionario,2023/05/06 20:26:23,logou no sistema
+1699,31,Marcia Silva,funcionario,2023/05/06 20:26:23,logou no sistema
+1698,22,Jaime Fonseca,cliente,2023/05/06 20:26:05,logou no sistema
+1697,22,Jaime Fonseca,cliente,2023/05/06 20:26:04,logou no sistema
+1696,22,Jaime Fonseca,cliente,2023/05/06 20:26:04,logou no sistema
+1695,22,Jaime Fonseca,cliente,2023/05/06 20:26:02,logou no sistema
+1694,22,Jaime Fonseca,cliente,2023/05/06 20:26:00,logou no sistema
+1693,22,Jaime Fonseca,cliente,2023/05/06 20:25:48,logou no sistema
+1692,0,root,root,2023/05/06 20:25:04,logou no sistema
+1691,0,root,root,2023/05/06 20:24:57,logou no sistema
+1690,0,root,root,2023/05/06 20:24:57,logou no sistema
+1689,0,root,root,2023/05/06 20:24:57,logou no sistema
+1688,0,root,root,2023/05/06 20:24:57,logou no sistema
+1687,0,root,root,2023/05/06 20:24:50,logou no sistema
+1686,0,root,root,2023/05/06 20:24:46,logou no sistema
+1685,0,root,root,2023/05/06 20:24:42,logou no sistema
+1684,0,root,root,2023/05/06 20:24:36,logou no sistema
+1683,33,Marcos Cabrone,cliente,2023/01/11 11:30:21,logou no sistema
+1682,32,Roberta Portas,cliente,2023/01/11 11:30:09,logou no sistema
+1681,0,root,root,2023/01/11 11:29:52,logou no sistema
+1680,20,Jose Cabel,cliente,2023/01/11 11:29:00,logou no sistema
+1679,20,Jose Cabel,cliente,2023/01/11 11:27:41,logou no sistema
+1678,0,root,root,2023/01/11 11:27:25,logou no sistema
+1677,20,Jose Cabel,cliente,2023/01/11 11:27:15,logou no sistema
+1676,33,Marcos Cabrone,cliente,2023/01/11 10:50:41,logou no sistema
+1675,32,Roberta Portas,cliente,2023/01/11 10:50:24,logou no sistema
+1674,32,Roberta Portas,cliente,2023/01/11 10:43:49,logou no sistema
+1673,32,Roberta Portas,cliente,2023/01/11 10:43:37,logou no sistema
+1672,32,Roberta Portas,cliente,2023/01/11 10:43:09,logou no sistema
+1671,20,Jose Cabel,cliente,2023/01/11 10:41:34,logou no sistema
+1670,20,Jose Cabel,cliente,2023/01/11 10:41:02,logou no sistema
+1669,20,Jose Cabel,cliente,2023/01/11 10:40:00,logou no sistema
+1668,20,Jose Cabel,cliente,2023/01/11 10:39:50,logou no sistema
+1667,20,Jose Cabel,cliente,2023/01/11 10:23:41,logou no sistema
+1666,33,Marcos Cabrone,cliente,2023/01/11 10:23:23,logou no sistema
+1665,33,Marcos Cabrone,cliente,2023/01/11 10:23:21,logou no sistema
+1664,33,Marcos Cabrone,cliente,2023/01/11 10:23:18,logou no sistema
+1663,33,Marcos Cabrone,cliente,2023/01/11 10:21:53,logou no sistema
+1662,33,Marcos Cabrone,cliente,2023/01/11 10:21:51,logou no sistema
+1661,33,Marcos Cabrone,cliente,2023/01/11 10:21:48,logou no sistema
+1660,33,Marcos Cabrone,cliente,2023/01/11 10:21:45,logou no sistema
+1659,33,Marcos Cabrone,cliente,2023/01/11 10:21:24,logou no sistema
+1658,33,Marcos Cabrone,cliente,2023/01/11 10:21:13,logou no sistema
+1657,34,Marcos Cabrone,funcionario,2023/01/11 10:04:19,Levantamento de 10000.0 na conta ID33
+1656,34,Marcos Cabrone,funcionario,2023/01/11 10:04:19,logou no sistema
+1655,0,root,root,2023/01/11 10:03:51,logou no sistema
+1654,34,Marcos Cabrone,funcionario,2023/01/11 10:03:50,logou no sistema
+1653,34,Marcos Cabrone,funcionario,2023/01/11 10:03:42,Levantamento de 20.0 na conta ID33
+1652,34,Marcos Cabrone,funcionario,2023/01/11 10:03:42,logou no sistema
+1651,34,Marcos Cabrone,funcionario,2023/01/11 10:03:38,logou no sistema
+1650,0,root,root,2023/01/11 10:03:32,logou no sistema
+1649,34,Marcos Cabrone,funcionario,2023/01/11 10:03:27,Deposito de 10000.0 na conta ID33
+1648,34,Marcos Cabrone,funcionario,2023/01/11 10:03:27,logou no sistema
+1647,34,Marcos Cabrone,funcionario,2023/01/11 10:02:59,Levantamento de 100000.0 na conta ID20
+1646,34,Marcos Cabrone,funcionario,2023/01/11 10:02:59,logou no sistema
+1645,34,Marcos Cabrone,funcionario,2023/01/11 10:02:55,logou no sistema
+1644,34,Marcos Cabrone,funcionario,2023/01/11 10:02:48,FALHOU Levantamento de 1000.0 na conta ID33
+1643,34,Marcos Cabrone,funcionario,2023/01/11 10:02:48,logou no sistema
+1642,34,Marcos Cabrone,funcionario,2023/01/11 10:02:45,logou no sistema
+1641,0,root,root,2023/01/11 10:02:14,logou no sistema
+1640,34,Marcos Cabrone,funcionario,2023/01/11 10:01:59,FALHOU Levantamento de 96.0 na conta ID33
+1639,34,Marcos Cabrone,funcionario,2023/01/11 10:01:59,logou no sistema
+1638,34,Marcos Cabrone,funcionario,2023/01/11 10:01:55,logou no sistema
+1637,34,Marcos Cabrone,funcionario,2023/01/11 10:01:49,Deposito de 1000.0 na conta ID33
+1636,34,Marcos Cabrone,funcionario,2023/01/11 10:01:49,logou no sistema
+1635,34,Marcos Cabrone,funcionario,2023/01/11 10:01:39,FALHOU Levantamento de 90.0 na conta ID33
+1634,34,Marcos Cabrone,funcionario,2023/01/11 10:01:39,logou no sistema
+1633,34,Marcos Cabrone,funcionario,2023/01/11 10:01:33,logou no sistema
+1632,0,root,root,2023/01/11 10:01:09,Criou usuario Marcos Cabrone com id: 34
+1631,0,root,root,2023/01/11 10:01:09,logou no sistema
+1630,33,Marcos Cabrone,cliente,2023/01/11 10:00:11,logou no sistema
+1629,33,Marcos Cabrone,cliente,2023/01/11 10:00:09,logou no sistema
+1628,33,Marcos Cabrone,cliente,2023/01/11 09:59:59,logou no sistema
+1627,33,Marcos Cabrone,cliente,2023/01/11 09:59:53,logou no sistema
+1626,33,Marcos Cabrone,cliente,2023/01/11 09:59:33,logou no sistema
+1625,33,Marcos Cabrone,cliente,2023/01/11 09:59:32,logou no sistema
+1624,33,Marcos Cabrone,cliente,2023/01/11 09:59:18,logou no sistema
+1623,33,Marcos Cabrone,cliente,2023/01/11 09:59:16,logou no sistema
+1622,33,Marcos Cabrone,cliente,2023/01/11 09:58:58,logou no sistema
+1621,33,Marcos Cabrone,cliente,2023/01/11 09:58:56,logou no sistema
+1620,33,Marcos Cabrone,cliente,2023/01/11 09:58:31,logou no sistema
+1619,33,Marcos Cabrone,cliente,2023/01/11 09:57:07,logou no sistema
+1618,33,Marcos Cabrone,cliente,2023/01/11 09:57:04,Alterou sua Password
+1617,33,Marcos Cabrone,cliente,2023/01/11 09:57:04,logou no sistema
+1616,33,Marcos Cabrone,cliente,2023/01/11 09:56:35,logou no sistema
+1615,0,root,root,2023/01/11 09:56:10,Criou usuario Marcos Cabrone com id: 33
+1614,0,root,root,2023/01/11 09:56:10,logou no sistema
+1613,0,root,root,2023/01/11 09:54:42,logou no sistema
+1612,0,root,root,2023/01/11 09:54:36,logou no sistema
+1611,0,root,root,2023/01/11 09:53:59,logou no sistema
+1610,0,root,root,2023/01/11 09:53:57,logou no sistema
+1609,20,Jose Cabel,cliente,2023/01/11 09:53:52,logou no sistema
+1608,0,root,root,2023/01/11 09:53:34,logou no sistema
+1607,0,root,root,2023/01/11 09:53:28,logou no sistema
+1606,20,Jose Cabel,cliente,2023/01/11 09:52:59,logou no sistema
+1605,20,Jose Cabel,cliente,2023/01/11 09:52:53,logou no sistema
+1604,0,root,root,2023/01/11 09:52:49,logou no sistema
+1603,0,root,root,2023/01/11 09:52:44,logou no sistema
+1602,20,Jose Cabel,cliente,2023/01/11 09:52:41,logou no sistema
+1601,0,root,root,2023/01/11 09:52:08,logou no sistema
+1600,0,root,root,2023/01/11 09:52:05,logou no sistema
+1599,0,root,root,2023/01/11 09:52:00,logou no sistema
+1598,0,root,root,2023/01/11 09:51:54,logou no sistema
+1597,20,Jose Cabel,cliente,2023/01/11 09:51:47,logou no sistema
+1596,0,root,root,2023/01/11 09:48:37,logou no sistema
+1595,0,root,root,2023/01/11 09:48:24,logou no sistema
+1594,0,root,root,2023/01/11 09:48:05,logou no sistema
+1593,0,root,root,2023/01/11 09:47:59,logou no sistema
+1592,0,root,root,2023/01/11 09:47:52,logou no sistema
+1591,0,root,root,2023/01/11 09:46:54,logou no sistema
+1590,32,Roberta Portas,cliente,2023/01/11 09:44:47,logou no sistema
+1589,31,Marcia Silva,funcionario,2023/01/11 09:44:35,Deposito de 1000.0 na conta ID32
+1588,31,Marcia Silva,funcionario,2023/01/11 09:44:34,logou no sistema
+1587,32,Roberta Portas,cliente,2023/01/11 09:43:33,logou no sistema
+1586,32,Roberta Portas,cliente,2023/01/11 09:43:33,Falhou em Calcular Saldo: mais detalhes:java.lang.ArrayIndexOutOfBoundsException: Index 2 out of bounds for length 1
+1585,32,Roberta Portas,cliente,2023/01/11 09:43:26,logou no sistema
+1584,32,Roberta Portas,cliente,2023/01/11 09:43:26,Falhou em Calcular Saldo: mais detalhes:java.lang.ArrayIndexOutOfBoundsException: Index 2 out of bounds for length 1
+1583,0,root,root,2023/01/11 09:43:01,logou no sistema
+1582,0,root,root,2023/01/11 09:42:31,logou no sistema
+1581,0,root,root,2023/01/11 09:42:24,logou no sistema
+1580,0,root,root,2023/01/11 09:42:18,logou no sistema
+1579,0,root,root,2023/01/11 09:42:12,logou no sistema
+1578,0,root,root,2023/01/11 09:42:07,logou no sistema
+1577,0,root,root,2022/12/21 19:46:36,logou no sistema
+1576,0,root,root,2022/12/21 19:46:32,logou no sistema
+1575,31,Marcia Silva,funcionario,2022/12/21 19:28:34,Levantamento de 500000.0 na conta ID22
+1574,31,Marcia Silva,funcionario,2022/12/21 19:28:34,logou no sistema
+1573,31,Marcia Silva,funcionario,2022/12/21 19:28:28,logou no sistema
+1572,22,Jaime Fonseca,cliente,2022/12/21 19:27:35,logou no sistema
+1571,31,Marcia Silva,funcionario,2022/12/21 19:27:30,Levantamento de 300000.0 na conta ID22
+1570,31,Marcia Silva,funcionario,2022/12/21 19:27:30,logou no sistema
+1569,22,Jaime Fonseca,cliente,2022/12/21 19:27:21,logou no sistema
+1568,31,Marcia Silva,funcionario,2022/12/21 19:27:17,logou no sistema
+1567,31,Marcia Silva,funcionario,2022/12/21 19:27:14,logou no sistema
+1566,31,Marcia Silva,funcionario,2022/12/21 19:25:15,logou no sistema
+1565,31,Marcia Silva,funcionario,2022/12/21 19:25:14,logou no sistema
+1564,31,Marcia Silva,funcionario,2022/12/21 19:25:14,logou no sistema
+1563,31,Marcia Silva,funcionario,2022/12/21 19:25:14,logou no sistema
+1562,31,Marcia Silva,funcionario,2022/12/21 19:24:39,Levantamento de 300000.0 na conta ID22
+1561,31,Marcia Silva,funcionario,2022/12/21 19:24:39,logou no sistema
+1560,31,Marcia Silva,funcionario,2022/12/21 19:24:31,logou no sistema
+1559,22,Jaime Fonseca,cliente,2022/12/21 19:24:11,logou no sistema
+1558,22,Jaime Fonseca,cliente,2022/12/21 19:18:22,logou no sistema
+1557,31,Marcia Silva,funcionario,2022/12/21 19:18:19,logou no sistema
+1556,22,Jaime Fonseca,cliente,2022/12/21 19:17:57,logou no sistema
+1555,31,Marcia Silva,funcionario,2022/12/21 19:17:52,logou no sistema
+1554,22,Jaime Fonseca,cliente,2022/12/21 19:17:38,logou no sistema
+1553,31,Marcia Silva,funcionario,2022/12/21 19:17:28,logou no sistema
+1552,31,Marcia Silva,funcionario,2022/12/21 19:17:25,logou no sistema
+1551,0,root,root,2022/12/21 19:17:20,logou no sistema
+1550,0,root,root,2022/12/21 19:17:14,logou no sistema
+1549,31,Marcia Silva,funcionario,2022/12/21 19:16:58,logou no sistema
+1548,31,Marcia Silva,funcionario,2022/12/21 19:16:57,logou no sistema
+1547,31,Marcia Silva,funcionario,2022/12/21 19:01:43,logou no sistema
+1546,31,Marcia Silva,funcionario,2022/12/21 19:01:29,logou no sistema
+1545,31,Marcia Silva,funcionario,2022/12/21 19:01:29,logou no sistema
+1544,31,Marcia Silva,funcionario,2022/12/21 19:01:29,logou no sistema
+1543,26,Roberto Jesus Carvalho,cliente,2022/12/21 19:01:03,logou no sistema
+1542,31,Marcia Silva,funcionario,2022/12/21 19:00:54,logou no sistema
+1541,26,Roberto Jesus Carvalho,cliente,2022/12/21 19:00:06,logou no sistema
+1540,31,Marcia Silva,funcionario,2022/12/21 19:00:03,logou no sistema
+1539,31,Marcia Silva,funcionario,2022/12/21 19:00:02,logou no sistema
+1538,31,Marcia Silva,funcionario,2022/12/21 19:00:02,logou no sistema
+1537,31,Marcia Silva,funcionario,2022/12/21 19:00:02,logou no sistema
+1536,31,Marcia Silva,funcionario,2022/12/21 19:00:01,logou no sistema
+1535,26,Roberto Jesus Carvalho,cliente,2022/12/21 18:56:09,logou no sistema
+1534,31,Marcia Silva,funcionario,2022/12/21 18:56:03,logou no sistema
+1533,26,Roberto Jesus Carvalho,cliente,2022/12/21 18:51:39,logou no sistema
+1532,31,Marcia Silva,funcionario,2022/12/21 18:51:30,logou no sistema
+1531,26,Roberto Jesus Carvalho,cliente,2022/12/21 18:51:09,logou no sistema
+1530,31,Marcia Silva,funcionario,2022/12/21 18:51:01,logou no sistema
+1529,31,Marcia Silva,funcionario,2022/12/21 18:50:38,logou no sistema
+1528,31,Marcia Silva,funcionario,2022/12/21 18:50:30,logou no sistema
+1527,26,Roberto Jesus Carvalho,cliente,2022/12/21 18:50:09,logou no sistema
+1526,31,Marcia Silva,funcionario,2022/12/21 18:46:05,logou no sistema
+1525,31,Marcia Silva,funcionario,2022/12/21 18:46:04,logou no sistema
+1524,31,Marcia Silva,funcionario,2022/12/21 18:46:04,logou no sistema
+1523,31,Marcia Silva,funcionario,2022/12/21 18:46:04,logou no sistema
+1522,26,Roberto Jesus Carvalho,cliente,2022/12/21 18:39:38,logou no sistema
+1521,31,Marcia Silva,funcionario,2022/12/21 18:39:19,logou no sistema
+1520,31,Marcia Silva,funcionario,2022/12/21 18:39:13,logou no sistema
+1519,31,Marcia Silva,funcionario,2022/12/21 18:38:59,logou no sistema
+1518,31,Marcia Silva,funcionario,2022/12/21 18:38:58,logou no sistema
+1517,31,Marcia Silva,funcionario,2022/12/21 18:38:58,logou no sistema
+1516,26,Roberto Jesus Carvalho,cliente,2022/12/21 18:34:08,logou no sistema
+1515,20,Jose Cabel,cliente,2022/12/21 18:33:35,logou no sistema
+1514,20,Jose Cabel,cliente,2022/12/21 18:33:33,logou no sistema
+1513,20,Jose Cabel,cliente,2022/12/21 18:33:17,logou no sistema
+1512,32,Roberta Portas,cliente,2022/12/21 18:11:27,logou no sistema
+1511,32,Roberta Portas,cliente,2022/12/21 18:09:25,logou no sistema
+1510,32,Roberta Portas,cliente,2022/12/21 18:09:23,logou no sistema
+1509,32,Roberta Portas,cliente,2022/12/21 18:09:15,logou no sistema
+1508,32,Roberta Portas,cliente,2022/12/21 18:09:13,logou no sistema
+1507,32,Roberta Portas,cliente,2022/12/21 18:09:05,logou no sistema
+1506,32,Roberta Portas,cliente,2022/12/21 18:09:02,logou no sistema
+1505,32,Roberta Portas,cliente,2022/12/21 18:05:14,logou no sistema
+1504,31,Marcia Silva,funcionario,2022/12/21 18:04:52,logou no sistema
+1503,31,Marcia Silva,funcionario,2022/12/21 18:04:46,logou no sistema
+1502,31,Marcia Silva,funcionario,2022/12/21 18:04:42,logou no sistema
+1501,31,Marcia Silva,funcionario,2022/12/21 18:04:42,logou no sistema
+1500,31,Marcia Silva,funcionario,2022/12/21 18:04:42,logou no sistema
+1499,32,Roberta Portas,cliente,2022/12/21 18:04:24,logou no sistema
+1498,20,Jose Cabel,cliente,2022/12/21 18:03:50,logou no sistema
+1497,31,Marcia Silva,funcionario,2022/12/21 18:03:37,logou no sistema
+1496,31,Marcia Silva,funcionario,2022/12/21 18:03:32,logou no sistema
+1495,0,root,root,2022/12/21 05:11:24,logou no sistema
+1494,32,Roberta Portas,cliente,2022/12/21 05:11:08,logou no sistema
+1493,32,Roberta Portas,cliente,2022/12/21 05:10:40,logou no sistema
+1492,32,Roberta Portas,cliente,2022/12/21 05:08:39,logou no sistema
+1491,32,Roberta Portas,cliente,2022/12/21 05:08:34,logou no sistema
+1490,32,Roberta Portas,cliente,2022/12/21 05:08:29,logou no sistema
+1489,31,Marcia Silva,funcionario,2022/12/21 05:08:01,logou no sistema
+1488,31,Marcia Silva,funcionario,2022/12/21 05:07:55,logou no sistema
+1487,31,Marcia Silva,funcionario,2022/12/21 05:03:57,logou no sistema
+1486,31,Marcia Silva,funcionario,2022/12/21 05:03:52,logou no sistema
+1485,31,Marcia Silva,funcionario,2022/12/21 05:03:34,logou no sistema
+1484,31,Marcia Silva,funcionario,2022/12/21 05:03:23,logou no sistema
+1483,31,Marcia Silva,funcionario,2022/12/21 05:03:14,logou no sistema
+1482,31,Marcia Silva,funcionario,2022/12/21 05:03:05,logou no sistema
+1481,31,Marcia Silva,funcionario,2022/12/21 05:01:47,logou no sistema
+1480,31,Marcia Silva,funcionario,2022/12/21 05:01:36,logou no sistema
+1479,0,root,root,2022/12/21 05:00:45,logou no sistema
+1478,0,root,root,2022/12/21 05:00:31,logou no sistema
+1477,31,Marcia Silva,funcionario,2022/12/21 05:00:27,logou no sistema
+1476,0,root,root,2022/12/21 05:00:14,logou no sistema
+1475,32,Roberta Portas,cliente,2022/12/21 04:59:59,logou no sistema
+1474,32,Roberta Portas,cliente,2022/12/21 04:59:57,logou no sistema
+1473,31,Marcia Silva,funcionario,2022/12/21 04:56:46,logou no sistema
+1472,31,Marcia Silva,funcionario,2022/12/21 04:56:40,logou no sistema
+1471,31,Marcia Silva,funcionario,2022/12/21 04:56:35,logou no sistema
+1470,31,Marcia Silva,funcionario,2022/12/21 04:56:31,logou no sistema
+1469,31,Marcia Silva,funcionario,2022/12/21 04:55:14,logou no sistema
+1468,32,Roberta Portas,cliente,2022/12/21 04:55:07,logou no sistema
+1467,31,Marcia Silva,funcionario,2022/12/21 04:54:42,logou no sistema
+1466,31,Marcia Silva,funcionario,2022/12/21 04:46:45,logou no sistema
+1465,31,Marcia Silva,funcionario,2022/12/21 04:46:40,logou no sistema
+1464,31,Marcia Silva,funcionario,2022/12/21 04:46:40,logou no sistema
+1463,31,Marcia Silva,funcionario,2022/12/21 04:46:37,logou no sistema
+1462,31,Marcia Silva,funcionario,2022/12/21 04:46:35,logou no sistema
+1461,31,Marcia Silva,funcionario,2022/12/21 04:45:24,logou no sistema
+1460,31,Marcia Silva,funcionario,2022/12/21 04:45:17,logou no sistema
+1459,31,Marcia Silva,funcionario,2022/12/21 04:44:20,logou no sistema
+1458,31,Marcia Silva,funcionario,2022/12/21 04:43:27,logou no sistema
+1457,31,Marcia Silva,funcionario,2022/12/21 04:43:10,logou no sistema
+1456,31,Marcia Silva,funcionario,2022/12/21 04:43:00,logou no sistema
+1455,31,Marcia Silva,funcionario,2022/12/21 04:43:00,logou no sistema
+1454,31,Marcia Silva,funcionario,2022/12/21 04:43:00,logou no sistema
+1453,31,Marcia Silva,funcionario,2022/12/21 04:42:59,logou no sistema
+1452,31,Marcia Silva,funcionario,2022/12/21 04:33:44,logou no sistema
+1451,31,Marcia Silva,funcionario,2022/12/21 04:33:00,logou no sistema
+1450,32,Roberta Portas,cliente,2022/12/21 04:26:09,logou no sistema
+1449,0,root,root,2022/12/21 03:37:02,logou no sistema
+1448,0,root,root,2022/12/21 03:36:59,logou no sistema
+1447,0,root,root,2022/12/21 03:36:26,logou no sistema
+1446,0,root,root,2022/12/21 03:36:24,logou no sistema
+1445,0,root,root,2022/12/21 03:36:22,logou no sistema
+1444,31,Marcia Silva,funcionario,2022/12/21 03:33:28,logou no sistema
+1443,32,Roberta Portas,cliente,2022/12/21 03:32:41,logou no sistema
+1442,32,Roberta Portas,cliente,2022/12/21 03:32:22,logou no sistema
+1441,32,Roberta Portas,cliente,2022/12/21 03:32:18,logou no sistema
+1440,32,Roberta Portas,cliente,2022/12/21 03:32:16,Alterou sua Password
+1439,32,Roberta Portas,cliente,2022/12/21 03:32:16,logou no sistema
+1438,32,Roberta Portas,cliente,2022/12/21 03:31:43,logou no sistema
+1437,31,Marcia Silva,funcionario,2022/12/21 03:30:31,Criou usuario Roberta Portas com id: 32
+1436,31,Marcia Silva,funcionario,2022/12/21 03:30:31,logou no sistema
+1435,0,root,root,2022/12/21 03:28:31,Criou usuario Marcia Silva com id: 31
+1434,0,root,root,2022/12/21 03:28:31,logou no sistema
+1433,0,root,root,2022/12/21 03:26:59,Criou usuario Roberta Portas com id: 38
+1432,0,root,root,2022/12/21 03:26:52,logou no sistema
+1431,0,root,root,2022/12/21 03:25:45,Criou usuario Marcia Silva com id: 37
+1430,0,root,root,2022/12/21 03:24:53,logou no sistema
+1429,0,root,root,2022/12/20 19:19:23,logou no sistema
+1428,-1,system,root,2022/12/20 19:19:07,Criando ficheiro: DATA/clientes/35.dat
+1427,0,root,root,2022/12/20 19:19:07,Criou usuario João Caramelo com id: 35
+1426,0,root,root,2022/12/20 19:19:07,logou no sistema
+1425,-1,system,root,2022/12/20 19:18:59,Criando ficheiro: DATA/clientes/34.dat
+1424,0,root,root,2022/12/20 19:18:59,Criou usuario João Caramelo com id: 34
+1423,0,root,root,2022/12/20 19:18:59,logou no sistema
+1422,-1,system,root,2022/12/20 19:18:33,Criando ficheiro: DATA/clientes/33.dat
+1421,0,root,root,2022/12/20 19:18:33,Criou usuario João Caramelo com id: 33
+1420,0,root,root,2022/12/20 19:18:33,logou no sistema
+1419,-1,system,root,2022/12/20 19:18:25,Criando ficheiro: DATA/clientes/32.dat
+1418,0,root,root,2022/12/20 19:18:25,Criou usuario João Caramelo com id: 32
+1417,0,root,root,2022/12/20 19:13:52,logou no sistema
+1416,-1,system,root,2022/12/20 19:13:21,Criando ficheiro: DATA/clientes/31.dat
+1415,0,root,root,2022/12/20 19:13:21,Criou usuario João Caramelo com id: 31
+1414,0,root,root,2022/12/20 19:13:21,logou no sistema
+1413,0,root,root,2022/12/20 18:21:32,logou no sistema
+1412,0,root,root,2022/12/20 18:18:04,logou no sistema
+1411,0,root,root,2022/12/20 18:16:51,logou no sistema
+1410,0,root,root,2022/12/20 18:15:21,logou no sistema
+1409,0,root,root,2022/12/20 18:12:33,logou no sistema
+1408,0,root,root,2022/12/20 18:10:58,Criou usuario Marcia Silva com id: 35
+1407,0,root,root,2022/12/20 18:10:58,logou no sistema
+1406,0,root,root,2022/12/20 18:06:01,logou no sistema
+1405,0,root,root,2022/12/20 18:04:20,Criou usuario Marcia Silva com id: 33
+1404,0,root,root,2022/12/20 18:04:13,logou no sistema
+1403,0,root,root,2022/12/20 18:02:34,Criou usuario Marcia S com id: 32
+1402,0,root,root,2022/12/20 18:01:28,logou no sistema
+1401,0,root,root,2022/12/20 17:57:46,logou no sistema
+1400,0,root,root,2022/12/20 17:57:24,logou no sistema
+1399,0,root,root,2022/12/20 17:55:41,Criou usuario Joana santos com id: 31
+1398,0,root,root,2022/12/20 17:55:41,logou no sistema
+1397,0,root,root,2022/12/20 17:46:27,Criou usuario Jose Cabel com id: 31
+1396,0,root,root,2022/12/20 17:46:27,logou no sistema
+1395,0,root,root,2022/12/20 17:46:03,logou no sistema
+1394,0,root,root,2022/12/20 17:45:18,logou no sistema
+1393,0,root,root,2022/12/20 17:44:36,logou no sistema
+1392,0,root,root,2022/12/20 17:44:35,logou no sistema
+1391,0,root,root,2022/12/20 17:44:09,logou no sistema
+1390,0,root,root,2022/12/20 17:44:06,logou no sistema
+1389,0,root,root,2022/12/20 17:44:05,logou no sistema
+1388,0,root,root,2022/12/20 17:43:23,logou no sistema
+1387,0,root,root,2022/12/20 17:43:18,logou no sistema
+1386,0,root,root,2022/12/20 17:43:10,logou no sistema
+1385,0,root,root,2022/12/20 17:43:00,logou no sistema
+1384,0,root,root,2022/12/20 17:41:02,logou no sistema
+1383,0,root,root,2022/12/20 17:40:35,logou no sistema
+1382,0,root,root,2022/12/20 17:40:28,logou no sistema
+1381,0,root,root,2022/12/20 17:40:22,logou no sistema
+1380,20,Jose Cabel,cliente,2022/12/20 17:39:14,logou no sistema
+1379,20,Jose Cabel,cliente,2022/12/20 17:39:13,logou no sistema
+1378,20,Jose Cabel,cliente,2022/12/20 17:39:09,logou no sistema
+1377,20,Jose Cabel,cliente,2022/12/20 17:39:02,logou no sistema
+1376,20,Jose Cabel,cliente,2022/12/20 17:38:23,logou no sistema
+1375,20,Jose Cabel,cliente,2022/12/20 17:37:55,logou no sistema
+1374,26,Roberto Jesus Carvalho,cliente,2022/12/20 17:37:26,logou no sistema
+1373,26,Roberto Jesus Carvalho,cliente,2022/12/20 17:37:23,logou no sistema
+1372,26,Roberto Jesus Carvalho,cliente,2022/12/20 17:35:52,logou no sistema
+1371,26,Roberto Jesus Carvalho,cliente,2022/12/20 17:35:37,logou no sistema
+1370,26,Roberto Jesus Carvalho,cliente,2022/12/20 17:35:24,logou no sistema
+1369,23,Raquel Rosario,cliente,2022/12/20 17:35:01,logou no sistema
+1368,26,Roberto Jesus Carvalho,cliente,2022/12/20 17:31:44,logou no sistema
+1367,26,Roberto Jesus Carvalho,cliente,2022/12/20 17:31:43,logou no sistema
+1366,26,Roberto Jesus Carvalho,cliente,2022/12/20 17:31:17,logou no sistema
+1365,26,Roberto Jesus Carvalho,cliente,2022/12/20 17:31:15,logou no sistema
+1364,26,Roberto Jesus Carvalho,cliente,2022/12/20 17:30:51,logou no sistema
+1363,20,Jose Cabel,cliente,2022/12/18 20:11:53,logou no sistema
+1362,26,Roberto Jesus Carvalho,cliente,2022/12/18 20:11:40,logou no sistema
+1361,26,Roberto Jesus Carvalho,cliente,2022/12/18 20:11:38,logou no sistema
+1360,26,Roberto Jesus Carvalho,cliente,2022/12/18 20:11:13,logou no sistema
+1359,20,Jose Cabel,cliente,2022/12/18 20:11:06,logou no sistema
+1358,20,Jose Cabel,cliente,2022/12/18 20:11:05,logou no sistema
+1357,20,Jose Cabel,cliente,2022/12/18 20:10:11,logou no sistema
+1356,26,Roberto Jesus Carvalho,cliente,2022/12/18 20:09:36,logou no sistema
+1355,26,Roberto Jesus Carvalho,cliente,2022/12/18 20:09:34,logou no sistema
+1354,26,Roberto Jesus Carvalho,cliente,2022/12/18 20:09:08,logou no sistema
+1353,26,Roberto Jesus Carvalho,cliente,2022/12/18 20:09:06,logou no sistema
+1352,26,Roberto Jesus Carvalho,cliente,2022/12/18 20:08:38,logou no sistema
+1351,20,Jose Cabel,cliente,2022/12/18 20:08:22,logou no sistema
+1350,20,Jose Cabel,cliente,2022/12/18 20:08:19,logou no sistema
+1349,20,Jose Cabel,cliente,2022/12/18 20:07:32,logou no sistema
+1348,26,Roberto Jesus Carvalho,cliente,2022/12/18 20:07:09,logou no sistema
+1347,26,Roberto Jesus Carvalho,cliente,2022/12/18 20:06:56,logou no sistema
+1346,26,Roberto Jesus Carvalho,cliente,2022/12/18 20:06:51,logou no sistema
+1345,26,Roberto Jesus Carvalho,cliente,2022/12/18 20:06:35,logou no sistema
+1344,26,Roberto Jesus Carvalho,cliente,2022/12/18 20:06:32,logou no sistema
+1343,26,Roberto Jesus Carvalho,cliente,2022/12/18 20:06:15,logou no sistema
+1342,20,Jose Cabel,cliente,2022/12/18 20:05:19,logou no sistema
+1341,20,Jose Cabel,cliente,2022/12/18 20:03:49,logou no sistema
+1340,0,root,root,2022/12/18 20:03:35,logou no sistema
+1339,0,root,root,2022/12/18 19:35:38,logou no sistema
+1338,0,root,root,2022/12/18 19:35:22,logou no sistema
+1337,0,root,root,2022/12/18 19:34:18,logou no sistema
+1336,26,Roberto Jesus Carvalho,cliente,2022/12/18 19:34:07,logou no sistema
+1335,26,Roberto Jesus Carvalho,cliente,2022/12/18 19:34:05,Alteração do nome de Roberto Jesus Carvalho para Roberto Jesus Carvalho e email de carjesus.55@gmail.com para carvjesus.56@gmail.com
+1334,26,Roberto Jesus Carvalho,cliente,2022/12/18 19:34:05,logou no sistema
+1333,26,Roberto Jesus Carvalho,cliente,2022/12/18 19:33:49,logou no sistema
+1332,0,root,root,2022/12/18 19:33:33,logou no sistema
+1331,0,root,root,2022/12/18 19:31:40,logou no sistema
+1330,0,root,root,2022/12/18 19:11:47,logou no sistema
+1329,0,root,root,2022/12/18 19:07:25,logou no sistema
+1328,0,root,root,2022/12/18 19:07:11,logou no sistema
+1327,0,root,root,2022/12/18 19:07:08,logou no sistema
+1326,0,root,root,2022/12/18 19:05:54,logou no sistema
+1325,0,root,root,2022/12/18 19:05:54,logou no sistema
+1324,0,root,root,2022/12/18 19:05:51,logou no sistema
+1323,0,root,root,2022/12/18 19:05:39,logou no sistema
+1322,0,root,root,2022/12/18 19:05:34,logou no sistema
+1321,0,root,root,2022/12/18 19:05:30,logou no sistema
+1320,0,root,root,2022/12/18 19:05:23,logou no sistema
+1319,0,root,root,2022/12/18 19:05:20,logou no sistema
+1318,0,root,root,2022/12/18 19:05:11,logou no sistema
+1317,0,root,root,2022/12/18 19:05:08,logou no sistema
+1316,0,root,root,2022/12/18 19:05:06,logou no sistema
+1315,0,root,root,2022/12/18 19:05:04,logou no sistema
+1314,0,root,root,2022/12/18 19:04:57,logou no sistema
+1313,0,root,root,2022/12/18 19:04:49,logou no sistema
+1312,0,root,root,2022/12/18 19:04:38,logou no sistema
+1311,0,root,root,2022/12/18 19:04:35,logou no sistema
+1310,29,Eunislau Fonseca,cliente,2022/12/18 19:04:21,logou no sistema
+1309,29,Eunislau Fonseca,cliente,2022/12/18 19:04:19,Alteração do nome de Eunislau Fonseca para Eunislau Fonseca e email de eusca@hotmail.com para eunis.ca@hotmail.com
+1308,29,Eunislau Fonseca,cliente,2022/12/18 19:04:19,logou no sistema
+1307,29,Eunislau Fonseca,cliente,2022/12/18 19:03:56,logou no sistema
+1306,20,Jose Cabel,cliente,2022/12/18 19:03:50,logou no sistema
+1305,20,Jose Cabel,cliente,2022/12/18 19:03:39,logou no sistema
+1304,20,Jose Cabel,cliente,2022/12/18 19:03:28,logou no sistema
+1303,20,Jose Cabel,cliente,2022/12/18 19:03:25,logou no sistema
+1302,20,Jose Cabel,cliente,2022/12/18 19:03:23,logou no sistema
+1301,20,Jose Cabel,cliente,2022/12/18 19:02:51,logou no sistema
+1300,20,Jose Cabel,cliente,2022/12/18 19:02:49,logou no sistema
+1299,20,Jose Cabel,cliente,2022/12/18 19:02:31,logou no sistema
+1298,29,Eunislau Fonseca,cliente,2022/12/18 19:02:10,logou no sistema
+1297,0,root,root,2022/12/18 18:28:48,logou no sistema
+1296,0,root,root,2022/12/18 18:28:46,logou no sistema
+1295,0,root,root,2022/12/18 18:28:33,logou no sistema
+1294,0,root,root,2022/12/18 18:28:29,logou no sistema
+1293,0,root,root,2022/12/18 18:26:25,logou no sistema
+1292,0,root,root,2022/12/18 18:26:23,logou no sistema
+1291,0,root,root,2022/12/18 18:24:27,logou no sistema
+1290,0,root,root,2022/12/18 18:24:24,logou no sistema
+1289,3,Jorge Rafael,cliente,2022/12/18 18:24:15,Falhou em Calcular Saldo: mais detalhes:java.io.FileNotFoundException: DATA\clientes\3.dat (O sistema não conseguiu localizar o ficheiro especificado)
+1288,0,root,root,2022/12/18 18:24:15,logou no sistema
+1287,0,root,root,2022/12/18 18:24:14,logou no sistema
+1286,3,Jorge Rafael,cliente,2022/12/18 18:22:04,Falhou em Calcular Saldo: mais detalhes:java.io.FileNotFoundException: DATA\clientes\3.dat (O sistema não conseguiu localizar o ficheiro especificado)
+1285,0,root,root,2022/12/18 18:22:04,logou no sistema
+1284,3,Jorge Rafael,cliente,2022/12/18 18:22:04,Falhou em Calcular Saldo: mais detalhes:java.io.FileNotFoundException: DATA\clientes\3.dat (O sistema não conseguiu localizar o ficheiro especificado)
+1283,0,root,root,2022/12/18 18:22:04,logou no sistema
+1282,3,Jorge Rafael,cliente,2022/12/18 18:22:04,Falhou em Calcular Saldo: mais detalhes:java.io.FileNotFoundException: DATA\clientes\3.dat (O sistema não conseguiu localizar o ficheiro especificado)
+1281,0,root,root,2022/12/18 18:22:04,logou no sistema
+1280,3,Jorge Rafael,cliente,2022/12/18 18:22:04,Falhou em Calcular Saldo: mais detalhes:java.io.FileNotFoundException: DATA\clientes\3.dat (O sistema não conseguiu localizar o ficheiro especificado)
+1279,0,root,root,2022/12/18 18:22:04,logou no sistema
+1278,0,root,root,2022/12/18 18:22:02,logou no sistema
+1277,3,Jorge Rafael,cliente,2022/12/18 18:20:27,Falhou em Calcular Saldo: mais detalhes:java.io.FileNotFoundException: DATA\clientes\3.dat (O sistema não conseguiu localizar o ficheiro especificado)
+1276,0,root,root,2022/12/18 18:20:27,logou no sistema
+1275,3,Jorge Rafael,cliente,2022/12/18 18:20:27,Falhou em Calcular Saldo: mais detalhes:java.io.FileNotFoundException: DATA\clientes\3.dat (O sistema não conseguiu localizar o ficheiro especificado)
+1274,0,root,root,2022/12/18 18:20:27,logou no sistema
+1273,3,Jorge Rafael,cliente,2022/12/18 18:20:27,Falhou em Calcular Saldo: mais detalhes:java.io.FileNotFoundException: DATA\clientes\3.dat (O sistema não conseguiu localizar o ficheiro especificado)
+1272,0,root,root,2022/12/18 18:20:27,logou no sistema
+1271,3,Jorge Rafael,cliente,2022/12/18 18:20:27,Falhou em Calcular Saldo: mais detalhes:java.io.FileNotFoundException: DATA\clientes\3.dat (O sistema não conseguiu localizar o ficheiro especificado)
+1270,0,root,root,2022/12/18 18:20:27,logou no sistema
+1269,0,root,root,2022/12/18 18:20:26,logou no sistema
+1268,20,Jose Cabel,cliente,2022/12/18 18:20:20,logou no sistema
+1267,20,Jose Cabel,cliente,2022/12/18 17:48:23,logou no sistema
+1266,20,Jose Cabel,cliente,2022/12/18 17:48:06,logou no sistema
+1265,20,Jose dos Santos Cabel,cliente,2022/12/18 17:48:03,logou no sistema
+1264,20,Jose dos Santos Cabel,cliente,2022/12/18 17:47:18,logou no sistema
+1263,20,Jose dos Santos Cabel,cliente,2022/12/18 17:43:19,logou no sistema
+1262,20,Jose dos Santos Cabel,cliente,2022/12/18 17:43:17,logou no sistema
+1261,20,Jose dos Santos Cabel,cliente,2022/12/18 17:42:51,logou no sistema
+1260,26,Roberto Jesus Carvalho,cliente,2022/12/18 17:40:38,logou no sistema
+1259,26,Roberto Jesus Carvalho,cliente,2022/12/18 17:40:34,logou no sistema
+1258,26,Roberto Jesus Carvalho,cliente,2022/12/18 17:40:32,logou no sistema
+1257,26,Roberto Jesus Carvalho,cliente,2022/12/18 17:40:24,logou no sistema
+1256,26,Roberto Jesus Carvalho,cliente,2022/12/18 17:40:21,logou no sistema
+1255,26,Roberto Jesus Carvalho,cliente,2022/12/18 17:38:52,logou no sistema
+1254,26,Roberto Jesus Carvalho,cliente,2022/12/18 17:38:50,logou no sistema
+1253,26,Roberto Jesus Carvalho,cliente,2022/12/18 17:33:41,logou no sistema
+1252,26,Roberto Jesus Carvalho,cliente,2022/12/18 17:33:34,logou no sistema
+1251,26,Roberto Jesus Carvalho,cliente,2022/12/18 17:33:27,logou no sistema
+1250,26,Roberto Jesus Carvalho,cliente,2022/12/18 17:33:00,logou no sistema
+1249,3,Jorge Rafael,cliente,2022/12/18 17:32:46,Falhou em Calcular Saldo: mais detalhes:java.io.FileNotFoundException: DATA\clientes\3.dat (O sistema não conseguiu localizar o ficheiro especificado)
+1248,0,root,root,2022/12/18 17:32:46,logou no sistema
+1247,3,Jorge Rafael,cliente,2022/12/18 17:32:46,Falhou em Calcular Saldo: mais detalhes:java.io.FileNotFoundException: DATA\clientes\3.dat (O sistema não conseguiu localizar o ficheiro especificado)
+1246,0,root,root,2022/12/18 17:32:46,logou no sistema
+1245,0,root,root,2022/12/18 17:32:40,logou no sistema
+1244,3,Jorge Rafael,cliente,2022/12/18 17:32:21,Falhou em Calcular Saldo: mais detalhes:java.io.FileNotFoundException: DATA\clientes\3.dat (O sistema não conseguiu localizar o ficheiro especificado)
+1243,0,root,root,2022/12/18 17:32:20,logou no sistema
+1242,3,Jorge Rafael,cliente,2022/12/18 17:32:20,Falhou em Calcular Saldo: mais detalhes:java.io.FileNotFoundException: DATA\clientes\3.dat (O sistema não conseguiu localizar o ficheiro especificado)
+1241,0,root,root,2022/12/18 17:32:20,logou no sistema
+1240,0,root,root,2022/12/18 17:32:19,logou no sistema
+1239,26,Roberto Jesus Carvalho,cliente,2022/12/18 13:44:24,logou no sistema
+1238,26,Roberto Jesus Carvalho,cliente,2022/12/18 13:44:23,logou no sistema
+1237,26,Roberto Jesus Carvalho,cliente,2022/12/18 13:44:11,logou no sistema
+1236,26,Roberto Jesus Carvalho,cliente,2022/12/18 13:44:11,logou no sistema
+1235,0,root,root,2022/12/18 13:34:59,logou no sistema
+1234,3,Jorge Rafael,cliente,2022/12/18 13:33:52,Falhou em Calcular Saldo: mais detalhes:java.io.FileNotFoundException: DATA\clientes\3.dat (O sistema não conseguiu localizar o ficheiro especificado)
+1233,3,Jorge Rafael,cliente,2022/12/18 13:33:52,logou no sistema
+1232,0,root,root,2022/12/18 13:33:52,logou no sistema
+1231,0,root,root,2022/12/18 13:33:35,logou no sistema
+1230,29,Eunislau Fonseca,cliente,2022/12/18 13:27:34,logou no sistema
+1229,29,Eunislau Fonseca,cliente,2022/12/18 13:27:34,logou no sistema
+1228,24,Raquel Rosario,funcionario,2022/12/18 13:27:32,logou no sistema
+1227,29,Eunislau Fonseca,cliente,2022/12/18 13:27:09,logou no sistema
+1226,29,Eunislau Fonseca,cliente,2022/12/18 13:27:09,logou no sistema
+1225,24,Raquel Rosario,funcionario,2022/12/18 13:26:33,logou no sistema
+1224,25,Maria ROsana,cliente,2022/12/18 13:26:02,logou no sistema
+1223,25,Maria ROsana,cliente,2022/12/18 13:26:02,logou no sistema
+1222,30,Gabriel da Luz,cliente,2022/12/18 13:08:01,logou no sistema
+1221,30,Gabriel da Luz,cliente,2022/12/18 13:07:49,logou no sistema
+1220,30,Gabriel da Luz,cliente,2022/12/18 13:07:48,logou no sistema
+1219,-1,system,root,2022/12/18 13:07:09,Criando ficheiro: DATA/clientes/30.dat
+1218,0,root,root,2022/12/18 13:07:09,Criou usuario Gabriel da Luz com id: 30
+1217,0,root,root,2022/12/18 13:07:09,logou no sistema
+1216,29,Eunislau Fonseca,cliente,2022/12/18 13:05:49,logou no sistema
+1215,29,Eunislau Fonseca,cliente,2022/12/18 13:05:49,logou no sistema
+1214,29,Eunislau Fonseca,cliente,2022/12/18 13:05:47,logou no sistema
+1213,29,Eunislau Fonseca,cliente,2022/12/18 13:05:31,logou no sistema
+1212,29,Eunislau Fonseca,cliente,2022/12/18 13:05:31,logou no sistema
+1211,0,root,root,2022/12/18 13:05:08,logou no sistema
+1210,-1,system,root,2022/12/18 13:04:52,Criando ficheiro: DATA/clientes/29.dat
+1209,0,root,root,2022/12/18 13:04:52,Criou usuario Eunislau Fonseca com id: 29
+1208,0,root,root,2022/12/18 13:04:52,logou no sistema
+1207,0,root,root,2022/12/18 13:04:30,logou no sistema
+1206,0,root,root,2022/12/18 13:02:41,removeu usuario Eunislau Fonseca:id:109
+1205,0,root,root,2022/12/18 13:02:41,logou no sistema
+1204,109,Eunislau Fonseca,cliente,2022/12/18 13:02:38,logou no sistema
+1203,0,root,root,2022/12/18 13:02:38,logou no sistema
+1202,0,root,root,2022/12/18 13:02:35,logou no sistema
+1201,20,Jose dos Santos Cabel,cliente,2022/12/18 13:02:05,logou no sistema
+1200,20,Jose dos Santos Cabel,cliente,2022/12/18 13:02:05,logou no sistema
+1199,109,Eunislau Fonseca,cliente,2022/12/18 13:01:52,logou no sistema
+1198,109,Eunislau Fonseca,cliente,2022/12/18 13:01:52,logou no sistema
+1197,109,Eunislau Fonseca,cliente,2022/12/18 13:01:50,logou no sistema
+1196,109,Eunislau Fonseca,cliente,2022/12/18 13:01:49,logou no sistema
+1195,109,Eunislau Fonseca,cliente,2022/12/18 13:01:48,logou no sistema
+1194,109,Eunislau Fonseca,cliente,2022/12/18 13:01:47,logou no sistema
+1193,109,Eunislau Fonseca,cliente,2022/12/18 13:01:45,logou no sistema
+1192,109,Eunislau Fonseca,cliente,2022/12/18 13:01:45,logou no sistema
+1191,109,Eunislau Fonseca,cliente,2022/12/18 13:01:41,logou no sistema
+1190,109,Eunislau Fonseca,cliente,2022/12/18 13:01:41,logou no sistema
+1189,109,Eunislau Fonseca,cliente,2022/12/18 13:01:38,logou no sistema
+1188,109,Eunislau Fonseca,cliente,2022/12/18 13:01:38,logou no sistema
+1187,109,Eunislau Fonseca,cliente,2022/12/18 13:01:36,logou no sistema
+1186,109,Eunislau Fonseca,cliente,2022/12/18 13:01:36,logou no sistema
+1185,109,Eunislau Fonseca,cliente,2022/12/18 13:01:23,logou no sistema
+1184,109,Eunislau Fonseca,cliente,2022/12/18 13:01:23,logou no sistema
+1183,109,Eunislau Fonseca,cliente,2022/12/18 13:00:58,logou no sistema
+1182,109,Eunislau Fonseca,cliente,2022/12/18 13:00:40,logou no sistema
+1181,109,Eunislau Fonseca,cliente,2022/12/18 13:00:38,logou no sistema
+1180,109,Eunislau Fonseca,cliente,2022/12/18 13:00:27,logou no sistema
+1179,109,Eunislau Fonseca,cliente,2022/12/18 13:00:04,logou no sistema
+1178,109,Eunislau Fonseca,cliente,2022/12/18 13:00:02,logou no sistema
+1177,25,Maria ROsana,cliente,2022/12/18 12:50:07,logou no sistema
+1176,25,Maria ROsana,cliente,2022/12/18 12:50:07,logou no sistema
+1175,109,Eunislau Fonseca,cliente,2022/12/18 12:50:00,logou no sistema
+1174,109,Eunislau Fonseca,cliente,2022/12/18 12:49:59,logou no sistema
+1173,109,Eunislau Fonseca,cliente,2022/12/18 12:49:52,logou no sistema
+1172,109,Eunislau Fonseca,cliente,2022/12/18 12:49:52,logou no sistema
+1171,20,Jose dos Santos Cabel,cliente,2022/12/18 12:48:36,logou no sistema
+1170,20,Jose dos Santos Cabel,cliente,2022/12/18 12:48:35,logou no sistema
+1169,20,Jose dos Santos Cabel,cliente,2022/12/18 12:48:35,logou no sistema
+1168,20,Jose dos Santos Cabel,cliente,2022/12/18 12:48:23,logou no sistema
+1167,20,Jose dos Santos Cabel,cliente,2022/12/18 12:48:22,logou no sistema
+1166,109,Eunislau Fonseca,cliente,2022/12/18 12:48:06,logou no sistema
+1165,109,Eunislau Fonseca,cliente,2022/12/18 12:48:06,logou no sistema
+1164,109,Eunislau Fonseca,cliente,2022/12/18 12:48:05,logou no sistema
+1163,20,Jose dos Santos Cabel,cliente,2022/12/18 12:47:59,logou no sistema
+1162,20,Jose dos Santos Cabel,cliente,2022/12/18 12:47:59,logou no sistema
+1161,109,Eunislau Fonseca,cliente,2022/12/18 12:47:51,logou no sistema
+1160,109,Eunislau Fonseca,cliente,2022/12/18 12:47:48,logou no sistema
+1159,20,Jose dos Santos Cabel,cliente,2022/12/18 12:47:32,logou no sistema
+1158,20,Jose dos Santos Cabel,cliente,2022/12/18 12:47:32,logou no sistema
+1157,109,Eunislau Fonseca,cliente,2022/12/18 12:46:15,logou no sistema
+1156,109,Eunislau Fonseca,cliente,2022/12/18 12:46:15,logou no sistema
+1155,0,root,root,2022/12/18 12:46:05,logou no sistema
+1154,109,Eunislau Fonseca,cliente,2022/12/18 12:45:24,logou no sistema
+1153,109,Eunislau Fonseca,cliente,2022/12/18 12:45:22,logou no sistema
+1152,109,Eunislau Fonseca,cliente,2022/12/18 12:45:21,logou no sistema
+1151,109,Eunislau Fonseca,cliente,2022/12/18 12:45:18,logou no sistema
+1150,109,Eunislau Fonseca,cliente,2022/12/18 12:45:16,logou no sistema
+1149,109,Eunislau Fonseca,cliente,2022/12/18 12:45:14,logou no sistema
+1148,109,Eunislau Fonseca,cliente,2022/12/18 12:45:12,logou no sistema
+1147,109,Eunislau Fonseca,cliente,2022/12/18 12:45:11,logou no sistema
+1146,109,Eunislau Fonseca,cliente,2022/12/18 12:45:09,logou no sistema
+1145,109,Eunislau Fonseca,cliente,2022/12/18 12:45:07,logou no sistema
+1144,109,Eunislau Fonseca,cliente,2022/12/18 12:44:53,logou no sistema
+1143,109,Eunislau Fonseca,cliente,2022/12/18 12:44:51,logou no sistema
+1142,109,Eunislau Fonseca,cliente,2022/12/18 12:44:11,logou no sistema
+1141,109,Eunislau Fonseca,cliente,2022/12/18 12:44:11,logou no sistema
+1140,109,Eunislau Fonseca,cliente,2022/12/18 12:44:11,logou no sistema
+1139,109,Eunislau Fonseca,cliente,2022/12/18 12:43:48,logou no sistema
+1138,109,Eunislau Fonseca,cliente,2022/12/18 12:43:45,logou no sistema
+1137,109,Eunislau Fonseca,cliente,2022/12/18 12:43:44,logou no sistema
+1136,109,Eunislau Fonseca,cliente,2022/12/18 12:43:43,logou no sistema
+1135,109,Eunislau Fonseca,cliente,2022/12/18 12:43:16,logou no sistema
+1134,109,Eunislau Fonseca,cliente,2022/12/18 12:43:12,logou no sistema
+1133,0,root,root,2022/12/18 12:41:49,logou no sistema
+1132,27,Marcia Silva,cliente,2022/12/18 12:41:37,logou no sistema
+1131,0,root,root,2022/12/18 12:41:33,logou no sistema
+1130,0,root,root,2022/12/18 12:40:10,logou no sistema
+1129,0,root,root,2022/12/18 12:39:46,logou no sistema
+1128,0,root,root,2022/12/18 12:39:35,logou no sistema
+1127,109,Eunislau Fonseca,cliente,2022/12/18 12:38:08,logou no sistema
+1126,0,root,root,2022/12/18 12:38:08,logou no sistema
+1125,0,root,root,2022/12/18 12:38:00,logou no sistema
+1124,0,root,root,2022/12/18 12:36:00,logou no sistema
+1123,0,root,root,2022/12/18 12:35:59,logou no sistema
+1122,0,root,root,2022/12/18 12:35:59,logou no sistema
+1121,0,root,root,2022/12/18 12:35:57,logou no sistema
+1120,0,root,root,2022/12/18 12:35:41,logou no sistema
+1119,0,root,root,2022/12/18 12:34:51,logou no sistema
+1118,0,root,root,2022/12/18 12:34:42,logou no sistema
+1117,0,root,root,2022/12/18 12:34:15,logou no sistema
+1116,0,root,root,2022/12/18 12:34:01,logou no sistema
+1115,0,root,root,2022/12/18 12:33:55,logou no sistema
+1114,0,root,root,2022/12/18 12:33:52,logou no sistema
+1113,0,root,root,2022/12/18 12:33:49,logou no sistema
+1112,0,root,root,2022/12/18 12:33:47,logou no sistema
+1111,0,root,root,2022/12/18 12:33:44,logou no sistema
+1110,0,root,root,2022/12/18 12:33:36,logou no sistema
+1109,0,root,root,2022/12/18 12:33:20,logou no sistema
+1108,0,root,root,2022/12/18 12:22:42,logou no sistema
+1107,0,root,root,2022/12/18 12:22:38,logou no sistema
+1106,0,root,root,2022/12/18 12:22:34,logou no sistema
+1105,0,root,root,2022/12/18 11:36:44,logou no sistema
+1104,0,root,root,2022/12/18 11:36:22,removeu usuario Eunice Delgado:id:98
+1103,0,root,root,2022/12/18 11:36:22,logou no sistema
+1102,0,root,root,2022/12/18 11:36:17,logou no sistema
+1101,0,root,root,2022/12/18 11:36:11,logou no sistema
+1100,0,root,root,2022/12/18 11:33:04,removeu usuario Jorge Flamengo:id:104
+1099,0,root,root,2022/12/18 11:33:04,logou no sistema
+1098,0,root,root,2022/12/18 11:33:00,logou no sistema
+1097,0,root,root,2022/12/18 11:32:57,logou no sistema
+1096,0,root,root,2022/12/18 11:32:34,logou no sistema
+1095,0,root,root,2022/12/18 11:30:58,logou no sistema
+1094,0,root,root,2022/12/18 11:30:40,removeu usuario Roberto Carlos:id:8
+1093,0,root,root,2022/12/18 11:30:40,logou no sistema
+1092,0,root,root,2022/12/18 11:30:30,logou no sistema
+1091,0,root,root,2022/12/18 11:30:29,logou no sistema
+1090,0,root,root,2022/12/18 11:29:55,logou no sistema
+1089,0,root,root,2022/12/18 11:29:53,logou no sistema
+1088,0,root,root,2022/12/18 11:29:32,logou no sistema
+1087,0,root,root,2022/12/18 11:29:30,logou no sistema
+1086,0,root,root,2022/12/18 11:28:30,logou no sistema
+1085,0,root,root,2022/12/18 11:28:28,logou no sistema
+1084,0,root,root,2022/12/18 11:25:28,logou no sistema
+1083,0,root,root,2022/12/18 11:25:27,logou no sistema
+1082,3,Jorge Rafael,cliente,2022/12/18 11:25:25,Falhou em Calcular Saldo: mais detalhes:java.io.FileNotFoundException: DATA\clientes\3.dat (O sistema não conseguiu localizar o ficheiro especificado)
+1081,3,Jorge Rafael,cliente,2022/12/18 11:25:24,logou no sistema
+1080,0,root,root,2022/12/18 11:25:24,logou no sistema
+1079,0,root,root,2022/12/18 11:25:23,logou no sistema
+1078,0,root,root,2022/12/18 11:23:55,logou no sistema
+1077,0,root,root,2022/12/18 11:23:07,logou no sistema
+1076,0,root,root,2022/12/18 11:21:33,logou no sistema
+1075,0,root,root,2022/12/18 11:21:32,logou no sistema
+1074,0,root,root,2022/12/18 11:20:33,logou no sistema
+1073,0,root,root,2022/12/18 11:20:31,logou no sistema
+1072,0,root,root,2022/12/18 11:19:33,logou no sistema
+1071,0,root,root,2022/12/18 11:19:29,logou no sistema
+1070,0,root,root,2022/12/18 10:37:53,logou no sistema
+1069,26,Roberto Jesus Carvalho,cliente,2022/12/18 10:37:51,logou no sistema
+1068,0,root,root,2022/12/18 10:37:51,logou no sistema
+1067,0,root,root,2022/12/18 10:37:50,logou no sistema
+1066,27,Marcia Silva,cliente,2022/12/18 10:37:39,logou no sistema
+1065,0,root,root,2022/12/18 10:37:38,logou no sistema
+1064,0,root,root,2022/12/18 10:37:19,logou no sistema
+1063,0,root,root,2022/12/18 10:37:14,Criou usuario Marcia Silva com id: 28
+1062,0,root,root,2022/12/18 10:37:14,logou no sistema
+1061,-1,system,root,2022/12/18 10:36:48,Criando ficheiro: DATA/clientes/27.dat
+1060,0,root,root,2022/12/18 10:36:48,Criou usuario Marcia Silva com id: 27
+1059,0,root,root,2022/12/18 10:36:48,logou no sistema
+1058,0,root,root,2022/12/18 10:35:56,logou no sistema
+1057,20,Jose dos Santos Cabel,cliente,2022/12/18 10:35:14,logou no sistema
+1056,20,Jose dos Santos Cabel,cliente,2022/12/18 10:35:13,logou no sistema
+1055,20,Jose dos Santos Cabel,cliente,2022/12/18 10:35:11,logou no sistema
+1054,20,Jose dos Santos Cabel,cliente,2022/12/18 10:35:11,logou no sistema
+1053,20,Jose dos Santos Cabel,cliente,2022/12/18 10:35:09,logou no sistema
+1052,20,Jose dos Santos Cabel,cliente,2022/12/18 10:35:09,logou no sistema
+1051,20,Jose dos Santos Cabel,cliente,2022/12/18 10:31:51,logou no sistema
+1050,20,Jose dos Santos Cabel,cliente,2022/12/18 10:31:51,logou no sistema
+1049,20,Jose dos Santos Cabel,cliente,2022/12/18 10:31:49,logou no sistema
+1048,20,Jose dos Santos Cabel,cliente,2022/12/18 10:31:05,logou no sistema
+1047,20,Jose dos Santos Cabel,cliente,2022/12/18 10:31:05,logou no sistema
+1046,109,Eunislau Fonseca,cliente,2022/12/18 10:31:03,logou no sistema
+1045,109,Eunislau Fonseca,cliente,2022/12/18 10:31:03,logou no sistema
+1044,109,Eunislau Fonseca,cliente,2022/12/18 10:31:02,logou no sistema
+1043,20,Jose dos Santos Cabel,cliente,2022/12/18 10:30:51,logou no sistema
+1042,20,Jose dos Santos Cabel,cliente,2022/12/18 10:30:51,logou no sistema
+1041,109,Eunislau Fonseca,cliente,2022/12/18 10:30:29,logou no sistema
+1040,109,Eunislau Fonseca,cliente,2022/12/18 10:30:29,logou no sistema
+1039,109,Eunislau Fonseca,cliente,2022/12/18 10:30:08,logou no sistema
+1038,109,Eunislau Fonseca,cliente,2022/12/18 10:30:08,logou no sistema
+1037,20,Jose dos Santos Cabel,cliente,2022/12/18 10:30:07,logou no sistema
+1036,20,Jose dos Santos Cabel,cliente,2022/12/18 10:29:48,logou no sistema
+1035,20,Jose dos Santos Cabel,cliente,2022/12/18 10:29:48,logou no sistema
+1034,109,Eunislau Fonseca,cliente,2022/12/18 10:29:33,logou no sistema
+1033,109,Eunislau Fonseca,cliente,2022/12/18 10:29:33,logou no sistema
+1032,20,Jose dos Santos Cabel,cliente,2022/12/18 10:28:20,logou no sistema
+1031,20,Jose dos Santos Cabel,cliente,2022/12/18 10:28:20,logou no sistema
+1030,25,Maria ROsana,cliente,2022/12/18 10:28:03,logou no sistema
+1029,25,Maria ROsana,cliente,2022/12/18 10:28:03,logou no sistema
+1028,25,Maria ROsana,cliente,2022/12/18 10:28:01,logou no sistema
+1027,25,Maria ROsana,cliente,2022/12/18 10:27:16,logou no sistema
+1026,25,Maria ROsana,cliente,2022/12/18 10:27:16,logou no sistema
+1025,26,Roberto Jesus Carvalho,cliente,2022/12/18 10:26:01,logou no sistema
+1024,26,Roberto Jesus Carvalho,cliente,2022/12/18 10:26:01,logou no sistema
+1023,0,root,root,2022/12/18 10:25:05,logou no sistema
+1022,26,Roberto Jesus Carvalho,cliente,2022/12/18 10:25:03,logou no sistema
+1021,0,root,root,2022/12/18 10:25:03,logou no sistema
+1020,0,root,root,2022/12/18 10:25:01,logou no sistema
+1019,25,Maria ROsana,cliente,2022/12/18 10:24:58,logou no sistema
+1018,0,root,root,2022/12/18 10:24:58,logou no sistema
+1017,0,root,root,2022/12/18 10:24:54,logou no sistema
+1016,0,root,root,2022/12/18 10:24:52,logou no sistema
+1015,0,root,root,2022/12/18 10:24:50,logou no sistema
+1014,26,Roberto Jesus Carvalho,cliente,2022/12/18 10:24:48,logou no sistema
+1013,0,root,root,2022/12/18 10:24:48,logou no sistema
+1012,0,root,root,2022/12/18 10:24:45,logou no sistema
+1011,0,root,root,2022/12/18 10:24:44,logou no sistema
+1010,0,root,root,2022/12/18 10:24:42,logou no sistema
+1009,109,Eunislau Fonseca,cliente,2022/12/18 10:24:41,logou no sistema
+1008,0,root,root,2022/12/18 10:24:41,logou no sistema
+1007,0,root,root,2022/12/18 10:24:40,logou no sistema
+1006,26,Roberto Jesus Carvalho,cliente,2022/12/18 10:24:38,logou no sistema
+1005,0,root,root,2022/12/18 10:24:38,logou no sistema
+1004,0,root,root,2022/12/18 10:24:35,logou no sistema
+1003,19,Samuel Moreira,cliente,2022/12/18 10:24:34,Falhou em Calcular Saldo: mais detalhes:java.io.FileNotFoundException: DATA\clientes\19.dat (O sistema não conseguiu localizar o ficheiro especificado)
+1002,19,Samuel Moreira,cliente,2022/12/18 10:24:34,logou no sistema
+1001,0,root,root,2022/12/18 10:24:34,logou no sistema
+1000,0,root,root,2022/12/18 10:24:30,logou no sistema
+999,23,Raquel Rosario,cliente,2022/12/18 10:24:04,logou no sistema
+998,0,root,root,2022/12/18 10:24:04,logou no sistema
+997,0,root,root,2022/12/18 10:24:03,logou no sistema
+996,109,Eunislau Fonseca,cliente,2022/12/18 10:23:57,logou no sistema
+995,0,root,root,2022/12/18 10:23:57,logou no sistema
+994,0,root,root,2022/12/18 10:23:55,logou no sistema
+993,0,root,root,2022/12/18 10:23:54,logou no sistema
+992,0,root,root,2022/12/18 10:23:53,logou no sistema
+991,3,Jorge Rafael,cliente,2022/12/18 10:23:49,Falhou em Calcular Saldo: mais detalhes:java.io.FileNotFoundException: DATA\clientes\3.dat (O sistema não conseguiu localizar o ficheiro especificado)
+990,3,Jorge Rafael,cliente,2022/12/18 10:23:49,logou no sistema
+989,0,root,root,2022/12/18 10:23:49,logou no sistema
+988,0,root,root,2022/12/18 10:23:46,logou no sistema
+987,3,Jorge Rafael,cliente,2022/12/18 10:14:56,Falhou em Calcular Saldo: mais detalhes:java.io.FileNotFoundException: DATA\clientes\3.dat (O sistema não conseguiu localizar o ficheiro especificado)
+986,3,Jorge Rafael,cliente,2022/12/18 10:14:56,logou no sistema
+985,0,root,root,2022/12/18 10:14:56,logou no sistema
+984,0,root,root,2022/12/18 10:14:52,logou no sistema
+983,109,Eunislau Fonseca,cliente,2022/12/18 10:14:30,logou no sistema
+982,109,Eunislau Fonseca,cliente,2022/12/18 10:14:30,logou no sistema
+981,109,Eunislau Fonseca,cliente,2022/12/18 10:14:22,logou no sistema
+980,109,Eunislau Fonseca,cliente,2022/12/18 10:14:22,logou no sistema
+979,20,Jose dos Santos Cabel,cliente,2022/12/18 10:13:46,logou no sistema
+978,20,Jose dos Santos Cabel,cliente,2022/12/18 10:13:46,logou no sistema
+977,109,Eunislau Fonseca,cliente,2022/12/18 10:13:40,logou no sistema
+976,109,Eunislau Fonseca,cliente,2022/12/18 10:13:40,logou no sistema
+975,20,Jose dos Santos Cabel,cliente,2022/12/18 10:13:37,logou no sistema
+974,20,Jose dos Santos Cabel,cliente,2022/12/18 10:13:08,logou no sistema
+973,20,Jose dos Santos Cabel,cliente,2022/12/18 10:13:08,logou no sistema
+972,26,Roberto Jesus Carvalho,cliente,2022/12/18 10:12:46,logou no sistema
+971,26,Roberto Jesus Carvalho,cliente,2022/12/18 10:12:46,logou no sistema
+970,109,Eunislau Fonseca,cliente,2022/12/18 10:12:42,logou no sistema
+969,109,Eunislau Fonseca,cliente,2022/12/18 10:12:42,logou no sistema
+968,26,Roberto Jesus Carvalho,cliente,2022/12/18 10:12:40,logou no sistema
+967,26,Roberto Jesus Carvalho,cliente,2022/12/18 10:12:09,logou no sistema
+966,26,Roberto Jesus Carvalho,cliente,2022/12/18 10:12:09,logou no sistema
+965,109,Eunislau Fonseca,cliente,2022/12/18 10:11:02,logou no sistema
+964,109,Eunislau Fonseca,cliente,2022/12/18 10:11:02,logou no sistema
+963,109,Eunislau Fonseca,cliente,2022/12/18 10:10:58,logou no sistema
+962,109,Eunislau Fonseca,cliente,2022/12/18 10:10:14,logou no sistema
+961,109,Eunislau Fonseca,cliente,2022/12/18 10:10:14,logou no sistema
+960,0,root,root,2022/12/18 10:09:51,logou no sistema
+959,-1,system,root,2022/12/18 10:09:04,Criando ficheiro: DATA/clientes/109.dat
+958,0,root,root,2022/12/18 10:09:04,Criou usuario Eunislau Fonseca com id: 109
+957,0,root,root,2022/12/18 10:09:03,logou no sistema
+956,20,Jose dos Santos Cabel,cliente,2022/12/17 23:10:43,logou no sistema
+955,20,Jose dos Santos Cabel,cliente,2022/12/17 23:10:43,logou no sistema
+954,20,Jose dos Santos Cabel,cliente,2022/12/17 23:10:41,logou no sistema
+953,20,Jose dos Santos Cabel,cliente,2022/12/17 23:10:41,logou no sistema
+952,20,Jose dos Santos Cabel,cliente,2022/12/17 23:10:40,logou no sistema
+951,20,Jose dos Santos Cabel,cliente,2022/12/17 23:10:40,logou no sistema
+950,20,Jose dos Santos Cabel,cliente,2022/12/17 23:10:32,logou no sistema
+949,20,Jose dos Santos Cabel,cliente,2022/12/17 23:10:32,logou no sistema
+948,20,Jose dos Santos Cabel,cliente,2022/12/17 23:10:31,logou no sistema
+947,20,Jose dos Santos Cabel,cliente,2022/12/17 23:10:03,logou no sistema
+946,20,Jose dos Santos Cabel,cliente,2022/12/17 23:10:03,logou no sistema
+945,20,Jose dos Santos Cabel,cliente,2022/12/17 23:10:01,logou no sistema
+944,20,Jose dos Santos Cabel,cliente,2022/12/17 23:10:01,logou no sistema
+943,20,Jose dos Santos Cabel,cliente,2022/12/17 23:09:59,logou no sistema
+942,20,Jose dos Santos Cabel,cliente,2022/12/17 23:09:59,logou no sistema
+941,20,Jose dos Santos Cabel,cliente,2022/12/17 23:09:49,logou no sistema
+940,20,Jose dos Santos Cabel,cliente,2022/12/17 23:09:49,logou no sistema
+939,20,Jose dos Santos Cabel,cliente,2022/12/17 23:09:47,logou no sistema
+938,20,Jose dos Santos Cabel,cliente,2022/12/17 23:09:26,logou no sistema
+937,20,Jose dos Santos Cabel,cliente,2022/12/17 23:09:26,logou no sistema
+936,26,Roberto Jesus Carvalho,cliente,2022/12/17 23:09:05,logou no sistema
+935,26,Roberto Jesus Carvalho,cliente,2022/12/17 23:09:05,logou no sistema
+934,26,Roberto Jesus Carvalho,cliente,2022/12/17 23:09:03,logou no sistema
+933,26,Roberto Jesus Carvalho,cliente,2022/12/17 23:08:52,logou no sistema
+932,26,Roberto Jesus Carvalho,cliente,2022/12/17 23:08:52,logou no sistema
+931,20,Jose dos Santos Cabel,cliente,2022/12/17 23:08:28,logou no sistema
+930,20,Jose dos Santos Cabel,cliente,2022/12/17 23:08:28,logou no sistema
+929,20,Jose dos Santos Cabel,cliente,2022/12/17 23:08:27,logou no sistema
+928,20,Jose dos Santos Cabel,cliente,2022/12/17 23:08:10,logou no sistema
+927,20,Jose dos Santos Cabel,cliente,2022/12/17 23:08:09,logou no sistema
+926,20,Jose dos Santos Cabel,cliente,2022/12/17 23:08:08,logou no sistema
+925,20,Jose dos Santos Cabel,cliente,2022/12/17 23:08:07,logou no sistema
+924,20,Jose dos Santos Cabel,cliente,2022/12/17 23:08:04,logou no sistema
+923,20,Jose dos Santos Cabel,cliente,2022/12/17 23:08:04,logou no sistema
+922,20,Jose dos Santos Cabel,cliente,2022/12/17 23:08:03,logou no sistema
+921,20,Jose dos Santos Cabel,cliente,2022/12/17 23:08:03,logou no sistema
+920,20,Jose dos Santos Cabel,cliente,2022/12/17 23:07:57,logou no sistema
+919,20,Jose dos Santos Cabel,cliente,2022/12/17 23:07:57,logou no sistema
+918,20,Jose dos Santos Cabel,cliente,2022/12/17 23:07:55,logou no sistema
+917,20,Jose dos Santos Cabel,cliente,2022/12/17 23:07:46,logou no sistema
+916,20,Jose dos Santos Cabel,cliente,2022/12/17 23:07:46,logou no sistema
+915,23,Raquel Rosario,cliente,2022/12/17 23:07:32,logou no sistema
+914,23,Raquel Rosario,cliente,2022/12/17 23:07:32,logou no sistema
+913,20,Jose dos Santos Cabel,cliente,2022/12/17 23:07:21,logou no sistema
+912,20,Jose dos Santos Cabel,cliente,2022/12/17 23:07:20,logou no sistema
+911,0,root,root,2022/12/17 23:05:07,logou no sistema
+910,20,Jose dos Santos Cabel,cliente,2022/12/17 23:04:11,logou no sistema
+909,20,Jose dos Santos Cabel,cliente,2022/12/17 23:04:11,logou no sistema
+908,20,Jose dos Santos Cabel,cliente,2022/12/17 23:04:10,logou no sistema
+907,20,Jose dos Santos Cabel,cliente,2022/12/17 23:04:03,logou no sistema
+906,20,Jose dos Santos Cabel,cliente,2022/12/17 23:04:03,logou no sistema
+905,20,Jose dos Santos Cabel,cliente,2022/12/17 23:03:47,logou no sistema
+904,20,Jose dos Santos Cabel,cliente,2022/12/17 23:03:47,logou no sistema
+903,20,Jose dos Santos Cabel,cliente,2022/12/17 23:03:46,logou no sistema
+902,20,Jose dos Santos Cabel,cliente,2022/12/17 23:03:46,logou no sistema
+901,20,Jose dos Santos Cabel,cliente,2022/12/17 23:03:43,logou no sistema
+900,20,Jose dos Santos Cabel,cliente,2022/12/17 23:03:43,logou no sistema
+899,20,Jose Cabel,cliente,2022/12/17 23:03:42,logou no sistema
+898,20,Jose Cabel,cliente,2022/12/17 23:02:33,logou no sistema
+897,20,Jose Cabel,cliente,2022/12/17 23:02:33,logou no sistema
+896,26,Roberto Jesus Carvalho,cliente,2022/12/17 23:02:25,logou no sistema
+895,26,Roberto Jesus Carvalho,cliente,2022/12/17 23:02:25,logou no sistema
+894,26,Roberto Jesus Carvalho,cliente,2022/12/17 23:02:22,logou no sistema
+893,26,Roberto Jesus Carvalho,cliente,2022/12/17 23:01:16,logou no sistema
+892,26,Roberto Jesus Carvalho,cliente,2022/12/17 23:01:16,logou no sistema
+891,23,Raquel Rosario,cliente,2022/12/17 23:01:08,logou no sistema
+890,23,Raquel Rosario,cliente,2022/12/17 23:01:08,logou no sistema
+889,23,Raquel Rosario,cliente,2022/12/17 23:01:06,logou no sistema
+888,23,Raquel Rosario,cliente,2022/12/17 23:01:06,logou no sistema
+887,23,Raquel Rosario,cliente,2022/12/17 23:01:01,logou no sistema
+886,23,Raquel Rosario,cliente,2022/12/17 23:01:01,logou no sistema
+885,23,Raquel Rosario,cliente,2022/12/17 23:00:55,logou no sistema
+884,23,Raquel Rosario,cliente,2022/12/17 23:00:55,logou no sistema
+883,23,Raquel Rosario,cliente,2022/12/17 23:00:49,logou no sistema
+882,23,Raquel Rosario,cliente,2022/12/17 23:00:49,logou no sistema
+881,23,Raquel Rosario,cliente,2022/12/17 23:00:24,logou no sistema
+880,23,Raquel Rosario,cliente,2022/12/17 23:00:24,logou no sistema
+879,23,Raquel Rosario,cliente,2022/12/17 23:00:23,logou no sistema
+878,25,Maria ROsana,cliente,2022/12/17 22:59:38,logou no sistema
+877,25,Maria ROsana,cliente,2022/12/17 22:59:38,logou no sistema
+876,25,Maria ROsana,cliente,2022/12/17 22:59:33,logou no sistema
+875,25,Maria ROsana,cliente,2022/12/17 22:59:33,logou no sistema
+874,25,Maria ROsana,cliente,2022/12/17 22:59:32,logou no sistema
+873,25,Maria ROsana,cliente,2022/12/17 22:59:04,logou no sistema
+872,25,Maria ROsana,cliente,2022/12/17 22:59:03,logou no sistema
+871,23,Raquel Rosario,cliente,2022/12/17 22:58:57,logou no sistema
+870,23,Raquel Rosario,cliente,2022/12/17 22:58:57,logou no sistema
+869,23,Raquel Rosario,cliente,2022/12/17 22:58:49,logou no sistema
+868,23,Raquel Rosario,cliente,2022/12/17 22:58:49,logou no sistema
+867,23,Raquel Rosario,cliente,2022/12/17 22:58:48,logou no sistema
+866,23,Raquel Rosario,cliente,2022/12/17 22:58:16,logou no sistema
+865,23,Raquel Rosario,cliente,2022/12/17 22:58:16,logou no sistema
+864,25,Maria ROsana,cliente,2022/12/17 22:57:54,logou no sistema
+863,25,Maria ROsana,cliente,2022/12/17 22:57:54,logou no sistema
+862,26,Roberto Jesus Carvalho,cliente,2022/12/17 22:57:44,logou no sistema
+861,26,Roberto Jesus Carvalho,cliente,2022/12/17 22:57:43,logou no sistema
+860,26,Roberto Jesus Carvalho,cliente,2022/12/17 22:57:34,logou no sistema
+859,26,Roberto Jesus Carvalho,cliente,2022/12/17 22:57:34,logou no sistema
+858,26,Roberto Jesus Carvalho,cliente,2022/12/17 22:57:31,logou no sistema
+857,26,Roberto Jesus Carvalho,cliente,2022/12/17 22:57:11,logou no sistema
+856,26,Roberto Jesus Carvalho,cliente,2022/12/17 22:57:11,logou no sistema
+855,25,Maria ROsana,cliente,2022/12/17 22:56:22,logou no sistema
+854,25,Maria ROsana,cliente,2022/12/17 22:56:21,logou no sistema
+853,0,root,root,2022/12/17 22:55:19,logou no sistema
+852,22,Jaime Fonseca,cliente,2022/12/17 22:54:20,logou no sistema
+851,22,Jaime Fonseca,cliente,2022/12/17 22:54:20,logou no sistema
+850,0,root,root,2022/12/17 22:53:55,logou no sistema
+849,26,Roberto Jesus Carvalho,cliente,2022/12/17 22:53:21,logou no sistema
+848,26,Roberto Jesus Carvalho,cliente,2022/12/17 22:53:21,logou no sistema
+847,26,Roberto Jesus Carvalho,cliente,2022/12/17 22:51:18,logou no sistema
+846,26,Roberto Jesus Carvalho,cliente,2022/12/17 22:51:18,logou no sistema
+845,26,Roberto Jesus Carvalho,cliente,2022/12/17 22:51:03,logou no sistema
+844,26,Roberto Jesus Carvalho,cliente,2022/12/17 22:51:03,logou no sistema
+843,26,Roberto Jesus Carvalho,cliente,2022/12/17 22:49:37,logou no sistema
+842,26,Roberto Jesus Carvalho,cliente,2022/12/17 22:49:37,logou no sistema
+841,26,Roberto Jesus Carvalho,cliente,2022/12/17 22:47:06,logou no sistema
+840,26,Roberto Jesus Carvalho,cliente,2022/12/17 22:47:06,logou no sistema
+839,26,Roberto Jesus Carvalho,cliente,2022/12/17 22:44:37,logou no sistema
+838,26,Roberto Jesus Carvalho,cliente,2022/12/17 22:44:37,logou no sistema
+837,26,Roberto Jesus Carvalho,cliente,2022/12/17 22:43:58,logou no sistema
+836,26,Roberto Jesus Carvalho,cliente,2022/12/17 22:43:58,logou no sistema
+835,26,Roberto Jesus Carvalho,cliente,2022/12/17 22:43:25,logou no sistema
+834,26,Roberto Jesus Carvalho,cliente,2022/12/17 22:43:25,logou no sistema
+833,26,Roberto Jesus Carvalho,cliente,2022/12/17 22:43:09,logou no sistema
+832,26,Roberto Jesus Carvalho,cliente,2022/12/17 22:43:09,logou no sistema
+831,26,Roberto Jesus Carvalho,cliente,2022/12/17 22:42:22,logou no sistema
+830,26,Roberto Jesus Carvalho,cliente,2022/12/17 22:42:22,logou no sistema
+829,26,Roberto Jesus Carvalho,cliente,2022/12/17 22:41:59,logou no sistema
+828,26,Roberto Jesus Carvalho,cliente,2022/12/17 22:41:58,logou no sistema
+827,26,Roberto Jesus Carvalho,cliente,2022/12/17 22:39:11,logou no sistema
+826,26,Roberto Jesus Carvalho,cliente,2022/12/17 22:39:11,logou no sistema
+825,26,Roberto Jesus Carvalho,cliente,2022/12/17 22:38:46,logou no sistema
+824,26,Roberto Jesus Carvalho,cliente,2022/12/17 22:38:46,logou no sistema
+823,26,Roberto Jesus Carvalho,cliente,2022/12/17 22:38:46,logou no sistema
+822,26,Roberto Jesus Carvalho,cliente,2022/12/17 22:38:46,logou no sistema
+821,26,Roberto Jesus Carvalho,cliente,2022/12/17 22:37:47,logou no sistema
+820,26,Roberto Jesus Carvalho,cliente,2022/12/17 22:37:47,logou no sistema
+819,26,Roberto Jesus Carvalho,cliente,2022/12/17 22:37:47,logou no sistema
+818,26,Roberto Jesus Carvalho,cliente,2022/12/17 22:37:47,logou no sistema
+817,26,Roberto Jesus Carvalho,cliente,2022/12/17 22:35:03,logou no sistema
+816,26,Roberto Jesus Carvalho,cliente,2022/12/17 22:35:03,logou no sistema
+815,26,Roberto Jesus Carvalho,cliente,2022/12/17 22:35:03,logou no sistema
+814,26,Roberto Jesus Carvalho,cliente,2022/12/17 22:35:03,logou no sistema
+813,26,Roberto Jesus Carvalho,cliente,2022/12/17 22:35:03,logou no sistema
+812,26,Roberto Jesus Carvalho,cliente,2022/12/17 22:33:54,logou no sistema
+811,26,Roberto Jesus Carvalho,cliente,2022/12/17 22:33:54,logou no sistema
+810,26,Roberto Jesus Carvalho,cliente,2022/12/17 22:33:54,logou no sistema
+809,26,Roberto Jesus Carvalho,cliente,2022/12/17 22:33:54,logou no sistema
+808,26,Roberto Jesus Carvalho,cliente,2022/12/17 22:33:54,logou no sistema
+807,26,Roberto Jesus Carvalho,cliente,2022/12/17 22:31:51,logou no sistema
+806,26,Roberto Jesus Carvalho,cliente,2022/12/17 22:31:51,logou no sistema
+805,26,Roberto Jesus Carvalho,cliente,2022/12/17 22:31:51,logou no sistema
+804,26,Roberto Jesus Carvalho,cliente,2022/12/17 22:31:51,logou no sistema
+803,26,Roberto Jesus Carvalho,cliente,2022/12/17 22:31:51,logou no sistema
+802,26,Roberto Jesus Carvalho,cliente,2022/12/17 22:26:37,logou no sistema
+801,26,Roberto Jesus Carvalho,cliente,2022/12/17 22:26:37,logou no sistema
+800,26,Roberto Jesus Carvalho,cliente,2022/12/17 22:26:37,logou no sistema
+799,26,Roberto Jesus Carvalho,cliente,2022/12/17 22:26:37,logou no sistema
+798,26,Roberto Jesus Carvalho,cliente,2022/12/17 22:25:23,logou no sistema
+797,0,root,root,2022/12/17 22:19:41,logou no sistema
+796,26,Roberto Jesus Carvalho,cliente,2022/12/17 21:41:56,logou no sistema
+795,26,Roberto Jesus Carvalho,cliente,2022/12/17 21:41:54,logou no sistema
+794,26,Roberto Jesus Carvalho,cliente,2022/12/17 21:41:44,logou no sistema
+793,26,Roberto Jesus Carvalho,cliente,2022/12/17 21:41:27,logou no sistema
+792,26,Roberto Jesus Carvalho,cliente,2022/12/17 21:41:26,logou no sistema
+791,26,Roberto Jesus Carvalho,cliente,2022/12/17 21:41:25,logou no sistema
+790,26,Roberto Jesus Carvalho,cliente,2022/12/17 21:41:19,logou no sistema
+789,26,Roberto Carvalho,cliente,2022/12/17 21:41:18,logou no sistema
+788,26,Roberto Carvalho,cliente,2022/12/17 21:41:00,logou no sistema
+787,26,Roberto Carvalho,cliente,2022/12/17 21:40:54,logou no sistema
+786,26,Roberto Carvalho,cliente,2022/12/17 21:40:52,logou no sistema
+785,26,Roberto Carvalho,cliente,2022/12/17 21:40:43,logou no sistema
+784,26,Roberto Carvalho,cliente,2022/12/17 21:40:42,logou no sistema
+783,26,Roberto Carvalho,cliente,2022/12/17 21:40:38,logou no sistema
+782,26,Roberto Carvalho,cliente,2022/12/17 21:40:32,logou no sistema
+781,0,root,root,2022/12/15 21:58:04,Criou usuario Jorge Flamengo com id: 104
+780,0,root,root,2022/12/15 21:58:04,logou no sistema
+779,0,root,root,2022/12/15 21:57:34,logou no sistema
+778,0,root,root,2022/12/15 21:57:31,logou no sistema
+777,0,root,root,2022/12/15 21:57:29,logou no sistema
+776,0,root,root,2022/12/15 21:56:56,logou no sistema
+775,0,root,root,2022/12/15 21:56:55,logou no sistema
+774,0,root,root,2022/12/15 21:56:47,logou no sistema
+773,0,root,root,2022/12/15 21:56:33,logou no sistema
+772,0,root,root,2022/12/15 21:55:59,logou no sistema
+771,0,root,root,2022/12/15 21:55:55,logou no sistema
+770,0,root,root,2022/12/15 21:55:51,logou no sistema
+769,0,root,root,2022/12/15 21:55:46,logou no sistema
+768,0,root,root,2022/12/15 21:55:42,logou no sistema
+767,0,root,root,2022/12/15 21:55:38,logou no sistema
+766,0,root,root,2022/12/15 21:55:25,logou no sistema
+765,0,root,root,2022/12/15 21:55:15,logou no sistema
+764,0,root,root,2022/12/15 21:54:41,logou no sistema
+763,0,root,root,2022/12/15 21:54:31,logou no sistema
+762,3,Jorge Rafael,cliente,2022/12/15 21:47:43,Falhou em Calcular Saldo: mais detalhes:java.io.FileNotFoundException: DATA\clientes\3.dat (O sistema não conseguiu localizar o ficheiro especificado)
+761,3,Jorge Rafael,cliente,2022/12/15 21:47:43,logou no sistema
+760,0,root,root,2022/12/15 21:47:43,logou no sistema
+759,0,root,root,2022/12/15 21:47:41,logou no sistema
+758,0,root,root,2022/12/15 21:44:49,logou no sistema
+757,0,root,root,2022/12/15 21:44:45,logou no sistema
+756,0,root,root,2022/12/15 21:44:27,Criou usuario Eunice Delgado com id: 98
+755,0,root,root,2022/12/15 21:44:27,logou no sistema
+754,0,root,root,2022/12/15 21:42:15,logou no sistema
+753,0,root,root,2022/12/15 21:38:42,logou no sistema
+752,0,root,root,2022/12/15 21:38:01,logou no sistema
+751,3,Jorge Rafael,cliente,2022/12/15 21:37:59,Falhou em Calcular Saldo: mais detalhes:java.io.FileNotFoundException: DATA\clientes\3.dat (O sistema não conseguiu localizar o ficheiro especificado)
+750,3,Jorge Rafael,cliente,2022/12/15 21:37:59,logou no sistema
+749,0,root,root,2022/12/15 21:37:59,logou no sistema
+748,0,root,root,2022/12/15 21:37:57,logou no sistema
+747,3,Jorge Rafael,cliente,2022/12/15 21:37:55,Falhou em Calcular Saldo: mais detalhes:java.io.FileNotFoundException: DATA\clientes\3.dat (O sistema não conseguiu localizar o ficheiro especificado)
+746,3,Jorge Rafael,cliente,2022/12/15 21:37:55,logou no sistema
+745,0,root,root,2022/12/15 21:37:55,logou no sistema
+744,0,root,root,2022/12/15 21:37:53,logou no sistema
+743,3,Jorge Rafael,cliente,2022/12/15 21:37:27,Falhou em Calcular Saldo: mais detalhes:java.io.FileNotFoundException: DATA\clientes\3.dat (O sistema não conseguiu localizar o ficheiro especificado)
+742,3,Jorge Rafael,cliente,2022/12/15 21:37:27,logou no sistema
+741,0,root,root,2022/12/15 21:37:27,logou no sistema
+740,0,root,root,2022/12/15 21:37:25,logou no sistema
+739,3,Jorge Rafael,cliente,2022/12/15 21:36:35,Falhou em Calcular Saldo: mais detalhes:java.io.FileNotFoundException: DATA\clientes\3.dat (O sistema não conseguiu localizar o ficheiro especificado)
+738,3,Jorge Rafael,cliente,2022/12/15 21:36:35,logou no sistema
+737,0,root,root,2022/12/15 21:36:35,logou no sistema
+736,0,root,root,2022/12/15 21:36:34,logou no sistema
+735,3,Jorge Rafael,cliente,2022/12/15 21:36:11,Falhou em Calcular Saldo: mais detalhes:java.io.FileNotFoundException: DATA\clientes\3.dat (O sistema não conseguiu localizar o ficheiro especificado)
+734,3,Jorge Rafael,cliente,2022/12/15 21:36:11,logou no sistema
+733,0,root,root,2022/12/15 21:36:11,logou no sistema
+732,0,root,root,2022/12/15 21:36:10,logou no sistema
+731,3,Jorge Rafael,cliente,2022/12/15 21:34:07,Falhou em Calcular Saldo: mais detalhes:java.io.FileNotFoundException: DATA\clientes\3.dat (O sistema não conseguiu localizar o ficheiro especificado)
+730,3,Jorge Rafael,cliente,2022/12/15 21:34:07,logou no sistema
+729,0,root,root,2022/12/15 21:34:07,logou no sistema
+728,0,root,root,2022/12/15 21:34:04,logou no sistema
+727,3,Jorge Rafael,cliente,2022/12/15 21:34:03,Falhou em Calcular Saldo: mais detalhes:java.io.FileNotFoundException: DATA\clientes\3.dat (O sistema não conseguiu localizar o ficheiro especificado)
+726,3,Jorge Rafael,cliente,2022/12/15 21:34:03,logou no sistema
+725,0,root,root,2022/12/15 21:34:03,logou no sistema
+724,0,root,root,2022/12/15 21:34:00,logou no sistema
+723,0,root,root,2022/12/15 21:29:36,logou no sistema
+722,0,root,root,2022/12/15 21:29:29,logou no sistema
+721,0,root,root,2022/12/15 21:29:26,logou no sistema
+720,23,Raquel Rosario,cliente,2022/12/15 21:29:08,logou no sistema
+719,0,root,root,2022/12/15 21:29:08,logou no sistema
+718,0,root,root,2022/12/15 21:29:06,logou no sistema
+717,0,root,root,2022/12/15 21:29:02,logou no sistema
+716,0,root,root,2022/12/15 21:28:56,logou no sistema
+715,26,Roberto Carvalho,cliente,2022/12/15 21:28:45,logou no sistema
+714,26,Roberto Carvalho,cliente,2022/12/15 21:28:08,logou no sistema
+713,26,Roberto Carvalho,cliente,2022/12/15 21:26:26,logou no sistema
+712,26,Roberto Carvalho,cliente,2022/12/15 21:26:18,logou no sistema
+711,26,Roberto Carvalho,cliente,2022/12/15 21:26:16,logou no sistema
+710,26,Roberto Carvalho,cliente,2022/12/15 21:25:01,logou no sistema
+709,26,Roberto Carvalho,cliente,2022/12/15 21:21:35,logou no sistema
+708,0,root,root,2022/12/15 21:21:27,logou no sistema
+707,26,Roberto Carvalho,cliente,2022/12/15 21:18:20,logou no sistema
+706,0,root,root,2022/12/15 21:18:20,logou no sistema
+705,0,root,root,2022/12/15 21:18:15,logou no sistema
+704,26,Roberto Carvalho,cliente,2022/12/15 21:17:53,logou no sistema
+703,0,root,root,2022/12/15 21:17:40,logou no sistema
+702,23,Raquel Rosario,cliente,2022/12/15 21:13:19,logou no sistema
+701,0,root,root,2022/12/15 21:13:19,logou no sistema
+700,0,root,root,2022/12/15 21:13:18,logou no sistema
+699,0,root,root,2022/12/15 21:13:16,logou no sistema
+698,0,root,root,2022/12/15 21:12:53,logou no sistema
+697,0,root,root,2022/12/15 21:12:51,logou no sistema
+696,3,Jorge Rafael,cliente,2022/12/15 21:07:48,Falhou em Calcular Saldo: mais detalhes:java.io.FileNotFoundException: DATA\clientes\3.dat (O sistema não conseguiu localizar o ficheiro especificado)
+695,3,Jorge Rafael,cliente,2022/12/15 21:07:48,logou no sistema
+694,0,root,root,2022/12/15 21:07:48,logou no sistema
+693,0,root,root,2022/12/15 21:07:46,logou no sistema
+692,17,Jose Santos,cliente,2022/12/15 21:05:52,Falhou em Calcular Saldo: mais detalhes:java.io.FileNotFoundException: DATA\clientes\17.dat (O sistema não conseguiu localizar o ficheiro especificado)
+691,17,Jose Santos,cliente,2022/12/15 21:05:52,logou no sistema
+690,0,root,root,2022/12/15 21:05:52,logou no sistema
+689,0,root,root,2022/12/15 21:05:49,logou no sistema
+688,3,Jorge Rafael,cliente,2022/12/15 21:05:35,Falhou em Calcular Saldo: mais detalhes:java.io.FileNotFoundException: DATA\clientes\3.dat (O sistema não conseguiu localizar o ficheiro especificado)
+687,3,Jorge Rafael,cliente,2022/12/15 21:05:35,logou no sistema
+686,0,root,root,2022/12/15 21:05:35,logou no sistema
+685,0,root,root,2022/12/15 21:05:34,logou no sistema
+684,3,Jorge Rafael,cliente,2022/12/15 21:03:46,Falhou em Calcular Saldo: mais detalhes:java.io.FileNotFoundException: DATA\clientes\3.dat (O sistema não conseguiu localizar o ficheiro especificado)
+683,3,Jorge Rafael,cliente,2022/12/15 21:03:46,logou no sistema
+682,0,root,root,2022/12/15 21:03:46,logou no sistema
+681,0,root,root,2022/12/15 21:03:45,logou no sistema
+680,26,Roberto Carvalho,cliente,2022/12/15 21:02:16,logou no sistema
+679,0,root,root,2022/12/15 21:02:16,logou no sistema
+678,0,root,root,2022/12/15 21:02:13,logou no sistema
+677,0,root,root,2022/12/15 21:02:11,logou no sistema
+676,0,root,root,2022/12/15 21:02:09,logou no sistema
+675,25,Maria ROsana,cliente,2022/12/15 21:01:53,logou no sistema
+674,0,root,root,2022/12/15 21:01:53,logou no sistema
+673,0,root,root,2022/12/15 21:01:50,logou no sistema
+672,23,Raquel Rosario,cliente,2022/12/15 21:01:32,logou no sistema
+671,0,root,root,2022/12/15 21:01:32,logou no sistema
+670,0,root,root,2022/12/15 21:01:30,logou no sistema
+669,23,Raquel Rosario,cliente,2022/12/15 21:01:12,logou no sistema
+668,0,root,root,2022/12/15 21:01:12,logou no sistema
+667,0,root,root,2022/12/15 21:01:10,logou no sistema
+666,20,Jose Cabel,cliente,2022/12/15 21:00:45,logou no sistema
+665,0,root,root,2022/12/15 21:00:45,logou no sistema
+664,0,root,root,2022/12/15 21:00:42,logou no sistema
+663,3,Jorge Rafael,cliente,2022/12/15 21:00:38,Falhou em Calcular Saldo: mais detalhes:java.io.FileNotFoundException: DATA\clientes\3.dat (O sistema não conseguiu localizar o ficheiro especificado)
+662,3,Jorge Rafael,cliente,2022/12/15 21:00:38,logou no sistema
+661,0,root,root,2022/12/15 21:00:38,logou no sistema
+660,0,root,root,2022/12/15 21:00:37,logou no sistema
+659,3,Jorge Rafael,cliente,2022/12/15 20:57:02,Falhou em Calcular Saldo: mais detalhes:java.io.FileNotFoundException: DATA\clientes\3.dat (O sistema não conseguiu localizar o ficheiro especificado)
+658,3,Jorge Rafael,cliente,2022/12/15 20:57:02,logou no sistema
+657,0,root,root,2022/12/15 20:57:02,logou no sistema
+656,0,root,root,2022/12/15 20:57:00,logou no sistema
+655,3,Jorge Rafael,cliente,2022/12/15 20:56:26,Falhou em Calcular Saldo: mais detalhes:java.io.FileNotFoundException: DATA\clientes\3.dat (O sistema não conseguiu localizar o ficheiro especificado)
+654,3,Jorge Rafael,cliente,2022/12/15 20:56:26,logou no sistema
+653,0,root,root,2022/12/15 20:56:26,logou no sistema
+652,0,root,root,2022/12/15 20:56:25,logou no sistema
+651,3,Jorge Rafael,cliente,2022/12/15 20:50:44,Falhou em Calcular Saldo: mais detalhes:java.io.FileNotFoundException: DATA\clientes\3.dat (O sistema não conseguiu localizar o ficheiro especificado)
+650,3,Jorge Rafael,cliente,2022/12/15 20:50:44,logou no sistema
+649,0,root,root,2022/12/15 20:50:44,logou no sistema
+648,0,root,root,2022/12/15 20:50:42,logou no sistema
+647,3,Jorge Rafael,cliente,2022/12/15 20:49:49,Falhou em Calcular Saldo: mais detalhes:java.io.FileNotFoundException: DATA\clientes\3.dat (O sistema não conseguiu localizar o ficheiro especificado)
+646,3,Jorge Rafael,cliente,2022/12/15 20:49:49,logou no sistema
+645,0,root,root,2022/12/15 20:49:49,logou no sistema
+644,0,root,root,2022/12/15 20:49:47,logou no sistema
+643,3,Jorge Rafael,cliente,2022/12/15 20:45:31,Falhou em Calcular Saldo: mais detalhes:java.io.FileNotFoundException: DATA\clientes\3.dat (O sistema não conseguiu localizar o ficheiro especificado)
+642,3,Jorge Rafael,cliente,2022/12/15 20:45:31,logou no sistema
+641,0,root,root,2022/12/15 20:45:31,logou no sistema
+640,0,root,root,2022/12/15 20:45:28,logou no sistema
+639,0,root,root,2022/12/15 20:45:26,logou no sistema
+638,0,root,root,2022/12/15 20:45:24,logou no sistema
+637,0,root,root,2022/12/15 20:43:56,logou no sistema
+636,0,root,root,2022/12/15 20:43:53,logou no sistema
+635,0,root,root,2022/12/15 20:41:57,logou no sistema
+634,0,root,root,2022/12/15 20:41:57,logou no sistema
+633,0,root,root,2022/12/15 20:41:57,logou no sistema
+632,0,root,root,2022/12/15 20:41:55,logou no sistema
+631,3,Jorge Rafael,cliente,2022/12/15 20:41:49,Falhou em Calcular Saldo: mais detalhes:java.io.FileNotFoundException: DATA\clientes\3.dat (O sistema não conseguiu localizar o ficheiro especificado)
+630,3,Jorge Rafael,cliente,2022/12/15 20:41:49,logou no sistema
+629,0,root,root,2022/12/15 20:41:49,logou no sistema
+628,0,root,root,2022/12/15 20:41:46,logou no sistema
+627,3,Jorge Rafael,cliente,2022/12/15 20:39:55,Falhou em Calcular Saldo: mais detalhes:java.io.FileNotFoundException: DATA\clientes\3.dat (O sistema não conseguiu localizar o ficheiro especificado)
+626,3,Jorge Rafael,cliente,2022/12/15 20:39:55,logou no sistema
+625,0,root,root,2022/12/15 20:39:55,logou no sistema
+624,0,root,root,2022/12/15 20:39:53,logou no sistema
+623,0,root,root,2022/12/15 20:39:33,logou no sistema
+622,3,Jorge Rafael,cliente,2022/12/15 20:35:29,Falhou em Calcular Saldo: mais detalhes:java.io.FileNotFoundException: DATA\clientes\3.dat (O sistema não conseguiu localizar o ficheiro especificado)
+621,3,Jorge Rafael,cliente,2022/12/15 20:35:29,logou no sistema
+620,0,root,root,2022/12/15 20:35:29,logou no sistema
+619,0,root,root,2022/12/15 20:35:27,logou no sistema
+618,3,Jorge Rafael,cliente,2022/12/15 20:34:55,Falhou em Calcular Saldo: mais detalhes:java.io.FileNotFoundException: DATA\clientes\3.dat (O sistema não conseguiu localizar o ficheiro especificado)
+617,3,Jorge Rafael,cliente,2022/12/15 20:34:55,logou no sistema
+616,0,root,root,2022/12/15 20:34:55,logou no sistema
+615,0,root,root,2022/12/15 20:34:53,logou no sistema
+614,3,Jorge Rafael,cliente,2022/12/15 20:34:08,Falhou em Calcular Saldo: mais detalhes:java.io.FileNotFoundException: DATA\clientes\3.dat (O sistema não conseguiu localizar o ficheiro especificado)
+613,3,Jorge Rafael,cliente,2022/12/15 20:34:07,logou no sistema
+612,0,root,root,2022/12/15 20:34:07,logou no sistema
+611,0,root,root,2022/12/15 20:34:05,logou no sistema
+610,3,Jorge Rafael,cliente,2022/12/15 20:29:52,Falhou em Calcular Saldo: mais detalhes:java.io.FileNotFoundException: DATA\clientes\3.dat (O sistema não conseguiu localizar o ficheiro especificado)
+609,3,Jorge Rafael,cliente,2022/12/15 20:29:52,logou no sistema
+608,0,root,root,2022/12/15 20:29:52,logou no sistema
+607,0,root,root,2022/12/15 20:29:50,logou no sistema
+606,0,root,root,2022/12/15 20:04:49,logou no sistema
+605,0,root,root,2022/12/15 20:04:40,logou no sistema
+604,0,root,root,2022/12/15 19:58:41,logou no sistema
+603,0,root,root,2022/12/15 19:58:33,logou no sistema
+602,0,root,root,2022/12/15 19:58:32,logou no sistema
+601,0,root,root,2022/12/15 19:58:28,logou no sistema
+600,0,root,root,2022/12/15 19:58:24,logou no sistema
+599,0,root,root,2022/12/15 19:58:20,logou no sistema
+598,0,root,root,2022/12/15 19:58:12,logou no sistema
+597,0,root,root,2022/12/15 19:58:05,logou no sistema
+596,0,root,root,2022/12/15 19:57:41,logou no sistema
+595,0,root,root,2022/12/15 19:56:17,logou no sistema
+594,0,root,root,2022/12/15 19:55:55,logou no sistema
+593,0,root,root,2022/12/15 19:55:52,logou no sistema
+592,0,root,root,2022/12/15 19:51:14,logou no sistema
+591,0,root,root,2022/12/15 19:51:10,logou no sistema
+590,0,root,root,2022/12/15 19:46:39,logou no sistema
+589,0,root,root,2022/12/15 19:46:39,logou no sistema
+588,0,root,root,2022/12/15 19:46:39,logou no sistema
+587,0,root,root,2022/12/15 19:46:38,logou no sistema
+586,0,root,root,2022/12/15 19:46:37,logou no sistema
+585,0,root,root,2022/12/15 19:46:32,logou no sistema
+584,0,root,root,2022/12/15 19:46:06,logou no sistema
+583,0,root,root,2022/12/15 19:45:15,logou no sistema
+582,0,root,root,2022/12/15 19:45:14,logou no sistema
+560,0,root,root,2022/12/15 19:30:09,logou no sistema
+559,0,root,root,2022/12/15 19:30:05,logou no sistema
+558,0,root,root,2022/12/15 19:28:46,logou no sistema
+557,0,root,root,2022/12/15 19:25:43,logou no sistema
+556,0,root,root,2022/12/15 19:24:54,logou no sistema
+555,0,root,root,2022/12/15 19:24:39,logou no sistema
+554,0,root,root,2022/12/15 19:24:00,logou no sistema
+553,0,root,root,2022/12/15 19:23:58,logou no sistema
+552,0,root,root,2022/12/15 19:23:57,logou no sistema
+551,0,root,root,2022/12/15 19:23:27,logou no sistema
+550,0,root,root,2022/12/15 19:23:22,logou no sistema
+549,0,root,root,2022/12/15 19:22:26,logou no sistema
+548,0,root,root,2022/12/15 19:22:25,logou no sistema
+547,0,root,root,2022/12/15 19:22:23,logou no sistema
+546,0,root,root,2022/12/15 19:22:11,logou no sistema
+545,0,root,root,2022/12/15 19:19:42,logou no sistema
+544,0,root,root,2022/12/15 19:19:29,logou no sistema
+543,0,root,root,2022/12/15 19:19:21,logou no sistema
+542,0,root,root,2022/12/15 19:18:59,logou no sistema
+541,0,root,root,2022/12/15 19:18:07,logou no sistema
+540,0,root,root,2022/12/15 19:17:19,logou no sistema
+539,0,root,root,2022/12/15 19:15:12,logou no sistema
+538,0,root,root,2022/12/15 19:15:12,logou no sistema
+537,0,root,root,2022/12/15 19:15:12,logou no sistema
+536,0,root,root,2022/12/15 19:15:07,logou no sistema
+535,0,root,root,2022/12/15 19:14:50,logou no sistema
+534,0,root,root,2022/12/15 19:14:49,logou no sistema
+533,0,root,root,2022/12/15 19:14:48,logou no sistema
+532,0,root,root,2022/12/15 19:14:41,logou no sistema
+531,0,root,root,2022/12/15 19:14:28,logou no sistema
+530,0,root,root,2022/12/15 19:13:08,logou no sistema
+529,0,root,root,2022/12/15 19:12:42,logou no sistema
+528,0,root,root,2022/12/15 19:12:18,logou no sistema
+527,0,root,root,2022/12/15 19:11:44,logou no sistema
+526,0,root,root,2022/12/15 19:11:41,logou no sistema
+525,0,root,root,2022/12/15 19:11:34,logou no sistema
+524,0,root,root,2022/12/15 19:11:28,logou no sistema
+523,0,root,root,2022/12/15 16:06:01,logou no sistema
+522,0,root,root,2022/12/15 16:06:00,logou no sistema
+521,0,root,root,2022/12/15 16:05:50,logou no sistema
+520,0,root,root,2022/12/15 16:05:46,logou no sistema
+519,0,root,root,2022/12/15 16:05:46,logou no sistema
+518,0,root,root,2022/12/15 16:05:45,logou no sistema
+517,0,root,root,2022/12/15 16:05:45,logou no sistema
+516,0,root,root,2022/12/15 16:05:44,logou no sistema
+515,0,root,root,2022/12/15 16:05:44,logou no sistema
+514,0,root,root,2022/12/15 16:05:44,logou no sistema
+513,0,root,root,2022/12/15 16:05:44,logou no sistema
+512,0,root,root,2022/12/15 16:05:43,logou no sistema
+511,0,root,root,2022/12/15 16:05:41,logou no sistema
+510,0,root,root,2022/12/15 16:05:34,logou no sistema
+509,0,root,root,2022/12/15 16:05:30,logou no sistema
+508,0,root,root,2022/12/15 16:04:15,logou no sistema
+507,0,root,root,2022/12/15 16:04:07,logou no sistema
+506,0,root,root,2022/12/15 16:02:31,logou no sistema
+505,0,root,root,2022/12/15 16:02:27,logou no sistema
+504,0,root,root,2022/12/15 16:02:04,logou no sistema
+503,0,root,root,2022/12/15 16:02:02,logou no sistema
+502,0,root,root,2022/12/15 16:01:53,logou no sistema
+501,0,root,root,2022/12/15 15:59:26,logou no sistema
+500,0,root,root,2022/12/15 15:59:22,logou no sistema
+499,0,root,root,2022/12/15 15:56:41,logou no sistema
+498,0,root,root,2022/12/15 15:55:41,logou no sistema
+497,0,root,root,2022/12/15 15:55:31,logou no sistema
+496,0,root,root,2022/12/15 15:55:29,logou no sistema
+495,0,root,root,2022/12/15 15:34:12,logou no sistema
+494,0,root,root,2022/12/15 15:32:50,logou no sistema
+493,0,root,root,2022/12/15 15:28:11,logou no sistema
+492,0,root,root,2022/12/15 15:23:38,logou no sistema
+491,0,root,root,2022/12/15 15:23:31,logou no sistema
+490,0,root,root,2022/12/15 15:23:21,logou no sistema
+489,0,root,root,2022/12/15 15:23:12,logou no sistema
+488,0,root,root,2022/12/15 15:23:01,logou no sistema
+487,0,root,root,2022/12/15 15:22:48,logou no sistema
+486,0,root,root,2022/12/15 15:22:16,logou no sistema
+485,0,root,root,2022/12/15 15:16:28,logou no sistema
+484,0,root,root,2022/12/15 14:14:46,logou no sistema
+483,0,root,root,2022/12/15 14:10:58,logou no sistema
+482,0,root,root,2022/12/15 14:05:44,logou no sistema
+481,0,root,root,2022/12/15 14:04:21,logou no sistema
+480,0,root,root,2022/12/15 14:01:29,logou no sistema
+479,0,root,root,2022/12/15 14:00:27,logou no sistema
+478,0,root,root,2022/12/15 13:56:36,logou no sistema
+477,0,root,root,2022/12/15 13:56:06,logou no sistema
+476,0,root,root,2022/12/15 13:54:04,logou no sistema
+475,0,root,root,2022/12/15 13:53:19,logou no sistema
+474,0,root,root,2022/12/15 13:51:28,logou no sistema
+473,0,root,root,2022/12/15 13:50:35,logou no sistema
+472,26,Roberto Carvalho,cliente,2022/12/15 13:50:13,logou no sistema
+471,0,root,root,2022/12/14 20:03:53,logou no sistema
+470,0,root,root,2022/12/14 20:03:53,logou no sistema
+469,0,root,root,2022/12/14 20:03:53,logou no sistema
+468,0,root,root,2022/12/14 19:59:30,logou no sistema
+467,0,root,root,2022/12/14 19:58:40,logou no sistema
+466,0,root,root,2022/12/14 19:56:10,logou no sistema
+465,0,root,root,2022/12/14 19:53:49,logou no sistema
+464,0,root,root,2022/12/14 19:53:44,logou no sistema
+463,0,root,root,2022/12/14 19:52:48,logou no sistema
+462,0,root,root,2022/12/14 19:51:08,logou no sistema
+461,0,root,root,2022/12/14 19:43:56,logou no sistema
+460,0,root,root,2022/12/14 19:41:57,logou no sistema
+459,0,root,root,2022/12/14 19:39:23,logou no sistema
+458,0,root,root,2022/12/14 19:37:48,logou no sistema
+457,0,root,root,2022/12/14 19:35:55,logou no sistema
+456,26,Roberto Carvalho,cliente,2022/12/14 18:38:37,logou no sistema
+455,26,Roberto Carvalho,cliente,2022/12/14 18:38:26,logou no sistema
+454,26,Roberto Carvalho,cliente,2022/12/14 18:38:12,logou no sistema
+453,26,Roberto Carvalho,cliente,2022/12/14 18:37:07,logou no sistema
+452,26,Roberto Carvalho,cliente,2022/12/14 18:34:19,logou no sistema
+451,26,Roberto Carvalho,cliente,2022/12/14 18:33:50,logou no sistema
+450,26,Roberto Carvalho,cliente,2022/12/14 18:32:58,logou no sistema
+449,26,Roberto Carvalho,cliente,2022/12/14 18:32:38,logou no sistema
+448,26,Roberto Carvalho,cliente,2022/12/14 18:32:19,logou no sistema
+447,26,Roberto Carvalho,cliente,2022/12/14 18:32:03,logou no sistema
+446,26,Roberto Carvalho,cliente,2022/12/14 18:27:10,logou no sistema
+445,26,Roberto Carvalho,cliente,2022/12/14 18:27:06,logou no sistema
+444,26,Roberto Carvalho,cliente,2022/12/14 18:27:02,logou no sistema
+443,26,Roberto Carvalho,cliente,2022/12/14 18:27:01,logou no sistema
+442,26,Roberto Carvalho,cliente,2022/12/14 18:27:00,logou no sistema
+441,26,Roberto Carvalho,cliente,2022/12/14 18:26:10,logou no sistema
+440,26,Roberto Carvalho,cliente,2022/12/14 18:26:09,logou no sistema
+439,26,Roberto Carvalho,cliente,2022/12/14 18:26:07,logou no sistema
+438,26,Roberto Carvalho,cliente,2022/12/14 18:25:04,logou no sistema
+437,26,Roberto Carvalho,cliente,2022/12/14 18:24:30,logou no sistema
+436,26,Roberto Carvalho,cliente,2022/12/14 18:19:13,logou no sistema
+435,26,Roberto Carvalho,cliente,2022/12/14 17:34:18,logou no sistema
+434,20,Jose Cabel,cliente,2022/11/23 18:36:03,logou no sistema
+433,26,Roberto Carvalho,cliente,2022/10/08 17:33:58,logou no sistema
+432,20,Jose Cabel,cliente,2022/10/08 17:33:55,logou no sistema
+431,20,Jose Cabel,cliente,2022/10/08 17:33:52,logou no sistema
+430,20,Jose Cabel,cliente,2022/10/08 17:33:30,logou no sistema
+429,20,Jose Cabel,cliente,2022/10/08 17:33:12,logou no sistema
+428,20,Arlindo,cliente,2022/10/08 17:33:09,logou no sistema
+427,26,Roberto Carvalho,cliente,2022/10/08 17:32:45,logou no sistema
+426,23,Raquel Rosario,cliente,2022/10/08 17:32:39,logou no sistema
+425,23,Raquel Rosario,cliente,2022/10/08 17:32:38,logou no sistema
+424,23,Raquel Rosario,cliente,2022/10/08 17:32:12,logou no sistema
+423,23,Raquel Rosario,cliente,2022/10/08 17:32:01,logou no sistema
+422,26,Roberto Carvalho,cliente,2022/10/08 17:31:56,logou no sistema
+421,26,Roberto Carvalho,cliente,2022/10/08 17:31:54,logou no sistema
+420,26,Roberto Carvalho,cliente,2022/10/08 17:31:21,logou no sistema
+419,26,Roberto Carvalho,cliente,2022/10/08 17:31:19,logou no sistema
+418,26,Roberto Carvalho,cliente,2022/10/08 17:30:50,logou no sistema
+417,26,Roberto Carvalho,cliente,2022/10/08 17:30:48,logou no sistema
+416,26,Roberto Carvalho,cliente,2022/10/08 17:30:36,logou no sistema
+415,26,Roberto Carvalho,cliente,2022/10/08 17:30:34,logou no sistema
+414,26,Roberto Carvalho,cliente,2022/10/08 17:30:23,logou no sistema
+413,25,Maria ROsana,cliente,2022/10/08 17:30:01,logou no sistema
+412,25,Maria ROsana,cliente,2022/10/08 17:29:41,logou no sistema
+411,25,Maria ROsana,cliente,2022/10/08 17:29:39,logou no sistema
+410,20,Arlindo,cliente,2022/10/08 17:29:08,logou no sistema
+409,25,Maria ROsana,cliente,2022/10/08 17:29:03,logou no sistema
+408,25,Maria ROsana,cliente,2022/10/08 17:28:48,logou no sistema
+407,23,Raquel Rosario,cliente,2022/10/08 17:28:41,logou no sistema
+406,23,Raquel Rosario,cliente,2022/10/08 17:28:40,logou no sistema
+405,23,Raquel Rosario,cliente,2022/10/08 17:28:04,logou no sistema
+404,23,Raquel Rosario,cliente,2022/10/08 17:28:03,logou no sistema
+403,23,Raquel Rosario,cliente,2022/10/08 17:27:47,logou no sistema
+402,23,Raquel Rosario,cliente,2022/10/08 17:27:46,logou no sistema
+401,23,Raquel Rosario,cliente,2022/10/08 17:27:24,logou no sistema
+400,25,Maria ROsana,cliente,2022/10/08 17:26:59,logou no sistema
+399,23,Raquel Rosario,cliente,2022/10/08 17:26:05,logou no sistema
+398,20,Arlindo,cliente,2022/10/08 17:25:59,logou no sistema
+397,20,Arlindo,cliente,2022/10/08 17:25:55,logou no sistema
+396,20,Arlindo,cliente,2022/10/08 17:25:22,logou no sistema
+395,20,Arlindo,cliente,2022/10/08 17:25:21,logou no sistema
+394,20,Arlindo,cliente,2022/10/08 17:24:53,logou no sistema
+393,26,Roberto Carvalho,cliente,2022/10/08 17:24:13,logou no sistema
+392,23,Raquel Rosario,cliente,2022/10/08 17:24:04,logou no sistema
+391,23,Raquel Rosario,cliente,2022/10/08 17:24:03,logou no sistema
+390,23,Raquel Rosario,cliente,2022/10/08 17:23:51,logou no sistema
+389,23,Raquel Rosario,cliente,2022/10/08 17:23:50,logou no sistema
+388,23,Raquel Rosario,cliente,2022/10/08 17:23:39,logou no sistema
+387,23,Raquel Rosario,cliente,2022/10/08 17:23:38,logou no sistema
+386,23,Raquel Rosario,cliente,2022/10/08 17:23:25,logou no sistema
+385,23,Raquel Rosario,cliente,2022/10/08 17:23:24,logou no sistema
+384,23,Raquel Rosario,cliente,2022/10/08 17:23:08,logou no sistema
+383,23,Raquel Rosario,cliente,2022/10/08 17:23:07,logou no sistema
+382,23,Raquel Rosario,cliente,2022/10/08 17:22:54,logou no sistema
+381,23,Raquel Rosario,cliente,2022/10/08 17:22:53,logou no sistema
+380,23,Raquel Rosario,cliente,2022/10/08 17:21:59,logou no sistema
+379,26,Roberto Carvalho,cliente,2022/10/08 17:21:56,logou no sistema
+378,26,Roberto Carvalho,cliente,2022/10/08 17:21:50,logou no sistema
+377,23,Raquel Rosario,cliente,2022/10/08 17:21:24,logou no sistema
+376,23,Raquel Rosario,cliente,2022/10/08 17:21:23,logou no sistema
+375,23,Raquel Rosario,cliente,2022/10/08 17:20:53,logou no sistema
+374,20,Arlindo,cliente,2022/10/08 17:20:42,logou no sistema
+373,20,Arlindo,cliente,2022/10/08 17:20:17,logou no sistema
+372,20,Arlindo,cliente,2022/10/08 17:20:14,logou no sistema
+371,20,Arlindo,cliente,2022/10/08 17:20:12,logou no sistema
+370,20,Arlindo,cliente,2022/10/08 17:20:02,logou no sistema
+369,20,Arlindo,cliente,2022/10/08 17:20:01,logou no sistema
+368,26,Roberto Carvalho,cliente,2022/10/08 17:19:42,logou no sistema
+367,20,Arlindo,cliente,2022/10/08 17:19:34,logou no sistema
+366,20,Arlindo,cliente,2022/10/08 17:19:30,logou no sistema
+365,26,Roberto Carvalho,cliente,2022/10/08 17:19:17,logou no sistema
+364,26,Roberto Carvalho,cliente,2022/10/08 17:19:13,logou no sistema
+363,26,Roberto Carvalho,cliente,2022/10/08 17:18:16,logou no sistema
+362,26,Roberto Carvalho,cliente,2022/10/08 17:18:13,logou no sistema
+361,26,Roberto Carvalho,cliente,2022/10/08 17:17:16,logou no sistema
+360,26,Roberto Carvalho,cliente,2022/10/08 17:17:14,logou no sistema
+359,26,Roberto Carvalho,cliente,2022/10/08 17:17:02,logou no sistema
+358,26,Roberto Carvalho,cliente,2022/10/08 17:16:30,logou no sistema
+357,26,Roberto Carvalho,cliente,2022/10/08 17:16:16,logou no sistema
+356,20,Arlindo,cliente,2022/10/08 17:15:54,logou no sistema
+355,20,Arlindo,cliente,2022/10/08 17:15:45,logou no sistema
+354,26,Roberto Carvalho,cliente,2022/10/08 17:15:40,logou no sistema
+353,20,Arlindo,cliente,2022/10/08 17:15:01,logou no sistema
+352,26,Roberto Carvalho,cliente,2022/10/08 17:14:50,logou no sistema
+351,20,Arlindo,cliente,2022/10/08 17:14:43,logou no sistema
+350,26,Roberto Carvalho,cliente,2022/10/08 17:14:10,logou no sistema
+349,26,Roberto Carvalho,cliente,2022/10/08 17:13:35,logou no sistema
+348,26,Roberto Carvalho,cliente,2022/10/08 17:11:36,logou no sistema
+347,26,Roberto Carvalho,cliente,2022/10/08 17:08:56,logou no sistema
+346,20,Arlindo,cliente,2022/10/08 17:08:42,logou no sistema
+345,20,Arlindo,cliente,2022/10/08 17:08:40,logou no sistema
+344,20,Arlindo,cliente,2022/10/08 17:08:17,logou no sistema
+343,20,Arlindo,cliente,2022/10/08 17:08:12,logou no sistema
+342,-1,system,root,2022/10/08 17:07:52,Criando ficheiro: DATA/clientes/26.dat
+341,24,Raquel Rosario,funcionario,2022/10/08 17:07:52,Criou usuario Roberto Carvalho com id: 26
+340,24,Raquel Rosario,funcionario,2022/10/08 17:07:52,logou no sistema
+339,20,Arlindo,cliente,2022/10/08 17:07:19,logou no sistema
+338,23,Raquel Rosario,cliente,2022/10/08 17:07:16,logou no sistema
+337,23,Raquel Rosario,cliente,2022/10/08 17:07:04,logou no sistema
+336,23,Raquel Rosario,cliente,2022/10/08 17:07:03,logou no sistema
+335,23,Raquel Rosario,cliente,2022/10/08 17:06:29,logou no sistema
+334,23,Raquel Rosario,cliente,2022/10/08 17:06:26,logou no sistema
+333,23,Raquel Rosario,cliente,2022/10/08 17:05:59,logou no sistema
+332,23,Raquel Rosario,cliente,2022/10/08 17:05:45,logou no sistema
+331,24,Raquel Rosario,funcionario,2022/10/08 17:05:37,logou no sistema
+330,23,Raquel Rosario,cliente,2022/10/08 17:05:09,logou no sistema
+329,25,Maria ROsana,cliente,2022/10/08 17:05:04,logou no sistema
+328,25,Maria ROsana,cliente,2022/10/08 17:05:02,logou no sistema
+327,25,Maria ROsana,cliente,2022/10/08 17:04:14,logou no sistema
+326,23,Raquel Rosario,cliente,2022/10/08 17:04:09,logou no sistema
+325,23,Raquel Rosario,cliente,2022/10/08 17:04:06,logou no sistema
+324,23,Raquel Rosario,cliente,2022/10/08 17:03:33,logou no sistema
+323,25,Maria ROsana,cliente,2022/10/08 17:03:28,logou no sistema
+322,23,Raquel Rosario,cliente,2022/10/08 17:03:20,logou no sistema
+321,20,Arlindo,cliente,2022/10/08 17:02:54,logou no sistema
+320,25,Maria ROsana,cliente,2022/10/08 17:02:48,logou no sistema
+319,25,Maria ROsana,cliente,2022/10/08 17:02:47,logou no sistema
+318,25,Maria ROsana,cliente,2022/10/08 17:02:23,logou no sistema
+317,23,Raquel Rosario,cliente,2022/10/08 17:01:37,logou no sistema
+316,23,Raquel Rosario,cliente,2022/10/08 17:01:35,logou no sistema
+315,20,Arlindo,cliente,2022/10/08 17:01:20,logou no sistema
+314,23,Raquel Rosario,cliente,2022/10/08 17:01:17,logou no sistema
+313,23,Raquel Rosario,cliente,2022/10/08 17:01:16,logou no sistema
+312,23,Raquel Rosario,cliente,2022/10/08 17:00:33,logou no sistema
+311,20,Arlindo,cliente,2022/10/08 17:00:27,logou no sistema
+310,23,Raquel Rosario,cliente,2022/10/08 16:58:45,logou no sistema
+309,20,Arlindo,cliente,2022/10/08 16:58:27,logou no sistema
+308,20,Arlindo,cliente,2022/10/08 16:57:29,logou no sistema
+307,25,Maria ROsana,cliente,2022/10/08 16:50:52,logou no sistema
+306,25,Maria ROsana,cliente,2022/10/08 16:49:12,logou no sistema
+305,25,Maria ROsana,cliente,2022/10/08 16:48:24,logou no sistema
+304,25,Maria ROsana,cliente,2022/10/08 16:48:23,logou no sistema
+303,25,Maria ROsana,cliente,2022/10/08 16:48:02,logou no sistema
+302,20,Arlindo,cliente,2022/10/08 16:47:43,logou no sistema
+301,23,Raquel Rosario,cliente,2022/10/08 16:45:50,logou no sistema
+300,23,Raquel Rosario,cliente,2022/10/08 16:45:33,logou no sistema
+299,23,Raquel Rosario,cliente,2022/10/08 16:43:48,logou no sistema
+298,23,Raquel Rosario,cliente,2022/10/08 16:42:14,logou no sistema
+297,20,Arlindo,cliente,2022/10/08 16:41:56,logou no sistema
+296,20,Arlindo,cliente,2022/10/08 16:41:52,logou no sistema
+295,20,Arlindo,cliente,2022/10/08 16:40:46,logou no sistema
+294,20,Arlindo,cliente,2022/10/08 16:30:31,logou no sistema
+293,25,Maria ROsana,cliente,2022/10/08 16:10:48,logou no sistema
+292,20,Arlindo,cliente,2022/10/08 16:10:20,logou no sistema
+291,20,Arlindo,cliente,2022/10/08 16:10:19,logou no sistema
+290,23,Raquel Rosario,cliente,2022/10/08 16:10:07,logou no sistema
+289,20,Arlindo,cliente,2022/10/08 16:09:42,logou no sistema
+288,23,Raquel Rosario,cliente,2022/10/08 16:09:36,logou no sistema
+287,23,Raquel Rosario,cliente,2022/10/08 16:09:10,logou no sistema
+286,23,Raquel Rosario,cliente,2022/10/08 16:08:50,logou no sistema
+285,23,Raquel Rosario,cliente,2022/10/08 16:08:46,logou no sistema
+284,20,Arlindo,cliente,2022/10/08 16:08:24,logou no sistema
+283,20,Arlindo,cliente,2022/10/08 16:08:24,logou no sistema
+282,25,Maria ROsana,cliente,2022/10/08 16:08:21,logou no sistema
+281,20,Arlindo,cliente,2022/10/08 16:08:14,logou no sistema
+280,25,Maria ROsana,cliente,2022/10/08 16:07:35,logou no sistema
+279,20,Arlindo,cliente,2022/10/08 16:02:41,logou no sistema
+278,20,Arlindo,cliente,2022/10/08 16:02:40,logou no sistema
+277,20,Arlindo,cliente,2022/10/08 16:02:10,logou no sistema
+276,20,Arlindo,cliente,2022/10/08 16:02:09,logou no sistema
+275,20,Arlindo,cliente,2022/10/08 16:02:07,logou no sistema
+274,20,Arlindo,cliente,2022/10/08 16:01:57,logou no sistema
+273,20,Arlindo,cliente,2022/10/08 16:01:54,logou no sistema
+272,20,Arlindo,cliente,2022/10/08 16:01:33,logou no sistema
+271,24,Raquel Rosario,funcionario,2022/10/08 16:01:30,logou no sistema
+270,20,Arlindo,cliente,2022/10/08 16:00:51,logou no sistema
+269,20,Arlindo,cliente,2022/10/08 16:00:50,logou no sistema
+268,20,Arlindo,cliente,2022/10/08 16:00:36,logou no sistema
+267,20,Arlindo,cliente,2022/10/08 16:00:34,logou no sistema
+266,23,Raquel Rosario,cliente,2022/10/08 16:00:09,logou no sistema
+265,20,Arlindo,cliente,2022/10/08 15:59:58,logou no sistema
+264,20,Arlindo,cliente,2022/10/08 15:59:56,logou no sistema
+263,20,Arlindo,cliente,2022/10/08 15:59:35,logou no sistema
+262,20,Arlindo,cliente,2022/10/08 15:59:33,logou no sistema
+261,-1,system,root,2022/10/08 15:59:04,Criando ficheiro: DATA/clientes/25.dat
+260,24,Raquel Rosario,funcionario,2022/10/08 15:59:04,Criou usuario Maria ROsana com id: 25
+259,24,Raquel Rosario,funcionario,2022/10/08 15:59:04,logou no sistema
+258,23,Raquel Rosario,cliente,2022/10/08 15:58:07,logou no sistema
+257,23,Raquel Rosario,cliente,2022/10/08 15:58:06,logou no sistema
+256,23,Raquel Rosario,cliente,2022/10/08 15:57:17,logou no sistema
+255,23,Raquel Rosario,cliente,2022/10/08 15:57:15,logou no sistema
+254,23,Raquel Rosario,cliente,2022/10/08 15:56:59,logou no sistema
+253,23,Raquel Rosario,cliente,2022/10/08 15:56:57,logou no sistema
+252,23,Raquel Rosario,cliente,2022/10/08 15:56:21,logou no sistema
+251,23,Raquel Rosario,cliente,2022/10/08 15:56:18,logou no sistema
+250,23,Raquel Rosario,cliente,2022/10/08 15:55:30,logou no sistema
+249,24,Raquel Rosario,funcionario,2022/10/08 15:55:20,logou no sistema
+248,23,Raquel Rosario,cliente,2022/10/08 15:54:45,logou no sistema
+247,20,Arlindo,cliente,2022/10/08 15:54:40,logou no sistema
+246,20,Arlindo,cliente,2022/10/08 15:54:38,logou no sistema
+245,20,Arlindo,cliente,2022/10/08 15:52:59,logou no sistema
+244,20,Arlindo,cliente,2022/10/08 15:52:57,logou no sistema
+243,20,Arlindo,cliente,2022/10/08 15:52:44,logou no sistema
+242,23,Raquel Rosario,cliente,2022/10/08 15:52:39,logou no sistema
+241,23,Raquel Rosario,cliente,2022/10/08 15:52:37,logou no sistema
+240,20,Arlindo,cliente,2022/10/08 15:52:24,logou no sistema
+239,20,Arlindo,cliente,2022/10/08 15:52:23,logou no sistema
+238,20,Arlindo,cliente,2022/10/08 15:52:12,logou no sistema
+237,20,Arlindo,cliente,2022/10/08 15:52:11,logou no sistema
+236,20,Arlindo,cliente,2022/10/08 15:52:00,logou no sistema
+235,20,Arlindo,cliente,2022/10/08 15:51:59,logou no sistema
+234,23,Raquel Rosario,cliente,2022/10/08 15:51:30,logou no sistema
+233,20,Arlindo,cliente,2022/10/08 15:51:24,logou no sistema
+232,23,Raquel Rosario,cliente,2022/10/08 15:51:03,logou no sistema
+231,23,Raquel Rosario,cliente,2022/10/08 15:50:47,logou no sistema
+230,23,Raquel Rosario,cliente,2022/10/08 15:50:16,logou no sistema
+229,20,Arlindo,cliente,2022/10/08 15:49:51,logou no sistema
+228,20,Arlindo,cliente,2022/10/08 15:49:38,logou no sistema
+227,20,Arlindo,cliente,2022/10/08 15:49:30,logou no sistema
+226,20,Arlindo,cliente,2022/10/08 15:49:25,logou no sistema
+225,20,Arlindo,cliente,2022/10/08 15:49:14,logou no sistema
+224,20,Arlindo,cliente,2022/10/08 15:49:09,logou no sistema
+223,20,Arlindo,cliente,2022/10/08 15:49:01,logou no sistema
+222,20,Arlindo,cliente,2022/10/08 15:48:58,logou no sistema
+221,20,Arlindo,cliente,2022/10/08 15:48:46,logou no sistema
+220,20,Arlindo,cliente,2022/10/08 15:48:43,logou no sistema
+219,20,Arlindo,cliente,2022/10/08 15:48:26,logou no sistema
+218,20,Arlindo,cliente,2022/10/08 15:48:19,logou no sistema
+217,20,Arlindo,cliente,2022/10/08 15:48:06,logou no sistema
+216,20,Arlindo,cliente,2022/10/08 15:48:03,logou no sistema
+215,20,Arlindo,cliente,2022/10/08 15:47:29,logou no sistema
+214,23,Raquel Rosario,cliente,2022/10/08 15:46:56,logou no sistema
+213,23,Raquel Rosario,cliente,2022/10/08 15:46:53,logou no sistema
+212,23,Raquel Rosario,cliente,2022/10/08 15:46:35,logou no sistema
+211,20,Arlindo,cliente,2022/10/08 15:45:38,logou no sistema
+210,20,Arlindo,cliente,2022/10/08 15:45:35,logou no sistema
+209,20,Arlindo,cliente,2022/10/08 15:45:00,logou no sistema
+208,20,Arlindo,cliente,2022/10/08 15:44:33,logou no sistema
+207,20,Arlindo Nascimento da Luz,cliente,2022/10/08 15:44:30,logou no sistema
+206,20,Arlindo Nascimento da Luz,cliente,2022/10/08 15:43:54,logou no sistema
+205,22,Jaime Fonseca,cliente,2022/06/05 13:55:49,logou no sistema
+204,22,Jaime Fonseca,cliente,2022/06/05 13:55:34,logou no sistema
+203,22,Jaime Fonseca,cliente,2022/06/05 13:48:30,logou no sistema
+202,22,Jaime Fonseca,cliente,2022/06/05 13:48:16,logou no sistema
+201,22,Jaime Fonseca,cliente,2022/06/05 13:46:38,logou no sistema
+200,22,Jaime Fonseca,cliente,2022/06/05 13:46:36,logou no sistema
+199,22,Jaime Fonseca,cliente,2022/06/05 13:46:24,logou no sistema
+198,22,Jaime Fonseca,cliente,2022/06/05 13:44:48,logou no sistema
+197,22,Jaime Fonseca,cliente,2022/06/05 13:44:34,logou no sistema
+196,22,Jaime Fonseca,cliente,2022/06/05 13:33:59,logou no sistema
+195,22,Jaime Fonseca,cliente,2022/06/05 13:33:37,logou no sistema
+194,23,Raquel Rosario,cliente,2022/06/04 12:55:35,logou no sistema
+193,23,Raquel Rosario,cliente,2022/06/04 12:55:31,logou no sistema
+192,23,Raquel Rosario,cliente,2022/06/04 12:39:28,logou no sistema
+191,23,Raquel Rosario,cliente,2022/06/04 12:39:27,logou no sistema
+190,23,Raquel Rosario,cliente,2022/06/04 12:39:14,logou no sistema
+189,20,Arlindo Nascimento da Luz,cliente,2022/06/04 12:38:32,logou no sistema
+188,20,Arlindo Nascimento da Luz,cliente,2022/06/04 12:38:24,logou no sistema
+187,23,Raquel Rosario,cliente,2022/06/04 12:38:12,logou no sistema
+186,23,Raquel Rosario,cliente,2022/06/04 12:38:10,logou no sistema
+185,23,Raquel Rosario,cliente,2022/06/04 12:38:06,logou no sistema
+184,23,Raquel Rosario,cliente,2022/06/04 12:35:43,logou no sistema
+183,23,Raquel Rosario,cliente,2022/06/04 12:35:28,logou no sistema
+182,20,Arlindo Nascimento da Luz,cliente,2022/06/04 12:30:47,logou no sistema
+181,23,Raquel Rosario,cliente,2022/06/04 12:30:39,logou no sistema
+180,23,Raquel Rosario,cliente,2022/06/04 12:30:36,logou no sistema
+179,-1,system,root,2022/06/04 12:30:35,Criando ficheiro: DATA/clientes/100000.dat
+178,23,Raquel Rosario,cliente,2022/06/04 12:30:35,logou no sistema
+177,23,Raquel Rosario,cliente,2022/06/04 12:30:15,logou no sistema
+176,-1,system,root,2022/06/04 12:28:02,Criando ficheiro: DATA/clientes/24.dat
+175,24,Raquel Rosario,funcionario,2022/06/04 12:28:02,logou no sistema
+174,23,Raquel Rosario,cliente,2022/06/04 12:26:53,logou no sistema
+173,23,Raquel Rosario,cliente,2022/06/04 12:26:52,logou no sistema
+172,23,Raquel Rosario,cliente,2022/06/04 12:26:29,logou no sistema
+171,24,Raquel Rosario,funcionario,2022/06/04 12:24:52,logou no sistema
+170,24,Raquel Rosario,funcionario,2022/06/04 12:24:27,logou no sistema
+169,23,Raquel Rosario,cliente,2022/06/04 12:22:02,logou no sistema
+168,23,Raquel Rosario,cliente,2022/06/04 12:21:31,logou no sistema
+167,0,root,root,2022/06/04 12:20:42,Criou usuario Raquel Rosario com id: 24
+166,0,root,root,2022/06/04 12:20:42,logou no sistema
+165,-1,system,root,2022/06/04 12:20:06,Criando ficheiro: DATA/clientes/23.dat
+164,0,root,root,2022/06/04 12:20:06,Criou usuario Raquel Rosario com id: 23
+163,0,root,root,2022/06/04 12:20:05,logou no sistema
+162,22,Jaime Fonseca,cliente,2022/06/04 12:16:04,logou no sistema
+161,22,Jaime Fonseca,cliente,2022/06/04 12:16:02,logou no sistema
+160,22,Jaime Fonseca,cliente,2022/06/04 12:15:52,logou no sistema
+159,20,Arlindo Nascimento da Luz,cliente,2022/06/04 12:15:35,logou no sistema
+158,20,Arlindo Nascimento da Luz,cliente,2022/06/04 12:15:33,logou no sistema
+157,20,Arlindo Nascimento da Luz,cliente,2022/06/04 12:15:26,logou no sistema
+156,20,Arlindo Nascimento da Luz,cliente,2022/06/04 12:15:17,logou no sistema
+155,20,Arlindo Nascimento da Luz,cliente,2022/06/04 12:15:14,logou no sistema
+154,20,Arlindo Nascimento da Luz,cliente,2022/06/04 12:14:59,logou no sistema
+153,22,Jaime Fonseca,cliente,2022/06/04 11:55:54,logou no sistema
+152,22,Jaime Fonseca,cliente,2022/06/04 11:55:41,logou no sistema
+151,20,Arlindo Nascimento da Luz,cliente,2022/06/04 11:55:01,logou no sistema
+150,20,Arlindo Nascimento da Luz,cliente,2022/06/04 11:54:41,logou no sistema
+149,20,Arlindo Nascimento da Luz,cliente,2022/06/04 11:54:39,logou no sistema
+148,20,Arlindo Nascimento da Luz,cliente,2022/06/04 11:54:25,logou no sistema
+147,22,Jaime Fonseca,cliente,2022/01/04 03:02:08,logou no sistema
+146,22,Jaime Fonseca,cliente,2022/01/04 03:02:07,logou no sistema
+145,22,Jaime Fonseca,cliente,2022/01/04 03:01:59,logou no sistema
+144,22,Jaime Fonseca,cliente,2022/01/04 03:01:57,logou no sistema
+143,22,Jaime Fonseca,cliente,2022/01/04 03:01:49,logou no sistema
+142,20,Arlindo Nascimento da Luz,cliente,2022/01/04 03:01:07,logou no sistema
+141,20,Arlindo Nascimento da Luz,cliente,2022/01/04 03:01:02,logou no sistema
+140,20,Arlindo Nascimento da Luz,cliente,2022/01/04 02:55:49,logou no sistema
+139,20,Arlindo Nascimento da Luz,cliente,2022/01/04 02:55:30,logou no sistema
+138,20,Arlindo Nascimento da Luz,cliente,2022/01/04 02:55:27,logou no sistema
+137,20,Arlindo Nascimento da Luz,cliente,2022/01/04 02:53:15,logou no sistema
+136,20,Arlindo Nascimento da Luz,cliente,2022/01/04 02:53:13,logou no sistema
+135,20,Arlindo Nascimento da Luz,cliente,2022/01/04 02:53:06,logou no sistema
+134,20,Arlindo Nascimento da Luz,cliente,2022/01/04 02:52:46,logou no sistema
+133,20,Arlindo Nascimento da Luz,cliente,2022/01/04 02:52:41,logou no sistema
+132,-1,system,root,2022/01/04 02:52:34,Criando ficheiro: DATA/clientes/-1.dat
+131,20,Arlindo Nascimento da Luz,cliente,2022/01/04 02:49:42,logou no sistema
+130,20,Arlindo Nascimento da Luz,cliente,2022/01/04 02:49:35,logou no sistema
+129,22,Jaime Fonseca,cliente,2022/01/04 02:46:43,logou no sistema
+128,20,Arlindo Nascimento da Luz,cliente,2022/01/04 02:16:31,logou no sistema
+127,22,Jaime Fonseca,cliente,2022/01/04 02:16:22,logou no sistema
+126,22,Jaime Fonseca,cliente,2022/01/04 02:16:21,logou no sistema
+125,22,Jaime Fonseca,cliente,2022/01/04 02:16:09,logou no sistema
+124,20,Arlindo Nascimento da Luz,cliente,2022/01/04 02:15:48,logou no sistema
+123,20,Arlindo Nascimento da Luz,cliente,2022/01/04 02:15:46,logou no sistema
+122,20,Arlindo Nascimento da Luz,cliente,2022/01/04 02:15:14,logou no sistema
+121,14,Gabriel da Luz,funcionario,2022/01/04 02:14:17,logou no sistema
+120,14,Gabriel da Luz,funcionario,2022/01/04 02:13:27,logou no sistema
+119,20,Arlindo Nascimento da Luz,cliente,2022/01/04 02:12:22,logou no sistema
+118,20,Arlindo Nascimento da Luz,cliente,2022/01/04 02:09:37,logou no sistema
+117,20,Arlindo Nascimento da Luz,cliente,2022/01/04 02:09:29,logou no sistema
+116,14,Gabriel da Luz,funcionario,2022/01/04 02:07:42,logou no sistema
+115,14,Gabriel da Luz,funcionario,2022/01/04 02:06:18,logou no sistema
+114,14,Gabriel da Luz,funcionario,2022/01/04 02:02:01,logou no sistema
+113,14,Gabriel da Luz,funcionario,2022/01/04 02:01:17,logou no sistema
+112,20,Arlindo Nascimento da Luz,cliente,2022/01/04 02:00:13,logou no sistema
+111,20,Arlindo Nascimento da Luz,cliente,2022/01/04 01:55:27,logou no sistema
+110,20,Arlindo Nascimento da Luz,cliente,2022/01/04 01:55:25,logou no sistema
+109,20,Arlindo Nascimento da Luz,cliente,2022/01/04 01:55:19,logou no sistema
+108,20,Arlindo Nascimento da Luz,cliente,2022/01/04 01:55:12,logou no sistema
+107,20,Arlindo Nascimento da Luz,cliente,2022/01/04 01:51:05,logou no sistema
+106,20,Arlindo Nascimento da Luz,cliente,2022/01/04 01:50:49,logou no sistema
+105,22,Jaime Fonseca,cliente,2022/01/04 01:36:24,logou no sistema
+104,-1,system,root,2022/01/04 01:35:51,Criando ficheiro: DATA/clientes/22.dat
+103,14,Gabriel da Luz,funcionario,2022/01/04 01:35:26,logou no sistema
+102,22,Jaime Fonseca,cliente,2022/01/04 01:35:08,Falhou em Calcular Saldo: mais detalhes:java.io.FileNotFoundException: DATA\clientes\22.dat (O sistema n�o conseguiu localizar o ficheiro especificado)
+101,22,Jaime Fonseca,cliente,2022/01/04 01:33:43,logou no sistema
+100,20,Arlindo Nascimento da Luz,cliente,2022/01/04 01:21:17,logou no sistema
+99,20,Arlindo Nascimento da Luz,cliente,2022/01/04 01:20:50,logou no sistema
+98,20,Arlindo Nascimento da Luz,cliente,2022/01/04 01:17:52,logou no sistema
+97,20,Arlindo Nascimento da Luz,cliente,2022/01/04 01:07:29,logou no sistema
+96,14,Gabriel da Luz,funcionario,2022/01/04 01:07:20,logou no sistema
+95,-1,system,root,2022/01/04 01:02:41,REGISTRO DE TRANSACOES FOI INDEVIDAMENTE ALTERADO NA LINHA 1
+94,14,Gabriel da Luz,funcionario,2022/01/04 01:02:41,logou no sistema
+93,20,Arlindo Nascimento da Luz,cliente,2022/01/04 00:59:45,logou no sistema
+92,20,Arlindo Nascimento da Luz,cliente,2022/01/04 00:55:49,logou no sistema
+91,20,Arlindo Nascimento da Luz,cliente,2022/01/04 00:51:00,logou no sistema
+90,20,Arlindo Nascimento da Luz,cliente,2022/01/04 00:49:54,logou no sistema
+89,20,Arlindo Nascimento da Luz,cliente,2022/01/04 00:48:12,logou no sistema
+88,14,Gabriel da Luz,funcionario,2022/01/04 00:47:56,logou no sistema
+87,20,Arlindo Nascimento da Luz,cliente,2022/01/04 00:47:28,logou no sistema
+86,20,Arlindo Nascimento da Luz,cliente,2022/01/04 00:45:32,logou no sistema
+85,14,Gabriel da Luz,funcionario,2022/01/04 00:12:28,logou no sistema
+84,14,Gabriel da Luz,funcionario,2022/01/04 00:11:21,logou no sistema
+83,14,Gabriel da Luz,funcionario,2022/01/03 23:39:29,logou no sistema
+82,14,Gabriel da Luz,funcionario,2022/01/03 23:37:48,logou no sistema
+81,14,Gabriel da Luz,funcionario,2022/01/03 23:34:34,logou no sistema
+80,14,Gabriel da Luz,funcionario,2022/01/03 23:28:04,logou no sistema
+79,14,Gabriel da Luz,funcionario,2022/01/03 23:23:20,logou no sistema
+78,14,Gabriel da Luz,funcionario,2022/01/03 23:20:22,logou no sistema
+77,14,Gabriel da Luz,funcionario,2022/01/03 23:14:37,logou no sistema
+76,14,Gabriel da Luz,funcionario,2022/01/03 23:14:04,logou no sistema
+75,14,Gabriel da Luz,funcionario,2022/01/03 23:10:31,logou no sistema
+74,14,Gabriel da Luz,funcionario,2022/01/03 23:08:52,logou no sistema
+73,14,Gabriel da Luz,funcionario,2022/01/03 23:02:53,logou no sistema
+72,14,Gabriel da Luz,funcionario,2022/01/03 22:37:31,logou no sistema
+71,14,Gabriel da Luz,funcionario,2022/01/03 22:32:46,logou no sistema
+70,14,Gabriel da Luz,funcionario,2022/01/03 22:31:02,logou no sistema
+69,14,Gabriel da Luz,funcionario,2022/01/03 22:30:46,logou no sistema
+68,14,Gabriel da Luz,funcionario,2022/01/03 22:25:39,logou no sistema
+67,14,Gabriel da Luz,funcionario,2022/01/03 22:25:36,logou no sistema
+66,14,Gabriel da Luz,funcionario,2022/01/03 00:35:27,logou no sistema
+65,14,Gabriel da Luz,funcionario,2022/01/03 00:35:25,logou no sistema
+64,14,Gabriel da Luz,funcionario,2022/01/03 00:35:04,logou no sistema
+63,14,Gabriel da Luz,funcionario,2022/01/03 00:31:42,logou no sistema
+62,14,Gabriel da Luz,funcionario,2022/01/03 00:25:41,logou no sistema
+61,14,Gabriel da Luz,funcionario,2022/01/03 00:22:01,logou no sistema
+60,14,Gabriel da Luz,funcionario,2022/01/03 00:16:53,logou no sistema
+59,22,Jaime Fonseca,cliente,2022/01/02 04:04:45,logou no sistema
+58,0,root,root,2022/01/02 04:03:40,Criou usuario Jaime Fonseca com id: 22
+57,0,root,root,2022/01/02 04:03:40,logou no sistema
+56,14,Gabriel da Luz,funcionario,2022/01/02 03:57:15,Criou usuario Jaime Fonseca com id: 21
+55,14,Gabriel da Luz,funcionario,2022/01/02 03:57:15,logou no sistema
+54,20,Arlindo Nascimento da Luz,cliente,2022/01/02 03:54:59,logou no sistema
+53,14,Gabriel da Luz,funcionario,2022/01/02 02:57:23,logou no sistema
+52,20,Fransisco Lima,cliente,2022/01/02 02:35:35,logou no sistema
+51,0,root,root,2022/01/02 00:39:44,Criou usuario Fransisco Lima com id: 20
+50,0,root,root,2022/01/02 00:39:44,logou no sistema
+49,14,Gabriel da Luz,funcionario,2022/01/01 21:58:29,Criou usuario Samuel Moreira com id: 19
+48,14,Gabriel da Luz,funcionario,2022/01/01 21:58:29,logou no sistema
+47,0,root,root,2022/01/01 21:57:18,logou no sistema
+46,14,Gabriel da Luz,funcionario,2022/01/01 18:52:50,Criou usuario Tom Silva com id: 18
+45,14,Gabriel da Luz,funcionario,2022/01/01 18:52:50,logou no sistema
+44,14,Gabriel da Luz,funcionario,2022/01/01 18:31:52,logou no sistema
+43,14,Gabriel da Luz,funcionario,2022/01/01 18:26:53,logou no sistema
+42,0,root,root,2022/01/01 17:19:35,Criou usuario Jose Santos com id: 17
+41,0,root,root,2022/01/01 17:19:35,logou no sistema
+40,0,root,root,2022/01/01 17:15:02,logou no sistema
+39,0,root,root,2022/01/01 17:09:41,logou no sistema
+38,0,root,root,2022/01/01 17:05:02,logou no sistema
+37,0,root,root,2022/01/01 16:55:28,logou no sistema
+36,0,root,root,2022/01/01 16:55:07,logou no sistema
+35,0,root,root,2022/01/01 16:55:07,logou no sistema
+34,0,root,root,2022/01/01 16:55:07,logou no sistema
+33,0,root,root,2022/01/01 16:55:07,logou no sistema
+32,0,root,root,2022/01/01 16:48:20,Criou usuario Jose Santos com id: 16
+31,0,root,root,2022/01/01 16:48:20,logou no sistema
+30,0,root,root,2021/12/31 23:49:25,Criou usuario Samuel Reis com id: 15
+29,0,root,root,2021/12/31 23:49:25,logou no sistema
+28,0,root,root,2021/12/31 23:21:51,Criou usuario Gabriel da Luz com id: 14
+27,0,root,root,2021/12/31 23:21:51,logou no sistema
+25,0,root,root,2021/12/31 23:19:16,logou no sistema
+24,0,root,root,2021/12/31 00:01:11,logou no sistema
+23,0,root,root,2021/12/31 00:00:03,logou no sistema
+22,0,root,root,2021/12/30 23:59:31,removeu usuario Chris Almeida,id:10
+21,0,root,root,2021/12/30 23:59:31,removeu usuario Chris Almeida,id:11
+20,0,root,root,2021/12/30 23:59:31,Criou usuario Chris Almeida com id: 12
+19,0,root,root,2021/12/30 23:59:31,logou no sistema
+18,0,root,root,2021/12/30 23:43:50,remo��o do usuario Maria Brand�o,id:7
+17,0,root,root,2021/12/30 23:43:50,remo��o do usuario Angelica Maria,id:5
+16,0,root,root,2021/12/30 23:43:50,Criou usuario Chris Almeida com id: 11
+15,0,root,root,2021/12/30 23:43:15,remo��o do usuario Miguel Santos,id:2
+14,0,root,root,2021/12/30 23:43:15,remo��o do usuario Jorge,id:1
+13,0,root,root,2021/12/30 23:43:15,Criou usuario Chris Almeida com id: 10
+12,0,root,root,2021/12/30 23:40:30,remo��o do usuario Jorge,id:16
+11,0,root,root,2021/12/30 23:40:30,remo��o do usuario Rafael,id:15
+10,0,root,root,2021/12/30 23:40:30,Criou usuario Jose Almeida com id: 9
+9,0,root,root,2021/12/30 23:38:46,remo��o do usuario Antonio Silva,id:6
+8,0,root,root,2021/12/30 23:38:46,Criou usuario Roberto Carlos com id: 8
+7,0,root,root,2021/12/30 23:38:46,Criou usuario Maria Brand�o com id: 7
+6,0,root,root,2021/12/30 23:35:47,Criou usuario Antonio Silva com id: 6
+5,0,root,root,2021/12/30 23:35:47,Criou usuario Angelica Maria com id: 5
+4,0,root,root,2021/12/30 23:23:38,Criou usuario Antonio Silva com id: 4
+3,0,root,root,2021/12/30 23:23:38,Criou usuario Jorge Rafael com id: 3
+2,0,root,funcionario,2021/12/30 23:18:21,Criou usuario Miguel Santos com id: 2
+1,0,Felipe,funcionario,2021/12/30 23:15:43,Criou usuario Jorgecom id: 1
+0,0,Felipe,funcionario,2021/12/30 23:11:56,Criou usuario Jorgecom id: 0

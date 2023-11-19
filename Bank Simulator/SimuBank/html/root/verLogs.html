@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-cv">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SimuBank Server Logs</title>
+    <link rel="stylesheet" href="/styles.css">
+    <script src="/handlers.js"></script>
+</head>
+<body>
+    <div id="cx0">
+        <h1>Simubank Server Logs</h1>
+        <table>
+            <thead>
+                <tr>
+                    <!--num,id, username, type, data, ocorrencia-->
+                    <th>Num</th>
+                    <th>Id</th>
+                    <th>UserName</th>
+                    <th>Tipo</th>
+                    <th>Data</th>
+                    <th>Ocorrencia</th>
+                </tr>
+            </thead>
+            <tbody class="data"> </tbody>
+            <!--Obs:mostar 200 logs por ves-->
+            <script>
+                let table = document.querySelector(".data")
+                counter = 0
+                function getLogs(){
+                    let users = fazerOperacao(`getLogs/${counter}`).status
+                    //console.log(users);
+                    users = users.split(";")
+                    //console.log(users);
+
+                    for (let i=0; i < (users.length - 1) ; i++){
+                        let user = users[i].split(",")
+                        
+                        let line = document.createElement("tr")
+                        line.innerHTML = `<td>${user[0]}</td><td>${user[1]}</td><td>${user[2]}</td><td>${user[3]}</td><td>${user[4]}</td><td>${user[5]}</td>`
+
+                        table.appendChild(line) 
+                        
+                    }
+                    counter += 1
+                }
+                
+                getLogs()
+            </script>
+        </table>
+
+        <input type="button" value="Carregar mais Logs" onclick="getLogs()">
+    </div>
+</body>
+</html>

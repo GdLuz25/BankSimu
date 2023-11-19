@@ -1,0 +1,69 @@
+mainData.dat
+    id,nome,pw,papel
+                ,cliente,dataAniversario,numConta, saldo,cni, email,
+                ,root,idconta
+                ,funcionario,idconta
+
+vars.dat
+    IDs, numConta, numero de log
+
+log.dat
+    num,id, username, type, data, ocorrencia
+ 
+saldo é calculado em base do historico, implementar historico com blockchain
+
+algoritimo do token
+    token é um hash em que o seu numero primario é uma combinação com password do usuario, data do dia presente e algum numero random
+
+tokens.dat
+    id, token
+
+.fazerOperação:
+    erro = {"status":"erro"}
+
+Request.java
+    quando o return é
+    0-string
+    1-path
+
+servidor:
+    -guardar parametros em ficheiro proprio;x
+    -adicionar parametros dinamicamente;x
+    -criar ficheiro temporario para guardar informações do usuario (junto com tokens);x
+    -hash nos passwords;x
+    -criptografar dados no servidor;
+    -garantir unicidade em username
+    -organizar logs por ficheiros (200logs por cada)
+    -desenvolver historico de transações baseado em blockchain; x
+    -calcular saldo baseado no historico; x
+    -fazer pasta pelo java;
+    -obter historico para o cliente;
+    -levantamento de saldo;
+    -
+    
+    
+frontend:
+    root:
+        verlogs
+        verPessoas
+        verAtivos
+            -algoritimo de definir usuarios online
+            calcular apartir dos minutos, se log for efectuado 3min atras é considerado online
+
+    
+servidor(2parte):
+    -gerir servidor apenas pelo root,
+        mostrar qtd de arquivos, memoria usada pelos arquivos e de todo o system
+        
+    -adicionar ficheiros imagem, html, js, css pelo root,
+        quando adicionado arquivo-- adicionar automaticamente no "paths.dat"
+    -reniciar servidor pelo root
+    -apagar todos os dados pelo root
+
+
+tranferencias:
+    transferencia/valor/receptorID
+
+
+corrigir erro de envia money para id inexistente
+log out

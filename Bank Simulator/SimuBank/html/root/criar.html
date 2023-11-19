@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Criar Pessoa SimuBank</title>
+    <link rel="stylesheet" href="/styles.css">
+    <script src="/handlers.js"></script>
+</head>
+<body>
+
+    <div id="cx0">
+        <p id="info"></p>
+        <h1>Criar Pessoa</h1>
+
+        <div id="criar">
+            <p><b>Tipo de Pessoa:</b></p>
+            
+            <div>
+            <input type="radio" id="func" name="pessoa" value="func" onchange="opcoes()">
+            <label for="func">Funcionario</label>
+            </div>
+
+            <div>
+            <input type="radio" id="cliente" name="pessoa" value="cliente" onchange="opcoes()">
+            <label for="cliente">Cliente</label>
+            </div>
+
+            <div id="criarDIV"></div>
+
+        </div>
+
+        <p><input type="button" value="Voltar" onclick="voltar()"></p>
+
+    </div>
+
+    <script>
+        info()
+        
+        function opcoes() {
+            if (document.getElementById("func").checked) func();
+            else if (document.getElementById("cliente").checked) cliente();
+        }
+
+        function func() {
+            let cdiv = document.getElementById("criarDIV")
+
+            let div = document.createElement("div")
+            div.id = "criarDIV"
+
+            let p3 = document.createElement("p")
+            p3.id = "warning"
+
+            let nome = document.createElement("input")
+            nome.type = "text"
+            nome.id = "nome"
+            nome.placeholder = "Nome:"
+            let p0 = document.createElement("p")
+            p0.appendChild(nome)
+            div.appendChild(p0)
+
+            let idConta = document.createElement("input")
+            idConta.type = "Number"
+            idConta.id = "idConta"
+            idConta.placeholder = "ID da Conta"
+            let p1 = document.createElement("p")
+            p1.appendChild(idConta)
+            div.appendChild(p1)
+
+            let btn = document.createElement("input")
+            btn.type = "button"
+            btn.id = "criar"
+            btn.value = "Criar Funcionario"
+            btn.onclick = function() {if (nome.value == "" || idConta == "") p3.innerHTML = "<b>Campos Vazios</b>";else finalizar(nome.value, idConta.value);}
+            let p2 = document.createElement("p")
+            p2.appendChild(btn)
+            div.appendChild(p2)
+
+            div.appendChild(p3)
+
+            cdiv.replaceWith(div)
+        }
+
+        function finalizar(nome, idConta)
+        {
+            let dat = `criarFuncionario/${nome}/${idConta}`
+            let dados = fazerOperacao(dat)
+        
+            let nomes = ["ID:","Nome:", "Senha:", "ID Conta:"]
+            let args = [dados.id, dados.nome, dados.pw, dados.idConta]
+
+            final("Funcionario", nomes, args, dados)
+        }
+    </script>
+    <style>
+        #dados {
+            margin-left: 50px;
+        }
+    </style>
+</body>
+</html>

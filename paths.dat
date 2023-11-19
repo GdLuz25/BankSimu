@@ -1,0 +1,18 @@
+/,SimuBank/index.html,0
+/login, ,1
+/SimuBank, ,1
+/login.js,SimuBank/js/login.js,0
+/handlers.js,SimuBank/js/handlers.js,0
+/styles.css,SimuBank/css/styles.css,0
+/cliente,SimuBank/html/cliente/index.html,0
+/cliente/transf,SimuBank/html/cliente/transferencia.html,0
+/cliente/emp,SimuBank/html/cliente/emprestimos.html,0
+/cliente/def,SimuBank/html/cliente/contaDef.html,0
+/funcionario,SimuBank/html/funcionario/index.html,0
+/funcionario/criar,SimuBank/html/funcionario/criar.html,0
+/funcionario/contaDef,SimuBank/html/funcionario/contaDef.html,0
+/funcionario/lev,SimuBank/html/funcionario/levantamento.html,0
+/root,SimuBank/html/root/index.html,0
+/root/users,SimuBank/html/root/verPessoas.html,0
+/root/logs,SimuBank/html/root/verLogs.html,0
+/root/criar,SimuBank/html/root/criar.html,0

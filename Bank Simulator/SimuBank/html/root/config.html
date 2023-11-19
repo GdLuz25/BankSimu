@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SimuBank System</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="handlers.js"></script>
+</head>
+<body>
+    <div id="cx0">
+        <h1>SimuBank ROOT</h1>
+        <p id="info"></p>
+        <p>
+            <input type="button" value="Gerenciar Arquivos" onclick="arq()">
+            <input type="button" value="Ver Logs" onclick="ver()">
+            <input type="button" value="Reniciar sistema" onclick="logs()">
+        </p>
+        <div id="SystemInfo">
+
+
+        </div>
+        <div id="logs">
+
+
+    </div>
+    <script>
+        info()
+
+        function arq() 
+        {
+            pedirPagina("arquivos")
+        }
+
+        function logs() 
+        {
+            pedirPagina("verLogs")
+        }
+
+    </script>
+</body>
+</html>

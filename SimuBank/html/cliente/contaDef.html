@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Definições</title>
+    <link rel="stylesheet" href="/styles.css">
+    <script src="/handlers.js"></script>
+</head>
+<body>
+    <div id="cx0">
+        <p id="info"></p>
+
+        <h1>Definições</h1>   
+        
+        <h3 onclick="Mostrar_mudarNome()">Alterar Definições Básicas</h3>
+        <div id="mudarNome"></div>
+
+        <h3 onclick="Mostrar_mudarSenha()">Mudar Senha</h3>
+        <div id="mudarSenha"></div>
+
+        <p><input type="button" value="Voltar" onclick="voltar()"></p>
+    </div>
+</body>
+<script>
+    var mN = true
+    var mS = true
+    info()
+
+    function Mostrar_mudarNome()
+    {
+        //obter nome e email do servidor
+        dados = fazerOperacao("getUserDetails")
+
+        let div = document.getElementById("mudarNome")
+        if (mN) {
+            let p1 = document.createElement("p")
+            p1.id = "warning"
+
+            //nome
+            let p0 = document.createElement("p")
+            p0.innerText = "Nome:"
+            p0.innerHTML += `<input type="text" class="name" value="${dados.nome}"">`
+            div.appendChild(p0)
+
+            //mudar email
+            div.innerHTML += `<p>Email: <input type="email" class="mail" value="${dados.email}"></p>`
+            
+            let nome = document.querySelector(".name")
+            let email = document.querySelector(".mail")
+
+
+            let p2 = document.createElement("p")
+            let btn = document.createElement("input")
+            btn.type = "button"
+            btn.value = "Guardar Alterações"
+            btn.onclick = function() {
+                if (nome.value != "") {
+                    let Ndiv = document.createElement("div")
+                    Ndiv.id = "mudarNome"
+                    let p =  document.createElement("p")
+
+                    let rsp = fazerOperacao(`AlterarDados/${nome.value}/${email.value}`)
+                    if (rsp.status == "DadosAlterados")
+                        p.innerHTML = "<b>Dados alterados com Sucesso!</b>";
+
+                    else p.innerHTML = "<b>Não foi possivel alterar dados</b>"
+
+                    Ndiv.appendChild(p)
+                    div.replaceWith(Ndiv)
+                }
+
+                else p1.innerHTML = "<b>Verificar Campo Nome!</b>";
+            }
+            p2.appendChild(btn)
+            div.appendChild(p2)
+
+            mN = false
+            
+        } else {
+            let ndiv = document.createElement("div")
+            ndiv.id = "mudarNome"
+            div.replaceWith(ndiv)
+            mN = true
+        }
+    }
+
+    function Mostrar_mudarSenha() 
+    {
+        let div = document.getElementById("mudarSenha")
+
+        if (mS)
+        {
+            let p1 = document.createElement('p')
+            p1.id = "warning"
+
+            args = [
+                ["senhaAtual", "Senha Atual"],
+                ["senhaNova", "Senha Nova"],
+                ["senhaNova1", "Confirmar Senha Nova"]
+            ]
+
+            for (let i = 0; i < args.length; i++)
+            {
+                let p0 = document.createElement("p")
+                p0.innerText = args[i][1] + ":"
+                let senha = document.createElement("input")
+                senha.type = "password"
+                senha.id = args[i][0]
+                senha.className = "box1"
+                senha.placeholder = "******"
+                p0.appendChild(senha)
+                div.appendChild(p0)
+            }
+
+            let p = document.createElement("p")
+            let btn = document.createElement("input")
+            btn.type = "button"
+            btn.id = "confirmar"
+            btn.value = "Mudar Senha"
+            btn.onclick = function() {
+                let senhaAtual = document.getElementById("senhaAtual").value
+                let novaSenha = document.getElementById("senhaNova").value
+                let senhaNova1 = document.getElementById("senhaNova1").value
+
+                if (senhaAtual != "" && novaSenha != "" && novaSenha == senhaNova1) mudarSenha(senhaAtual, novaSenha);
+                else p1.innerHTML = "<b>Verifique os Campos!</b>";
+            }
+            p.appendChild(btn)
+            div.appendChild(p)
+
+            div.appendChild(p1)
+            mS = false
+
+        } else{
+            let ndiv = document.createElement("div")
+            ndiv.id = "mudarSenha"
+            div.replaceWith(ndiv)
+            mS = true
+        }
+    }
+</script>
+</html>
