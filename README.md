@@ -1,32 +1,33 @@
 # BankSimu
-Sistema de Banco Online
+Online Banking System
 
-`Este projeto é um sistema de banco online, onde há 3 tipos de players involvidos, os clientes, funcionarios do banco e gerente:
--Os clientes podem fazer transferencia entre si, consultar transações e saldo disponivel, mudar sua senha.
--Os funcionarios podem adicionar clientes ao sistema, fazer levantamentos ou depositos para os clientes
--O Gerente(root) tem o poder de ver todos os clientes e funcionarios do sistema, podendo adicionar, deletar ou modificar os clientes ou funcionarios.
+`This project is an online banking system, where there are 3 types of players involved, customers, bank employees and managers:
+-Customers can make transfers between themselves, check transactions and available balance, change their password.
+-Employees can add customers to the system, make withdrawals or deposits for customers
+-The Manager (root) has the power to see all customers and employees in the system, being able to add, delete or modify customers or employees.
 
-Para executar o Sistema:
-- Compila o server.java "javac server.java"
-a classe main do projeto esta localizado em server.java
-- executa o server "java server"
-No linux é necessario executar com sudo "sudo java server"
-Enquanto que windows, so permitir a aplicação no firewall
-- Agora no navegador/ browser, digite o seu IP local ou "localhost:80"
+To run the System:
+- Compiles server.java "javac server.java"
+The project's main class is located in server.java
+- runs the "java server" server
+In Linux you need to run with sudo "sudo java server"
+While Windows, only allow the application on the firewall
+- Now in the browser, enter your local IP or "localhost:80"
+- Login Information-> the root account: ID:0 or ID:root Password:1234 
 
 
-Sobre o sistema:
-- O Sistema opera um servidor HTTP na porta 80
-- O sistema utliza java no backend
-- Para apresentação dos dados no browser utiliza HTML, CSS e Javascript puro 
-- As transações feitas neste banco são mantidos em blockchain e utilizando sha256
-- As palavra-passe são guardadas em sha256 
+About the system:
+- The System operates an HTTP server on port 80
+- The system uses Java in the backend
+- To present data in the browser, it uses HTML, CSS and pure Javascript
+- Transactions made in this bank are kept on blockchain and using sha256
+- Passwords are stored in sha256
 
-Base de dados do Sistema:
-- Este sistema utiliza no-sql propria, onde os dados são armazenados em CSV (comma separated value)
-- Os dados de todos os usuario do sistema é armazenado em ./DATA/mainData.dat
-- as transações globais são guardas no ./DATA/historico.dat e em cada transaçõe é feita um verificação para validar a cadeia de blocos
-- quando é referenciado um cliente, uma copia dessa transação é guardada no historico do cliente em ./DATA/clientes/_ID_CLIENTE.dat
-e esse historico pessoal de cada cliente é utilizado somente acelerar apresentação do historico das transação para o respectivo cliente
-- os clientes deletados do sistema, seus dados e historico são armazenados em ./deleted/users.dat
-- *** Para mais informações sobre o base de dados consulta "notas.txt" ***
+System Database:
+- This system uses no-sql itself, where the data is stored in CSV (comma separated value)
+- Data from all system users is stored in ./DATA/mainData.dat
+- global transactions are stored in ./DATA/historico.dat and each transaction is checked to validate the blockchain
+- when a customer is referenced, a copy of that transaction is saved in the customer's history in ./DATA/clientes/_ID_CUSTOMER.dat
+and this personal history of each customer is used only to speed up presentation of the transaction history for the respective customer
+- customers deleted from the system, their data and history are stored in ./deleted/users.dat
+- *** For more information about the database, consult "notas.txt" ***
